@@ -36,7 +36,7 @@
  
  - **Database (dialect)** choose appropriate dialect based on  connection. 
  
->**Note:** based on priority, more dislects can 
+>**Note:** Based on priority, more number of dialects can be introduced.
 
 - **Host**  Database host path.
 
@@ -91,5 +91,5 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY1NjE4NjAsLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbLTIwODQxNzQwNzYsLTgwMjQ3MDkwXX0=
 -->
