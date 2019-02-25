@@ -44,6 +44,8 @@
 
 - **Username and Password** Credentials used to connect the database.
 
+- **Temporary Database** 
+
 - **Maximum connection** Concurrent connection used by  database.
 
 - **Additional Parameters** Additional JDBC parameter used.
@@ -91,5 +93,5 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQxNzQwNzYsLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbLTY4NzcyMzE5LC04MDI0NzA5MF19
 -->
