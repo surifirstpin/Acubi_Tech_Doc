@@ -82,19 +82,17 @@
 
    **6.** Click **Edit** option to make any changes to connection established.
    
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eae5d23007893f45fcaab8db33c5a707e1a7911a/images/edit_conn.png)
-
 ## Delete a connection
 
 **7.** Click **Delete**  to delete the connection from database.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eae5d23007893f45fcaab8db33c5a707e1a7911a/images/del_conn.png)
 
 ##  Dialects supported
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk3MjAxMzksMTUyMDg3OTcyMCwyMT
-Q2NDI2NDY5LDIwNDc0NjIyNDgsLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbMTA4OTAyMjE4OCwtMTM1OTcyMDEzOSwxNT
+IwODc5NzIwLDIxNDY0MjY0NjksMjA0NzQ2MjI0OCwtODAyNDcw
+OTBdfQ==
 -->
