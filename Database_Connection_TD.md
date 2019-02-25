@@ -26,8 +26,11 @@
  **1.** Click on **Database Section** to setup a database connection.
 
  **2.** Click on **New Connection**  button to start setting up the connection to database. In general, specify the below mentioned fields:
- 
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
+  
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/b9756e1483bd0d90240ab79291ca14627ae39368/images/New_version5/TD_Database_Connection_image1.png)
+
+*Enter the following details in New connection page ;*
 
 -  **Name** specify a name to define connection.
  
@@ -87,5 +90,5 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbLTM2MTkwMjQyMSwtODAyNDcwOTBdfQ==
 -->
