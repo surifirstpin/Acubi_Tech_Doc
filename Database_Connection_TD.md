@@ -35,6 +35,7 @@
 -  **Name** specify a name to define connection.
  
  - **Database (dialect)** choose appropriate dialect based on  connection. 
+ 
 >**Note:** As per your requirement, we can include the dialects needed to run the business.
 
 - **Host**  Database host path.
@@ -90,5 +91,5 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTkwMjQyMSwtODAyNDcwOTBdfQ==
+eyJoaXN0b3J5IjpbNzQ2NzAyOTY3LC04MDI0NzA5MF19
 -->
