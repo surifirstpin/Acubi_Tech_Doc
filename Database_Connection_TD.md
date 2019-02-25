@@ -64,6 +64,9 @@
   - SSH port of the tunnel server as seen from the public internet.
   - Username on the tunnel server for the SSH connection (the standard is looker).
   
+  ![
+](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
+
 **3.** **Dialects** select the accurate dialect from the list using drop down option.
 
 ## Test and Save Connection
@@ -92,6 +95,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDg3OTcyMCwyMTQ2NDI2NDY5LDIwND
-c0NjIyNDgsLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbLTEzNTk3MjAxMzksMTUyMDg3OTcyMCwyMT
+Q2NDI2NDY5LDIwNDc0NjIyNDgsLTgwMjQ3MDkwXX0=
 -->
