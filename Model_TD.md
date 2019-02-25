@@ -18,7 +18,7 @@ A model is a customized gateway into the database for accessing data as per busi
 **1.**  Click **New Project** button, to create a new project in a model.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/3a9de750e2fda00610d242df7a5584cfe48d8cea/images/new_project.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/00615483357376318b721b9cf15a41579b9461ea/images/New_version5/TD_Model_image1.png)
 
 **Following are the list of entries made while creating a project;**
 
@@ -645,5 +645,5 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTQ1NDY5NF19
+eyJoaXN0b3J5IjpbMTIwNDU2MjI1MywxMTc5NDU0Njk0XX0=
 -->
