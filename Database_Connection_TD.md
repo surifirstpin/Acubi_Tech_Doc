@@ -80,6 +80,9 @@
 
 ## Edit a connection
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/bb8fa15c4665b7b50dbfaa9191605b04a70bfdf0/images/New_version5/TD_Database_Connection_image3.png)
+
    **6.** Click **Edit** option to make any changes to connection established.
    
 ## Delete a connection
@@ -92,7 +95,7 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTAyMjE4OCwtMTM1OTcyMDEzOSwxNT
+eyJoaXN0b3J5IjpbMTk4NzU5NTMwMCwtMTM1OTcyMDEzOSwxNT
 IwODc5NzIwLDIxNDY0MjY0NjksMjA0NzQ2MjI0OCwtODAyNDcw
 OTBdfQ==
 -->
