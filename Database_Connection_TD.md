@@ -69,7 +69,7 @@
 ## Test and Save Connection
 
 **4.** **Test Connection** check if the entered information is running accurately.
-> on hitting the test connection button, it displays a success message if all the entered information is 
+> on hitting the test connection button, it displays a success message if all the entered information is correct, if not displays a error message. 
 
 **5.** **Add Connection** establish and save the connection.
 
@@ -92,6 +92,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjQwMTI2MSwyMTQ2NDI2NDY5LDIwND
+eyJoaXN0b3J5IjpbMTUyMDg3OTcyMCwyMTQ2NDI2NDY5LDIwND
 c0NjIyNDgsLTgwMjQ3MDkwXX0=
 -->
