@@ -32,7 +32,7 @@ A model is a customized gateway into the database for accessing data as per busi
 - **Database** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/94a885c012491ba11e96367e359fc5a65526085e/images/New_version5/TD_Model_image3.png)
 
 - **Tables** Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under **Selected Tables** section.
 
@@ -645,6 +645,6 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NzIxMzcxLC04MTEyMDI2NTksMTIwND
-U2MjI1MywxMTc5NDU0Njk0XX0=
+eyJoaXN0b3J5IjpbLTI5NzI3NDUxMiwzNDg3MjEzNzEsLTgxMT
+IwMjY1OSwxMjA0NTYyMjUzLDExNzk0NTQ2OTRdfQ==
 -->
