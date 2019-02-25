@@ -74,7 +74,7 @@
 
 **5.** **Add Connection** establish and save the connection.
 
->After establishing the connection you can see the list of connections names on left side toolbar
+>After establishing the connection you can see the list of connections names on left side toolbar of database section.
 
 ## Edit a connection
 
@@ -93,5 +93,5 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzcyMzE5LC04MDI0NzA5MF19
+eyJoaXN0b3J5IjpbMjA0NzQ2MjI0OCwtODAyNDcwOTBdfQ==
 -->
