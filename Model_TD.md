@@ -51,9 +51,9 @@ A model is a customized gateway into the database for accessing data as per busi
     -   **Public**  report is saved in public section are accessed by all the users.
    
     -   **Share**  report saved under share section are accessed by specific group of users only.
-
+    
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/8dcf17faa6e3f50d5f3f79ae269a02c1eb7237c9/images/save_project.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/ffa4998a87ebeece5d3fde4f2930b83243e9b4a8/images/New_version5/TD_Model_image5.png)
 
 
 **3.** Once all the entries are made, click on  **Save Project**  to save the project created.
@@ -646,8 +646,8 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQwMDg5NjgsMjIyMzk0NjMsLTE0OT
-A2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwzNDg3MjEz
-NzEsLTgxMTIwMjY1OSwxMjA0NTYyMjUzLDExNzk0NTQ2OTRdfQ
-==
+eyJoaXN0b3J5IjpbLTE1MzUzMDE5ODEsLTIwNzQwMDg5NjgsMj
+IyMzk0NjMsLTE0OTA2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3
+NDUxMiwzNDg3MjEzNzEsLTgxMTIwMjY1OSwxMjA0NTYyMjUzLD
+ExNzk0NTQ2OTRdfQ==
 -->
