@@ -58,7 +58,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 **3.** Once all the entries are made, click on  **Save Project**  to save the project created.
 
-All the saved projects are visible on left hand side under projects.
+> **Note:** All the saved projects are visible on left hand side under projects.
 
 ## Edit Project
 
@@ -648,8 +648,8 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk1ODY1NjQsLTIwNzQwMDg5NjgsMj
-IyMzk0NjMsLTE0OTA2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3
-NDUxMiwzNDg3MjEzNzEsLTgxMTIwMjY1OSwxMjA0NTYyMjUzLD
-ExNzk0NTQ2OTRdfQ==
+eyJoaXN0b3J5IjpbOTQ2NjAzNDkwLC0yMDc0MDA4OTY4LDIyMj
+M5NDYzLC0xNDkwNjY4MTcyLC0xNjE4NzE2MDczLC0yOTcyNzQ1
+MTIsMzQ4NzIxMzcxLC04MTEyMDI2NTksMTIwNDU2MjI1MywxMT
+c5NDU0Njk0XX0=
 -->
