@@ -64,6 +64,9 @@ A model is a customized gateway into the database for accessing data as per busi
 
 - Click on Projects, select the desired project and hit the **Edit** button.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/e535debfb80662d425803114d0399ad21e615cda/images/New_version5/TD_Model_image6.png)
+
 - After making necessary changes hit the **Update** button.
 
 - To cancel the changes made to a project hit **Cancel** button.
@@ -72,8 +75,6 @@ A model is a customized gateway into the database for accessing data as per busi
 
 To delete the project created hit the **Delete** icon, on far right of the project list.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/4f558666a7432cd24c9c87474855b50c6b9996b4/images/edit_project.png)
 
 
 ## Model and Customization
@@ -648,8 +649,8 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2NjAzNDkwLC0yMDc0MDA4OTY4LDIyMj
-M5NDYzLC0xNDkwNjY4MTcyLC0xNjE4NzE2MDczLC0yOTcyNzQ1
-MTIsMzQ4NzIxMzcxLC04MTEyMDI2NTksMTIwNDU2MjI1MywxMT
-c5NDU0Njk0XX0=
+eyJoaXN0b3J5IjpbMTAyNjM0NTE3MCw5NDY2MDM0OTAsLTIwNz
+QwMDg5NjgsMjIyMzk0NjMsLTE0OTA2NjgxNzIsLTE2MTg3MTYw
+NzMsLTI5NzI3NDUxMiwzNDg3MjEzNzEsLTgxMTIwMjY1OSwxMj
+A0NTYyMjUzLDExNzk0NTQ2OTRdfQ==
 -->
