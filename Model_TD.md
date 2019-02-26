@@ -75,7 +75,8 @@ A model is a customized gateway into the database for accessing data as per busi
 
 To delete the project created hit the **Delete** icon, on far right of the project list.
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/66530cb4c6a170b9703c654fdad1927190ba7a60/images/New_version5/TD_Model_image7.png)
 
 ## Model and Customization
 
@@ -649,8 +650,8 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjM0NTE3MCw5NDY2MDM0OTAsLTIwNz
-QwMDg5NjgsMjIyMzk0NjMsLTE0OTA2NjgxNzIsLTE2MTg3MTYw
-NzMsLTI5NzI3NDUxMiwzNDg3MjEzNzEsLTgxMTIwMjY1OSwxMj
-A0NTYyMjUzLDExNzk0NTQ2OTRdfQ==
+eyJoaXN0b3J5IjpbMjAzMjk2MTU0LDk0NjYwMzQ5MCwtMjA3ND
+AwODk2OCwyMjIzOTQ2MywtMTQ5MDY2ODE3MiwtMTYxODcxNjA3
+MywtMjk3Mjc0NTEyLDM0ODcyMTM3MSwtODExMjAyNjU5LDEyMD
+Q1NjIyNTMsMTE3OTQ1NDY5NF19
 -->
