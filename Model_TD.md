@@ -97,8 +97,9 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 
 **8.** To save the model click on **Save** button.
 
+
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/2f6c93abe9911466191907d22275ea75f778c0e4/images/model_new2.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/277037f93bc45d7c04c5c27d596cc7e7e3adf0d5/images/New_version5/TD_Model_image9.png)
 
 **Customization for a model can be carried out in following ways :**
 
@@ -647,9 +648,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Congo, (Kinshasa) | COD |  | Hong Kong, SAR China | HKG |  | Montenegro | MNE |  | Svalbard and Jan Mayen Islands | SJM |  | Zambia | ZMB |
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE2MzUzNTYsMjAzMjk2MTU0LDk0Nj
-YwMzQ5MCwtMjA3NDAwODk2OCwyMjIzOTQ2MywtMTQ5MDY2ODE3
-MiwtMTYxODcxNjA3MywtMjk3Mjc0NTEyLDM0ODcyMTM3MSwtOD
-ExMjAyNjU5LDEyMDQ1NjIyNTMsMTE3OTQ1NDY5NF19
+eyJoaXN0b3J5IjpbODU2Mjg0NzU5LC0yMDgxNjM1MzU2LDIwMz
+I5NjE1NCw5NDY2MDM0OTAsLTIwNzQwMDg5NjgsMjIyMzk0NjMs
+LTE0OTA2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwzND
+g3MjEzNzEsLTgxMTIwMjY1OSwxMjA0NTYyMjUzLDExNzk0NTQ2
+OTRdfQ==
 -->
