@@ -36,14 +36,15 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/94a885c012491ba11e96367e359fc5a65526085e/images/New_version5/TD_Model_image3.png)
-###
+
+### Step 4
 - **Tables** Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under **Selected Tables** section.
 
 **2.** **Auto Build Joins (check box)** On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a7917cd2c9ad40f7abbfe85519a69bc3e9a8af45/images/New_version5/TD_Model_image4.png)
-
+### Step 5
 -   **Privacy** you can save the project in any one of the following privacy option.
 
     -   **Private**  report saved in private section are accessed by the existing user only.
@@ -645,7 +646,8 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjUzNDUwNiwyMjIzOTQ2MywtMTQ5MD
-Y2ODE3MiwtMTYxODcxNjA3MywtMjk3Mjc0NTEyLDM0ODcyMTM3
-MSwtODExMjAyNjU5LDEyMDQ1NjIyNTMsMTE3OTQ1NDY5NF19
+eyJoaXN0b3J5IjpbLTIwNzQwMDg5NjgsMjIyMzk0NjMsLTE0OT
+A2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwzNDg3MjEz
+NzEsLTgxMTIwMjY1OSwxMjA0NTYyMjUzLDExNzk0NTQ2OTRdfQ
+==
 -->
