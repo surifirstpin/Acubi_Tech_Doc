@@ -456,9 +456,11 @@ Once the view is created, label the database field and derive the custom table u
 - **Type** datatype used for deriving a custom table.
 - **Database** table is used to retrieve the data fields.
 - **Connection** establish the database connection for deriving new fields.
-Click Save to Save the View in database.
+## Save View
+Click **Save** to Save the View in database.
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/55cfae57f76a2b3fd0dc9dacb855113be7260f7d/images/New_version5/TD_Model_image11.png)
 
 ##  Arithmetical operations in Custom Fields
 ```
@@ -652,7 +654,7 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTA3MjQ4MSwxOTE0NjM2MTYwLC0zNT
+eyJoaXN0b3J5IjpbLTYzMDg5MzA0MSwxOTE0NjM2MTYwLC0zNT
 MxMzQ5MzEsODU2Mjg0NzU5LC0yMDgxNjM1MzU2LDIwMzI5NjE1
 NCw5NDY2MDM0OTAsLTIwNzQwMDg5NjgsMjIyMzk0NjMsLTE0OT
 A2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwzNDg3MjEz
