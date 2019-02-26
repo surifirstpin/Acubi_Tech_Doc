@@ -39,7 +39,7 @@ A model is a customized gateway into the database for accessing data as per busi
 **2.** **Auto Build Joins (check box)** On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model%204.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/a7917cd2c9ad40f7abbfe85519a69bc3e9a8af45/images/New_version5/TD_Model_image4.png)
 
 -   **Privacy** you can save the project in any one of the following privacy option.
 
@@ -642,7 +642,7 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjIxODYyNTIsLTE2MTg3MTYwNzMsLT
+eyJoaXN0b3J5IjpbLTE0OTA2NjgxNzIsLTE2MTg3MTYwNzMsLT
 I5NzI3NDUxMiwzNDg3MjEzNzEsLTgxMTIwMjY1OSwxMjA0NTYy
 MjUzLDExNzk0NTQ2OTRdfQ==
 -->
