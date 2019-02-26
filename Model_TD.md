@@ -93,11 +93,9 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4822775225f357a86fd13bbd40a05c88bd0fca0a/images/New_version5/TD_Model_image8.png)
 
-**7.**  To hide and unlist of model and views visible click on **angle double left** Icon.
+**7.**  To hide and unhide,  model and views list click on **Angle double left** and **Angle double right** Icon.
 
-**8.** To view list of models and views click on **angle double right** icon.
-
-**9.** To save the model click on **Save** button.
+**8.** To save the model click on **Save** button.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/2f6c93abe9911466191907d22275ea75f778c0e4/images/model_new2.png)
@@ -650,7 +648,7 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQzOTgwMzksMjAzMjk2MTU0LDk0Nj
+eyJoaXN0b3J5IjpbLTIwODE2MzUzNTYsMjAzMjk2MTU0LDk0Nj
 YwMzQ5MCwtMjA3NDAwODk2OCwyMjIzOTQ2MywtMTQ5MDY2ODE3
 MiwtMTYxODcxNjA3MywtMjk3Mjc0NTEyLDM0ODcyMTM3MSwtOD
 ExMjAyNjU5LDEyMDQ1NjIyNTMsMTE3OTQ1NDY5NF19
