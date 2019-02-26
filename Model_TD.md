@@ -216,7 +216,7 @@ Views are independent tables chosen while creating a project. All the columns in
 
 **AcuBi allows various actions to performed in views as follows:**
 
--  Creating a new field (User Defined Fields).
+-  Creating a new field ( User Defined Fields ).
 
 -  Defining the output in a new field as resultant of arithmetical or logical operations among the database fields of the self view or from mapped views.
 
@@ -650,9 +650,9 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2Mjg0NzU5LC0yMDgxNjM1MzU2LDIwMz
-I5NjE1NCw5NDY2MDM0OTAsLTIwNzQwMDg5NjgsMjIyMzk0NjMs
-LTE0OTA2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwzND
-g3MjEzNzEsLTgxMTIwMjY1OSwxMjA0NTYyMjUzLDExNzk0NTQ2
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTM1MzEzNDkzMSw4NTYyODQ3NTksLTIwOD
+E2MzUzNTYsMjAzMjk2MTU0LDk0NjYwMzQ5MCwtMjA3NDAwODk2
+OCwyMjIzOTQ2MywtMTQ5MDY2ODE3MiwtMTYxODcxNjA3MywtMj
+k3Mjc0NTEyLDM0ODcyMTM3MSwtODExMjAyNjU5LDEyMDQ1NjIy
+NTMsMTE3OTQ1NDY5NF19
 -->
