@@ -408,9 +408,9 @@ Custom fields are user defined fields for which we apply arithmetic  and logical
 **1.** Click on **New Empty view** to create or derive a new custom view table.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/3b50165c4cf02e474b87d097aa2f8b0897fae1ae/images/custom_table.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/cf5946b2b83468c906303fc1b8480de242f0d17b/images/New_version5/TD_Model_image10.png)
 
-**2.** Once the view is created, label the database field and derive the custom table using a SQL query as a result a derived table is created.
+Once the view is created, label the database field and derive the custom table using a SQL query as a result a derived table is created.
 ``` 
 {
 "name": "CustomView_820",
@@ -650,9 +650,9 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzEzNDkzMSw4NTYyODQ3NTksLTIwOD
-E2MzUzNTYsMjAzMjk2MTU0LDk0NjYwMzQ5MCwtMjA3NDAwODk2
-OCwyMjIzOTQ2MywtMTQ5MDY2ODE3MiwtMTYxODcxNjA3MywtMj
-k3Mjc0NTEyLDM0ODcyMTM3MSwtODExMjAyNjU5LDEyMDQ1NjIy
-NTMsMTE3OTQ1NDY5NF19
+eyJoaXN0b3J5IjpbMTkxNDYzNjE2MCwtMzUzMTM0OTMxLDg1Nj
+I4NDc1OSwtMjA4MTYzNTM1NiwyMDMyOTYxNTQsOTQ2NjAzNDkw
+LC0yMDc0MDA4OTY4LDIyMjM5NDYzLC0xNDkwNjY4MTcyLC0xNj
+E4NzE2MDczLC0yOTcyNzQ1MTIsMzQ4NzIxMzcxLC04MTEyMDI2
+NTksMTIwNDU2MjI1MywxMTc5NDU0Njk0XX0=
 -->
