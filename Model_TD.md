@@ -376,7 +376,7 @@ Where condition is an expression defined on the fields of self view or mapped vi
    "sql": "(${TABLE}.Field * ${DB}.function_name(parameters)) "
 ```
 
-> **Example**  “sql” : “(${TABLE}.Amount  KaTeX parse error: Expected 'EOF', got '​' at position 51: …te(DB.exchanger​̲ate({TABLE}.OrderDate,${TABLE}.CurrencyID))”
+> **Example**  “sql” : “(${TABLE}.Amount  KaTeX parse error: Expected 'EOF', got '​' at position 51: …te(DB.exchanger​̲ate({TABLE}.OrderDate,${TABLE}. CurrencyID))”
 
 **6.**  As a resultant of string, date, number based sql functions on fields
 
@@ -654,10 +654,10 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDg5MzA0MSwxOTE0NjM2MTYwLC0zNT
-MxMzQ5MzEsODU2Mjg0NzU5LC0yMDgxNjM1MzU2LDIwMzI5NjE1
-NCw5NDY2MDM0OTAsLTIwNzQwMDg5NjgsMjIyMzk0NjMsLTE0OT
-A2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwzNDg3MjEz
-NzEsLTgxMTIwMjY1OSwxMjA0NTYyMjUzLDExNzk0NTQ2OTRdfQ
-==
+eyJoaXN0b3J5IjpbLTIwNDY3ODQ1NzUsLTYzMDg5MzA0MSwxOT
+E0NjM2MTYwLC0zNTMxMzQ5MzEsODU2Mjg0NzU5LC0yMDgxNjM1
+MzU2LDIwMzI5NjE1NCw5NDY2MDM0OTAsLTIwNzQwMDg5NjgsMj
+IyMzk0NjMsLTE0OTA2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3
+NDUxMiwzNDg3MjEzNzEsLTgxMTIwMjY1OSwxMjA0NTYyMjUzLD
+ExNzk0NTQ2OTRdfQ==
 -->
