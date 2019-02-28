@@ -90,7 +90,7 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 
 **6.** To format the code, for a proper alignment, click **Format Code**.
 
-
+8
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4822775225f357a86fd13bbd40a05c88bd0fca0a/images/New_version5/TD_Model_image8.png)
 
@@ -655,7 +655,7 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE1ODU2MjMsMjExMzU3NjM3OSwtMj
+eyJoaXN0b3J5IjpbLTE4OTEzODc3NTcsMjExMzU3NjM3OSwtMj
 A0Njc4NDU3NSwtNjMwODkzMDQxLDE5MTQ2MzYxNjAsLTM1MzEz
 NDkzMSw4NTYyODQ3NTksLTIwODE2MzUzNTYsMjAzMjk2MTU0LD
 k0NjYwMzQ5MCwtMjA3NDAwODk2OCwyMjIzOTQ2MywtMTQ5MDY2
