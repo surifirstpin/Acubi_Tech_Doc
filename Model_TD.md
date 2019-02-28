@@ -504,7 +504,7 @@ Click **Save** to Save the View in database.
 - **Data_type** define supporting parameters and string is used as  default parameter while deriving the fields for custom table.
    - **String** for measures that contain letters or special characters.
   - **Date** measures that contain dates.
-  - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month , date_quarter, date_hour, year_week.
+  - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month, date_quarter, date_hour, year_week.
   - **Number** for the measure that contain number.
   - **Int** for the measure that contains integers.
  - **Type** can be used as part of dimension or measure.
@@ -654,10 +654,10 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY3ODQ1NzUsLTYzMDg5MzA0MSwxOT
-E0NjM2MTYwLC0zNTMxMzQ5MzEsODU2Mjg0NzU5LC0yMDgxNjM1
-MzU2LDIwMzI5NjE1NCw5NDY2MDM0OTAsLTIwNzQwMDg5NjgsMj
-IyMzk0NjMsLTE0OTA2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3
-NDUxMiwzNDg3MjEzNzEsLTgxMTIwMjY1OSwxMjA0NTYyMjUzLD
-ExNzk0NTQ2OTRdfQ==
+eyJoaXN0b3J5IjpbMjExMzU3NjM3OSwtMjA0Njc4NDU3NSwtNj
+MwODkzMDQxLDE5MTQ2MzYxNjAsLTM1MzEzNDkzMSw4NTYyODQ3
+NTksLTIwODE2MzUzNTYsMjAzMjk2MTU0LDk0NjYwMzQ5MCwtMj
+A3NDAwODk2OCwyMjIzOTQ2MywtMTQ5MDY2ODE3MiwtMTYxODcx
+NjA3MywtMjk3Mjc0NTEyLDM0ODcyMTM3MSwtODExMjAyNjU5LD
+EyMDQ1NjIyNTMsMTE3OTQ1NDY5NF19
 -->
