@@ -507,7 +507,7 @@ Click **Save** to Save the View in database.
   - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month, date_quarter, date_hour, year_week.
   - **Number** for the measure that contain number.
   - **Int** for the measure that contains integers.
- - **Type** can be used as part of dimension or measure.
+  - **Type** can be used as part of dimension or measure.
 
 ## Lookups
 
@@ -654,11 +654,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzc1ODYzNywyMTEzNTc2Mzc5LC0xOD
-kxMzg3NzU3LDIxMTM1NzYzNzksLTIwNDY3ODQ1NzUsLTYzMDg5
-MzA0MSwxOTE0NjM2MTYwLC0zNTMxMzQ5MzEsODU2Mjg0NzU5LC
-0yMDgxNjM1MzU2LDIwMzI5NjE1NCw5NDY2MDM0OTAsLTIwNzQw
-MDg5NjgsMjIyMzk0NjMsLTE0OTA2NjgxNzIsLTE2MTg3MTYwNz
-MsLTI5NzI3NDUxMiwzNDg3MjEzNzEsLTgxMTIwMjY1OSwxMjA0
-NTYyMjUzXX0=
+eyJoaXN0b3J5IjpbLTE1MjU5NTg2OTMsLTg0Nzc1ODYzNywyMT
+EzNTc2Mzc5LC0xODkxMzg3NzU3LDIxMTM1NzYzNzksLTIwNDY3
+ODQ1NzUsLTYzMDg5MzA0MSwxOTE0NjM2MTYwLC0zNTMxMzQ5Mz
+EsODU2Mjg0NzU5LC0yMDgxNjM1MzU2LDIwMzI5NjE1NCw5NDY2
+MDM0OTAsLTIwNzQwMDg5NjgsMjIyMzk0NjMsLTE0OTA2NjgxNz
+IsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwzNDg3MjEzNzEsLTgx
+MTIwMjY1OV19
 -->
