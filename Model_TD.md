@@ -230,7 +230,7 @@ Views are independent tables chosen while creating a project. All the columns in
 
 The Associated keywords with the views are flowing :
 
-|  **S. No** | **Name** | **Identifier of a custom field** |
+|  **S.No** | **Name** | **Identifier of a custom field** |
 |  :------ | :------: | :------: |
 |  1 | label | allows to customize the display name of the view in AcuBi |
 |  2 | data_type | the outcome of the field from database it can be string, date or number |
@@ -654,11 +654,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzU3NjM3OSwtMTg5MTM4Nzc1NywyMT
-EzNTc2Mzc5LC0yMDQ2Nzg0NTc1LC02MzA4OTMwNDEsMTkxNDYz
-NjE2MCwtMzUzMTM0OTMxLDg1NjI4NDc1OSwtMjA4MTYzNTM1Ni
-wyMDMyOTYxNTQsOTQ2NjAzNDkwLC0yMDc0MDA4OTY4LDIyMjM5
-NDYzLC0xNDkwNjY4MTcyLC0xNjE4NzE2MDczLC0yOTcyNzQ1MT
-IsMzQ4NzIxMzcxLC04MTEyMDI2NTksMTIwNDU2MjI1MywxMTc5
-NDU0Njk0XX0=
+eyJoaXN0b3J5IjpbLTg0Nzc1ODYzNywyMTEzNTc2Mzc5LC0xOD
+kxMzg3NzU3LDIxMTM1NzYzNzksLTIwNDY3ODQ1NzUsLTYzMDg5
+MzA0MSwxOTE0NjM2MTYwLC0zNTMxMzQ5MzEsODU2Mjg0NzU5LC
+0yMDgxNjM1MzU2LDIwMzI5NjE1NCw5NDY2MDM0OTAsLTIwNzQw
+MDg5NjgsMjIyMzk0NjMsLTE0OTA2NjgxNzIsLTE2MTg3MTYwNz
+MsLTI5NzI3NDUxMiwzNDg3MjEzNzEsLTgxMTIwMjY1OSwxMjA0
+NTYyMjUzXX0=
 -->
