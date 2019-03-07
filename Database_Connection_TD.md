@@ -1,4 +1,4 @@
-
++
 
 
 <center><h1>Database Connection</h1></center>
@@ -95,7 +95,7 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzU5NTMwMCwtMTM1OTcyMDEzOSwxNT
-IwODc5NzIwLDIxNDY0MjY0NjksMjA0NzQ2MjI0OCwtODAyNDcw
-OTBdfQ==
+eyJoaXN0b3J5IjpbMTQ3OTkwNDIxMSwxOTg3NTk1MzAwLC0xMz
+U5NzIwMTM5LDE1MjA4Nzk3MjAsMjE0NjQyNjQ2OSwyMDQ3NDYy
+MjQ4LC04MDI0NzA5MF19
 -->
