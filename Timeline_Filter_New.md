@@ -7,7 +7,8 @@
 |  **Example** | **Description** |
 |  :------: | :------: |
 |  today | from zero hour of today to current point of time |
-|  this second | current point of time |
+|  this second | current
+ point of time |
 |  this minute | from zero seconds of current minute to the current point of time |
 |  this hour | from zero seconds of current hour to the current point of time |
 |  this week | from zero hour of current week start date to current point of time |
@@ -309,5 +310,6 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk5MTk0NCwxOTg1MDczNzQ4XX0=
+eyJoaXN0b3J5IjpbLTUxNjE4NzgwMiwtMTg4OTkxOTQ0LDE5OD
+UwNzM3NDhdfQ==
 -->
