@@ -200,6 +200,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  print | Return the results after interpolating a value into a string template | bi.print(“String $Value String”,{Value : number})<br/>Ex: bi.print('John is $age years old', {age: 8}) returns<br/> 'John mark is 8 years old' |
 
 ### Relational
+
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  compare | Returns -1, 1, 0 after comparing two given values<br/>Syntax: bi.compare(x,y) <br/>Returns -1 if x<y<br/>Returns 1 if x >y<br/>Returns 0 if x=y | bi.compare(6,2) = 1,<br/>bi.compare(2,6) = -1,<br/>bi.compare(6,6) = 0 |
@@ -436,5 +437,5 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0NTgyNzc0XX0=
+eyJoaXN0b3J5IjpbMTYxOTgwMTY4LDcxNDU4Mjc3NF19
 -->
