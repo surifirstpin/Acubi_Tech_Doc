@@ -46,7 +46,7 @@ After navigating to Calculated Column Window, Enter all the below fields.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
-- Click **OK** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
+- Click **OK** after deriving the expression,  all the values based on calculation is shown up in green color, as shown in below image,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
@@ -438,6 +438,6 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTcwNTc2MTAsLTQ2ODAyNTA4MCwxNj
-E5ODAxNjgsNzE0NTgyNzc0XX0=
+eyJoaXN0b3J5IjpbLTcxOTI4MjM0OSwtMTU5NzA1NzYxMCwtND
+Y4MDI1MDgwLDE2MTk4MDE2OCw3MTQ1ODI3NzRdfQ==
 -->
