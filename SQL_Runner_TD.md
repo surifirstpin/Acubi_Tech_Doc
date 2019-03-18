@@ -3,7 +3,7 @@
 
 <center><h1>SQL Runner </h1></center>
 
-Using SQL Runner you can directly access database and clout the access in variety of ways. it can easily set up the connection, and navigate the tables under your schema. In sql runner you can run the  pre-written SQL queries, view run history and create custom views and perform useful task with them in model section.  
+Using SQL Runner, you can directly access database and clout the access in variety of ways. it can easily set up the connection, and navigate the tables under your schema. Under sql runner you can run the  pre-written SQL queries, view run history and create custom views and perform useful task with them in model section and also create and view the jobs. 
 
 ## Navigate To SQL Runner
 
@@ -178,5 +178,5 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzkzNDI2XX0=
+eyJoaXN0b3J5IjpbLTIwOTM4NTQ0MDAsLTg4MzkzNDI2XX0=
 -->
