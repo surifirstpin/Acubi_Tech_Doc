@@ -7,7 +7,7 @@ Using SQL Runner, you can directly access database and clout the access in varie
 
 ## Navigate To SQL Runner
 
-- To Navigate to SQL Runner section, Login to AcuBi and click on **SQL Runner Section**
+- To Navigate to SQL Runner section, Login to AcuBi and click on **SQL Runner Section.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8301318bea750b7d048df7f5a8e06607d216dce7/images/navigate_sql.png)
@@ -176,6 +176,6 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDczNjM4NjEsLTYwNTQxMDA4MCwtOD
-gzOTM0MjZdfQ==
+eyJoaXN0b3J5IjpbLTYwMTEyMDA3NSwtNjA1NDEwMDgwLC04OD
+M5MzQyNl19
 -->
