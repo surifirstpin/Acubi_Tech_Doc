@@ -27,7 +27,7 @@ Using SQL Runner, you can directly access database and clout the access in varie
 
 - You can directly write the SQL query from scratch and run it, but make sure the dialects used in SQL runner should match the database dialects or,
 
-- Make use of **History** section to pre-run the previous query.
+- Make use of **History** section to Pre-run the previous query.
 
 ## Create SQL Query in SQL Runner
 
@@ -178,5 +178,5 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE3MzI1NDQsLTg4MzkzNDI2XX0=
+eyJoaXN0b3J5IjpbLTYwNTQxMDA4MCwtODgzOTM0MjZdfQ==
 -->
