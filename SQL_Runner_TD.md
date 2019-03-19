@@ -51,8 +51,7 @@ GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE)
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
-  **5.** To bookmark the query created, Click on **Tag**
-
+  **5.** To bookmark the query created, Click on **Tag**. You can Recall this Tagged 
 
 ## Find
 To view a specific value from the data retrieved, select **Find** from drop-down list of the field header.
@@ -180,6 +179,6 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDExNDM0NTAsLTk4NjYwNTM3OSwtNj
+eyJoaXN0b3J5IjpbLTE2ODk0MTQ0MjQsLTk4NjYwNTM3OSwtNj
 AxMTIwMDc1LC02MDU0MTAwODAsLTg4MzkzNDI2XX0=
 -->
