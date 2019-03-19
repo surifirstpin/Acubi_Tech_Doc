@@ -135,7 +135,7 @@ To get started with derived view, Click on **Jobs List icon** and select **Creat
  
  -  **Field List** On selecting the dialects all the fields used in query are reflected here.
 
- **Click on Create, to create the New Custom view.
+   - Click on **Create**, to create the New Custom view.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cdb0e5ca373edcb312536038651c1b8bbffb1f54/images/create_derived_view1.png)
@@ -187,8 +187,8 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzUyODExODksLTE2MDY0MDMzMjMsLT
-E4NjkxMzU2NTcsLTIxNDU1NTkwNjgsLTEzNjE0Mzg0MCwtMTY4
-OTQxNDQyNCwtOTg2NjA1Mzc5LC02MDExMjAwNzUsLTYwNTQxMD
-A4MCwtODgzOTM0MjZdfQ==
+eyJoaXN0b3J5IjpbMTk0MTkzNjc0NCwtMTYwNjQwMzMyMywtMT
+g2OTEzNTY1NywtMjE0NTU1OTA2OCwtMTM2MTQzODQwLC0xNjg5
+NDE0NDI0LC05ODY2MDUzNzksLTYwMTEyMDA3NSwtNjA1NDEwMD
+gwLC04ODM5MzQyNl19
 -->
