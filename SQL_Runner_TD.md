@@ -42,7 +42,7 @@ GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE)
 
 - To Redo the last written command, click on **Redo** Icon specified in SQL Area.
 
-**3.** To adjust the query according to Syntax, select **Text Wrap** button. 
+**3.** To adjust the query according to Syntax, Click **Text Wrap**. 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/acd887b4aec5663dca6969ad0004c73f4b351dc3/images/undo_sql.png)
 
@@ -179,6 +179,7 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk0MTQ0MjQsLTk4NjYwNTM3OSwtNj
-AxMTIwMDc1LC02MDU0MTAwODAsLTg4MzkzNDI2XX0=
+eyJoaXN0b3J5IjpbLTc2NjI2NDI2MCwtMTY4OTQxNDQyNCwtOT
+g2NjA1Mzc5LC02MDExMjAwNzUsLTYwNTQxMDA4MCwtODgzOTM0
+MjZdfQ==
 -->
