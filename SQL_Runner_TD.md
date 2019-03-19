@@ -58,7 +58,7 @@ GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE)
   
 
 ## Find
-To view a specific value from the data retrieved, select **Find** from list Icon Provided at top right of thr of the field header.
+To view a specific value from the data retrieved, select **Find** from **List Icon** Provided at top right of the field header.
 
 ## Group
 
@@ -183,7 +183,7 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk1Nzg1NDEsLTEzNjE0Mzg0MCwtMT
+eyJoaXN0b3J5IjpbLTIxNDU1NTkwNjgsLTEzNjE0Mzg0MCwtMT
 Y4OTQxNDQyNCwtOTg2NjA1Mzc5LC02MDExMjAwNzUsLTYwNTQx
 MDA4MCwtODgzOTM0MjZdfQ==
 -->
