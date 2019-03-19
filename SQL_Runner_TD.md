@@ -56,8 +56,9 @@ GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE)
   - To Recall the saved Query in any of the new SQL runner Query, Click **Play Button** for the bookmarked query under Tagged Section.
   - To Delete the Tagged query, Click Delete icon in Tagged Section.
   
+
 ## Find
-To view a specific value from the data retrieved, select **Find** from drop-down list of the field header.
+To view a specific value from the data retrieved, select **Find** from list Icon Provided at top right of thr of the field header.
 
 ## Group
 
@@ -182,7 +183,7 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjczNDgyODgsLTEzNjE0Mzg0MCwtMT
+eyJoaXN0b3J5IjpbLTE4Nzk1Nzg1NDEsLTEzNjE0Mzg0MCwtMT
 Y4OTQxNDQyNCwtOTg2NjA1Mzc5LC02MDExMjAwNzUsLTYwNTQx
 MDA4MCwtODgzOTM0MjZdfQ==
 -->
