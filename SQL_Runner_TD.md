@@ -120,7 +120,7 @@ ORDER BY STATIONCODE DSC
 
 SQL Runner can create a derived view from the query build and at the same time you can use this view in model section too. The dialects used for creating a derived view should be same as in SQL runner.
 
-To get started with derived view, Click on **List icon** and select **Create Derived View.**
+To get started with derived view, Click on **Jobs List icon** and select **Create Derived View.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cdb0e5ca373edcb312536038651c1b8bbffb1f54/images/list_derived%20view.png)
@@ -135,7 +135,7 @@ To get started with derived view, Click on **List icon** and select **Create Der
  
  -  **Field List** On selecting the dialects all the fields used in query are reflected here.
 
- **Click on Create, to create the New Custom view.** 
+ **Click on Create, to create the New Custom view.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cdb0e5ca373edcb312536038651c1b8bbffb1f54/images/create_derived_view1.png)
@@ -187,8 +187,8 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY0MDMzMjMsLTE4NjkxMzU2NTcsLT
-IxNDU1NTkwNjgsLTEzNjE0Mzg0MCwtMTY4OTQxNDQyNCwtOTg2
-NjA1Mzc5LC02MDExMjAwNzUsLTYwNTQxMDA4MCwtODgzOTM0Mj
-ZdfQ==
+eyJoaXN0b3J5IjpbLTE4MzUyODExODksLTE2MDY0MDMzMjMsLT
+E4NjkxMzU2NTcsLTIxNDU1NTkwNjgsLTEzNjE0Mzg0MCwtMTY4
+OTQxNDQyNCwtOTg2NjA1Mzc5LC02MDExMjAwNzUsLTYwNTQxMD
+A4MCwtODgzOTM0MjZdfQ==
 -->
