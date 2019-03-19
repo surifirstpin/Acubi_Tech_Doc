@@ -31,7 +31,11 @@ Using SQL Runner, you can directly access database and clout the access in varie
 **2.** Type your SQL command in SQL query area.
 
 ```
-select STATIONCODE,AMOUNT FROM ORDERS
+SELECT
+ROOT.BI_DELIVERYREPORT.STATIONCODE AS "STATIONCODE_2675",
+SUM(ROOT.BI_DELIVERYREPORT.ORDERVALUE) AS "sum_ORDERVALUE"
+FROM ROOT.BI_DELIVERYREPORT "BI_DELIVERYREPORT"
+GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE)
 ```
 
 - To undo the SQL Command written, click on **Undo** Icon specified in SQL Area.
@@ -173,6 +177,6 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTM5MzE4NiwtNjAxMTIwMDc1LC02MD
+eyJoaXN0b3J5IjpbLTk4NjYwNTM3OSwtNjAxMTIwMDc1LC02MD
 U0MTAwODAsLTg4MzkzNDI2XX0=
 -->
