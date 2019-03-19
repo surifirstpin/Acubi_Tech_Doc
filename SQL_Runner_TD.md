@@ -51,6 +51,9 @@ GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE)
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
+  **Tag** 
+
+
 ## Find
 To view a specific value from the data retrieved, select **Find** from drop-down list of the field header.
 
@@ -177,6 +180,6 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjYwNTM3OSwtNjAxMTIwMDc1LC02MD
-U0MTAwODAsLTg4MzkzNDI2XX0=
+eyJoaXN0b3J5IjpbLTE2NTIxMTg3MSwtOTg2NjA1Mzc5LC02MD
+ExMjAwNzUsLTYwNTQxMDA4MCwtODgzOTM0MjZdfQ==
 -->
