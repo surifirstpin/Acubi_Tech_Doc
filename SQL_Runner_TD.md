@@ -51,12 +51,6 @@ GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE)
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
-  **5.** To bookmark the query created, Click on **Tag**. You can Recall this Tagged query for future reference. 
-  - All the Tagged queries are displayed under Tagged Section. 
-  - To Recall the saved Query in any of the new SQL runner Query, Click **Play Button** for the bookmarked query under Tagged Section.
-  - To Delete the Tagged query, Click Delete icon in Tagged Section.
-  
-
 ## Find
 To view a specific value from the data retrieved, select **Find** from **List Icon** Provided at top right of the field header.
 
@@ -160,9 +154,7 @@ Now, let us see how to create a query in **Analysis Section**.
 
 ## Tagged
 
-Tagged section is used to save the pre-written query and use it later as per the business requirement.
-
-All the created tags are visible in tagged section.
+Tagged section is used to save the pre-written query and use it later as per the business requirement. 
 **Follow the below steps to create TAG:**
 
 Under query section Click **Tag** Button, it will pop up Create query Tag window :
@@ -186,9 +178,12 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 
 - All the created tags are visible in **Tagged Section**.
+ - To Recall the saved Query in any of the new SQL runner Query, Click **Play Button** for the bookmarked query under Tagged Section.
+  - To Delete the Tagged query, Click Delete icon in Tagged Section.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTkzNjc0NCwtMTYwNjQwMzMyMywtMT
-g2OTEzNTY1NywtMjE0NTU1OTA2OCwtMTM2MTQzODQwLC0xNjg5
-NDE0NDI0LC05ODY2MDUzNzksLTYwMTEyMDA3NSwtNjA1NDEwMD
-gwLC04ODM5MzQyNl19
+eyJoaXN0b3J5IjpbMTc3MDA0Nzk3OSwxOTQxOTM2NzQ0LC0xNj
+A2NDAzMzIzLC0xODY5MTM1NjU3LC0yMTQ1NTU5MDY4LC0xMzYx
+NDM4NDAsLTE2ODk0MTQ0MjQsLTk4NjYwNTM3OSwtNjAxMTIwMD
+c1LC02MDU0MTAwODAsLTg4MzkzNDI2XX0=
 -->
