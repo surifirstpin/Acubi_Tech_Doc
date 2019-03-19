@@ -7,7 +7,7 @@ Using SQL Runner, you can directly access database and clout the access in varie
 
 ## Navigate To SQL Runner
 
-- To Navigate to SQL Runner section, Login to AcuBi h and click on **SQL Runner Section.**
+- To Navigate to SQL Runner section, Login to AcuBi homepage and click on **SQL Runner Section.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8301318bea750b7d048df7f5a8e06607d216dce7/images/navigate_sql.png)
@@ -15,10 +15,9 @@ Using SQL Runner, you can directly access database and clout the access in varie
 
 - Select the **Connection and Schema** using a drop-down list based on which you would like to query.
 
-- Select the desired **Table** using drop-down.
+- Select the **Table**  you wish using drop-down, throu.
 ome
 - **Fields** displays number of fields available in the table selected.
-
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/532dd8b61e94d1e08fe0b89afa6a5961336e8ad2/images/sql_ru.png)
@@ -176,6 +175,6 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkxMzI1NTQsLTYwMTEyMDA3NSwtNj
-A1NDEwMDgwLC04ODM5MzQyNl19
+eyJoaXN0b3J5IjpbLTgzNDkwMTQxNiwtNjAxMTIwMDc1LC02MD
+U0MTAwODAsLTg4MzkzNDI2XX0=
 -->
