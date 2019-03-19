@@ -177,7 +177,7 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/Tag2.png)
 
 
-- All the created tags are visible in **Tagged Section**.
+-  All the created tags are visible in **Tagged Section**.
  - To Recall the saved Query in any of the new SQL runner Query, Click **Play Button** for the bookmarked query under Tagged Section.
   - To Delete the Tagged query, Click Delete icon in Tagged Section.
 
@@ -185,8 +185,9 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzcyNDUzNzUsMTk0MTkzNjc0NCwtMT
-YwNjQwMzMyMywtMTg2OTEzNTY1NywtMjE0NTU1OTA2OCwtMTM2
-MTQzODQwLC0xNjg5NDE0NDI0LC05ODY2MDUzNzksLTYwMTEyMD
-A3NSwtNjA1NDEwMDgwLC04ODM5MzQyNl19
+eyJoaXN0b3J5IjpbLTIwNjQ0OTAwNDMsLTE5MzcyNDUzNzUsMT
+k0MTkzNjc0NCwtMTYwNjQwMzMyMywtMTg2OTEzNTY1NywtMjE0
+NTU1OTA2OCwtMTM2MTQzODQwLC0xNjg5NDE0NDI0LC05ODY2MD
+UzNzksLTYwMTEyMDA3NSwtNjA1NDEwMDgwLC04ODM5MzQyNl19
+
 -->
