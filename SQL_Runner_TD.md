@@ -15,10 +15,7 @@ Using SQL Runner, you can directly access database and clout the access in varie
 
 - Select the **Connection and Schema** using a drop-down list based on which you would like to query.
 
-- Select the **Table**  you wish using drop-down, throu.
-ome
-- **Fields** displays number of fields available in the table selected.
-
+- Select the **Table**  you wish to use in the query, using drop-down list. On selecting the table it display fields that fall under selected table.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/532dd8b61e94d1e08fe0b89afa6a5961336e8ad2/images/sql_ru.png)
 
@@ -175,6 +172,6 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDkwMTQxNiwtNjAxMTIwMDc1LC02MD
+eyJoaXN0b3J5IjpbLTk0NDQ3MDI1NiwtNjAxMTIwMDc1LC02MD
 U0MTAwODAsLTg4MzkzNDI2XX0=
 -->
