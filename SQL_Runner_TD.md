@@ -42,16 +42,16 @@ GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE)
 
 - To Redo the last written command, click on **Redo** Icon specified in SQL Area.
 
-- To adjust the query according to Syntax, select **Text Wrap** button. 
+**3.** To adjust the query according to Syntax, select **Text Wrap** button. 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/acd887b4aec5663dca6969ad0004c73f4b351dc3/images/undo_sql.png)
 
 
-**3.**  Hit **Run** button to run the SQL command written. It displays the data retrieved below the query area as shown in the image. 
+**4.**  Hit **Run** button to run the SQL command written. It displays the data retrieved below the query area as shown in the image. 
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
-  - **TAG**  you can bookmark the query created, By Clicking on Tag
+  **5.** To bookmark the query created, Click on **Tag**
 
 
 ## Find
@@ -180,6 +180,6 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjM0MTM4LC05ODY2MDUzNzksLTYwMT
-EyMDA3NSwtNjA1NDEwMDgwLC04ODM5MzQyNl19
+eyJoaXN0b3J5IjpbLTEzMDExNDM0NTAsLTk4NjYwNTM3OSwtNj
+AxMTIwMDc1LC02MDU0MTAwODAsLTg4MzkzNDI2XX0=
 -->
