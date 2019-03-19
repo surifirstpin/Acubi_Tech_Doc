@@ -53,7 +53,7 @@ GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE)
 
   **5.** To bookmark the query created, Click on **Tag**. You can Recall this Tagged query. 
   - All the Tagged queries are displayed under Tagged Section. 
-  - To Recall  the saved Query, Click **Play Button** under Tagged Section.
+  - To Recall, The saved Query in any of the new SQL runner Query, Click **Play Button** under Tagged Section.
   
 ## Find
 To view a specific value from the data retrieved, select **Find** from drop-down list of the field header.
@@ -181,7 +181,7 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTczNDMwMywtMTM2MTQzODQwLC0xNj
-g5NDE0NDI0LC05ODY2MDUzNzksLTYwMTEyMDA3NSwtNjA1NDEw
-MDgwLC04ODM5MzQyNl19
+eyJoaXN0b3J5IjpbLTE2MTU1NDU3MDYsLTEzNjE0Mzg0MCwtMT
+Y4OTQxNDQyNCwtOTg2NjA1Mzc5LC02MDExMjAwNzUsLTYwNTQx
+MDA4MCwtODgzOTM0MjZdfQ==
 -->
