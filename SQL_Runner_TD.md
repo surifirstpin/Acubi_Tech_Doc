@@ -181,9 +181,12 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
  - To Recall the saved Query in any of the new SQL runner Query, Click **Play Button** for the bookmarked query under Tagged Section.
   - To Delete the Tagged query, Click Delete icon in Tagged Section.
 
+## Jobs
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDA0Nzk3OSwxOTQxOTM2NzQ0LC0xNj
-A2NDAzMzIzLC0xODY5MTM1NjU3LC0yMTQ1NTU5MDY4LC0xMzYx
-NDM4NDAsLTE2ODk0MTQ0MjQsLTk4NjYwNTM3OSwtNjAxMTIwMD
-c1LC02MDU0MTAwODAsLTg4MzkzNDI2XX0=
+eyJoaXN0b3J5IjpbLTE5MzcyNDUzNzUsMTk0MTkzNjc0NCwtMT
+YwNjQwMzMyMywtMTg2OTEzNTY1NywtMjE0NTU1OTA2OCwtMTM2
+MTQzODQwLC0xNjg5NDE0NDI0LC05ODY2MDUzNzksLTYwMTEyMD
+A3NSwtNjA1NDEwMDgwLC04ODM5MzQyNl19
 -->
