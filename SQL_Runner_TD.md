@@ -51,7 +51,7 @@ GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE)
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
-  **Tag** 
+  - **TAG**  you can bookmark the query created, By Clicking on Tag
 
 
 ## Find
@@ -180,6 +180,6 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTIxMTg3MSwtOTg2NjA1Mzc5LC02MD
-ExMjAwNzUsLTYwNTQxMDA4MCwtODgzOTM0MjZdfQ==
+eyJoaXN0b3J5IjpbMTkzNjM0MTM4LC05ODY2MDUzNzksLTYwMT
+EyMDA3NSwtNjA1NDEwMDgwLC04ODM5MzQyNl19
 -->
