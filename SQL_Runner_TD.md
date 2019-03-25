@@ -89,7 +89,7 @@ Number of records fetched after running a query is displayed at right bottom of 
 
 **6.** To view the recent history, click on **History tab** available at the top right of the SQL query area. 
 
-- Green colour indicates query has been executed successfully and Red indicates error.
+- Green color indicates query has been executed successfully and Red indicates error.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/history%20sql.png)
@@ -189,10 +189,10 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDkyNjExLC0xNDA1NDk4ODY1LC0xNj
-k3NDMxNTE5LC0xOTYxNDIyMTU3LC0yMDY0NDkwMDQzLC0xOTM3
-MjQ1Mzc1LDE5NDE5MzY3NDQsLTE2MDY0MDMzMjMsLTE4NjkxMz
-U2NTcsLTIxNDU1NTkwNjgsLTEzNjE0Mzg0MCwtMTY4OTQxNDQy
-NCwtOTg2NjA1Mzc5LC02MDExMjAwNzUsLTYwNTQxMDA4MCwtOD
-gzOTM0MjZdfQ==
+eyJoaXN0b3J5IjpbODE2NzQ0NTg4LC0zMTA5MjYxMSwtMTQwNT
+Q5ODg2NSwtMTY5NzQzMTUxOSwtMTk2MTQyMjE1NywtMjA2NDQ5
+MDA0MywtMTkzNzI0NTM3NSwxOTQxOTM2NzQ0LC0xNjA2NDAzMz
+IzLC0xODY5MTM1NjU3LC0yMTQ1NTU5MDY4LC0xMzYxNDM4NDAs
+LTE2ODk0MTQ0MjQsLTk4NjYwNTM3OSwtNjAxMTIwMDc1LC02MD
+U0MTAwODAsLTg4MzkzNDI2XX0=
 -->
