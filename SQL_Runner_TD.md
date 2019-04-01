@@ -176,8 +176,8 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 
 -  All the created tags are visible in **Tagged Section**.
- - To Recall the saved Query in any of the new SQL runner Query, Click **Play Button** for the bookmarked query under Tagged Section.
-  - To Delete the Tagged query, Click Delete icon in Tagged Section.
+- To Recall the saved Query in any of the new SQL runner Query, Click **Play Button** for the bookmarked query under Tagged Section.
+- To Delete the Tagged query, Click Delete icon in Tagged Section.
 
 ## Jobs
 
@@ -187,11 +187,11 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc3MTUwMjQsMTMxOTI2Njg4MCwtMT
-U5NzcxNTAyNCw4MTY3NDQ1ODgsLTMxMDkyNjExLC0xNDA1NDk4
-ODY1LC0xNjk3NDMxNTE5LC0xOTYxNDIyMTU3LC0yMDY0NDkwMD
-QzLC0xOTM3MjQ1Mzc1LDE5NDE5MzY3NDQsLTE2MDY0MDMzMjMs
-LTE4NjkxMzU2NTcsLTIxNDU1NTkwNjgsLTEzNjE0Mzg0MCwtMT
-Y4OTQxNDQyNCwtOTg2NjA1Mzc5LC02MDExMjAwNzUsLTYwNTQx
-MDA4MCwtODgzOTM0MjZdfQ==
+eyJoaXN0b3J5IjpbLTQyNzAxNjIyMCwtMTU5NzcxNTAyNCwxMz
+E5MjY2ODgwLC0xNTk3NzE1MDI0LDgxNjc0NDU4OCwtMzEwOTI2
+MTEsLTE0MDU0OTg4NjUsLTE2OTc0MzE1MTksLTE5NjE0MjIxNT
+csLTIwNjQ0OTAwNDMsLTE5MzcyNDUzNzUsMTk0MTkzNjc0NCwt
+MTYwNjQwMzMyMywtMTg2OTEzNTY1NywtMjE0NTU1OTA2OCwtMT
+M2MTQzODQwLC0xNjg5NDE0NDI0LC05ODY2MDUzNzksLTYwMTEy
+MDA3NSwtNjA1NDEwMDgwXX0=
 -->
