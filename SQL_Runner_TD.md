@@ -148,7 +148,7 @@ Now, let us see how to create a query in **Analysis Section**.
 - Once copied **Run** SQL Runner to Query the database. You can also customize the already existing text as per your business needs and run the new query.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
+].(https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 ## Tagged
 
@@ -187,11 +187,11 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNzg2MDQsLTQyNzAxNjIyMCwtMTU5Nz
-cxNTAyNCwxMzE5MjY2ODgwLC0xNTk3NzE1MDI0LDgxNjc0NDU4
-OCwtMzEwOTI2MTEsLTE0MDU0OTg4NjUsLTE2OTc0MzE1MTksLT
-E5NjE0MjIxNTcsLTIwNjQ0OTAwNDMsLTE5MzcyNDUzNzUsMTk0
-MTkzNjc0NCwtMTYwNjQwMzMyMywtMTg2OTEzNTY1NywtMjE0NT
-U1OTA2OCwtMTM2MTQzODQwLC0xNjg5NDE0NDI0LC05ODY2MDUz
-NzksLTYwMTEyMDA3NV19
+eyJoaXN0b3J5IjpbODIwMjY1ODg4LDkwMjc4NjA0LC00MjcwMT
+YyMjAsLTE1OTc3MTUwMjQsMTMxOTI2Njg4MCwtMTU5NzcxNTAy
+NCw4MTY3NDQ1ODgsLTMxMDkyNjExLC0xNDA1NDk4ODY1LC0xNj
+k3NDMxNTE5LC0xOTYxNDIyMTU3LC0yMDY0NDkwMDQzLC0xOTM3
+MjQ1Mzc1LDE5NDE5MzY3NDQsLTE2MDY0MDMzMjMsLTE4NjkxMz
+U2NTcsLTIxNDU1NTkwNjgsLTEzNjE0Mzg0MCwtMTY4OTQxNDQy
+NCwtOTg2NjA1Mzc5XX0=
 -->
