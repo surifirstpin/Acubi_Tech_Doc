@@ -150,7 +150,7 @@ Now, let us see how to create a query in **Analysis Section**.
 ![
 ].(https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
-## Tagged
+y## Tagged
 
 Tagged section is used to save the pre-written query and use it later as per the business requirement. 
 **Follow the below steps to create TAG:**
@@ -187,11 +187,11 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMjY1ODg4LDkwMjc4NjA0LC00MjcwMT
-YyMjAsLTE1OTc3MTUwMjQsMTMxOTI2Njg4MCwtMTU5NzcxNTAy
-NCw4MTY3NDQ1ODgsLTMxMDkyNjExLC0xNDA1NDk4ODY1LC0xNj
-k3NDMxNTE5LC0xOTYxNDIyMTU3LC0yMDY0NDkwMDQzLC0xOTM3
-MjQ1Mzc1LDE5NDE5MzY3NDQsLTE2MDY0MDMzMjMsLTE4NjkxMz
-U2NTcsLTIxNDU1NTkwNjgsLTEzNjE0Mzg0MCwtMTY4OTQxNDQy
-NCwtOTg2NjA1Mzc5XX0=
+eyJoaXN0b3J5IjpbLTE4OTkxNjA4OTEsODIwMjY1ODg4LDkwMj
+c4NjA0LC00MjcwMTYyMjAsLTE1OTc3MTUwMjQsMTMxOTI2Njg4
+MCwtMTU5NzcxNTAyNCw4MTY3NDQ1ODgsLTMxMDkyNjExLC0xND
+A1NDk4ODY1LC0xNjk3NDMxNTE5LC0xOTYxNDIyMTU3LC0yMDY0
+NDkwMDQzLC0xOTM3MjQ1Mzc1LDE5NDE5MzY3NDQsLTE2MDY0MD
+MzMjMsLTE4NjkxMzU2NTcsLTIxNDU1NTkwNjgsLTEzNjE0Mzg0
+MCwtMTY4OTQxNDQyNF19
 -->
