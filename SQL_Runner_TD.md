@@ -109,7 +109,6 @@ ORDER BY STATIONCODE DSC
 ](https://raw.githubusercontent.com/sv18042016/fp1/5f2f6b7d5ed9daf4222fd8da2636ecabbe2cabcd/images/sort_sql.png)
 
 
-
 ## Derived View
 
 SQL Runner can create a derived view from the query build and at the same time you can use this view in model section too. The dialects used for creating a derived view should be same as in SQL runner.
@@ -189,11 +188,11 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDEzODQ2MywtMTg5OTE2MDg5MSw4Mj
-AyNjU4ODgsOTAyNzg2MDQsLTQyNzAxNjIyMCwtMTU5NzcxNTAy
-NCwxMzE5MjY2ODgwLC0xNTk3NzE1MDI0LDgxNjc0NDU4OCwtMz
-EwOTI2MTEsLTE0MDU0OTg4NjUsLTE2OTc0MzE1MTksLTE5NjE0
-MjIxNTcsLTIwNjQ0OTAwNDMsLTE5MzcyNDUzNzUsMTk0MTkzNj
-c0NCwtMTYwNjQwMzMyMywtMTg2OTEzNTY1NywtMjE0NTU1OTA2
-OCwtMTM2MTQzODQwXX0=
+eyJoaXN0b3J5IjpbLTIxNDMyNDQyMzcsLTE4OTkxNjA4OTEsOD
+IwMjY1ODg4LDkwMjc4NjA0LC00MjcwMTYyMjAsLTE1OTc3MTUw
+MjQsMTMxOTI2Njg4MCwtMTU5NzcxNTAyNCw4MTY3NDQ1ODgsLT
+MxMDkyNjExLC0xNDA1NDk4ODY1LC0xNjk3NDMxNTE5LC0xOTYx
+NDIyMTU3LC0yMDY0NDkwMDQzLC0xOTM3MjQ1Mzc1LDE5NDE5Mz
+Y3NDQsLTE2MDY0MDMzMjMsLTE4NjkxMzU2NTcsLTIxNDU1NTkw
+NjgsLTEzNjE0Mzg0MF19
 -->
