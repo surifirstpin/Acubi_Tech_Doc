@@ -1,6 +1,4 @@
 
-q
-
 
 <center><h1>Calculated Column</h1></center>
 
@@ -441,7 +439,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg5Nzk5MTUsODIyNjQxNTA4LDE3OD
-c1NzQwOTgsMjA3NDYxMTM5MiwtMTU5NzA1NzYxMCwtNDY4MDI1
-MDgwLDE2MTk4MDE2OCw3MTQ1ODI3NzRdfQ==
+eyJoaXN0b3J5IjpbMjA3NDYxMTM5MiwtMjAxODk3OTkxNSw4Mj
+I2NDE1MDgsMTc4NzU3NDA5OCwyMDc0NjExMzkyLC0xNTk3MDU3
+NjEwLC00NjgwMjUwODAsMTYxOTgwMTY4LDcxNDU4Mjc3NF19
 -->
