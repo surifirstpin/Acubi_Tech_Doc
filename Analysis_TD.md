@@ -56,7 +56,7 @@ Filters removes all the data except the one you want to retrieve. Filter express
 |not equal                     | shouldn't be equal to specific value                      |
 |in                            | selection based on combination of filter values           |
 |not in                        | excluding set of values                                   |
-|begins with                   | finds any value that starts with mentioned substring      |
+|begins with                   | finds any value that starts with mentioned sub-string      |
 |doesn’t begins with           | finds a value that doesn't begin with mentioned sub-string|
 |Contains                      | contains mentioned sub-string                             |
 |doesn’t contain               | finds a value which does not contain mentioned sub-string |
@@ -366,5 +366,6 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjc2MTcyMiwtMTQ4Njk5ODU5OF19
+eyJoaXN0b3J5IjpbODEyNjkyNDIzLDE5MjY3NjE3MjIsLTE0OD
+Y5OTg1OThdfQ==
 -->
