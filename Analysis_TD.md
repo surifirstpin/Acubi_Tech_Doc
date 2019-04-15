@@ -113,6 +113,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 **b.** Fields to which hidden filters applied are visible in filter expression of filter section.
 **c.** The data is retrieved, based on the applied hidden filters.
 
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
 
@@ -366,6 +367,6 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNjkyNDIzLDE5MjY3NjE3MjIsLTE0OD
-Y5OTg1OThdfQ==
+eyJoaXN0b3J5IjpbLTY4OTc3ODY3LDgxMjY5MjQyMywxOTI2Nz
+YxNzIyLC0xNDg2OTk4NTk4XX0=
 -->
