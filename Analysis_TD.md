@@ -28,6 +28,7 @@ A **Dimension** is a group of data and **Measure** is information about group of
 ](https://raw.githubusercontent.com/sv18042016/fp1/fc61997d3a6999b632b7b6e9dfdfdcd3f93b5507/images/analysis1.png)
   
   > **Note :** To hide Explore
+
 /Visualize sections  click on  **angle double left** icon. To display the same click **angle double right  (»)** icon available above dimensions and measure field list.
 
                                                                                                                                                                                                                     
@@ -368,7 +369,7 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjgwMjIzNzEsMTA4ODM4NTQ3MSwtMT
-E5NDQ5MzAwOSwtNjg5Nzc4NjcsODEyNjkyNDIzLDE5MjY3NjE3
-MjIsLTE0ODY5OTg1OThdfQ==
+eyJoaXN0b3J5IjpbLTE2ODY1ODY5NjEsLTE4NjgwMjIzNzEsMT
+A4ODM4NTQ3MSwtMTE5NDQ5MzAwOSwtNjg5Nzc4NjcsODEyNjky
+NDIzLDE5MjY3NjE3MjIsLTE0ODY5OTg1OThdfQ==
 -->
