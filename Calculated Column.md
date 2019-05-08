@@ -38,7 +38,8 @@ After navigating to Calculated Column Window, Enter all the below fields.
 - **Calculation** To derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/aff2f17d1b5383de542a7b534df7caeb69c03b3d/images/calculated_col_window.png)
+]
+(https://raw.githubusercontent.com/sv18042016/fp1/aff2f17d1b5383de542a7b534df7caeb69c03b3d/images/calculated_col_window.png)
 
 - **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
 
@@ -437,7 +438,8 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTUwODMxNiwyMDc0NjExMzkyLC0yMD
-E4OTc5OTE1LDgyMjY0MTUwOCwxNzg3NTc0MDk4LC0xNTk3MDU3
-NjEwLC00NjgwMjUwODAsMTYxOTgwMTY4LDcxNDU4Mjc3NF19
+eyJoaXN0b3J5IjpbLTQ4MDEzNzk5NCwtNzY5NTA4MzE2LDIwNz
+Q2MTEzOTIsLTIwMTg5Nzk5MTUsODIyNjQxNTA4LDE3ODc1NzQw
+OTgsLTE1OTcwNTc2MTAsLTQ2ODAyNTA4MCwxNjE5ODAxNjgsNz
+E0NTgyNzc0XX0=
 -->
