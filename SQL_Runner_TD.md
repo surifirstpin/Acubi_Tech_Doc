@@ -1,7 +1,7 @@
 
 <center><h1>SQL Runner </h1></center>
 
-Using SQL Runner, you can directly access database and clout the access in variety of ways. it can easily set up the connection, and navigate the tables under your schema. Under sql runner you can run the  Pre-written SQL queries, view run history and create custom views and perform useful task with them in model section and also create and view the jobs. 
+Using SQL Runner, you can directly access database and clout the access in variety of ways. it can easily set up the connection, and navigate the tables under your schema. Under SQL runner you can run the  Pre-written SQL queries, view run history and create custom views and perform useful task with them in model section and also create and view the jobs. 
 
 ## Navigate To SQL Runner
 
@@ -189,11 +189,11 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzY0NDA5MSwtMjE0MzI0NDIzNywtMT
-g5OTE2MDg5MSw4MjAyNjU4ODgsOTAyNzg2MDQsLTQyNzAxNjIy
-MCwtMTU5NzcxNTAyNCwxMzE5MjY2ODgwLC0xNTk3NzE1MDI0LD
-gxNjc0NDU4OCwtMzEwOTI2MTEsLTE0MDU0OTg4NjUsLTE2OTc0
-MzE1MTksLTE5NjE0MjIxNTcsLTIwNjQ0OTAwNDMsLTE5MzcyND
-UzNzUsMTk0MTkzNjc0NCwtMTYwNjQwMzMyMywtMTg2OTEzNTY1
-NywtMjE0NTU1OTA2OF19
+eyJoaXN0b3J5IjpbMTgxMzczMjg1LC04ODM2NDQwOTEsLTIxND
+MyNDQyMzcsLTE4OTkxNjA4OTEsODIwMjY1ODg4LDkwMjc4NjA0
+LC00MjcwMTYyMjAsLTE1OTc3MTUwMjQsMTMxOTI2Njg4MCwtMT
+U5NzcxNTAyNCw4MTY3NDQ1ODgsLTMxMDkyNjExLC0xNDA1NDk4
+ODY1LC0xNjk3NDMxNTE5LC0xOTYxNDIyMTU3LC0yMDY0NDkwMD
+QzLC0xOTM3MjQ1Mzc1LDE5NDE5MzY3NDQsLTE2MDY0MDMzMjMs
+LTE4NjkxMzU2NTddfQ==
 -->
