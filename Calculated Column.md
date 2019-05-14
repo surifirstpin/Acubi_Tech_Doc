@@ -95,7 +95,8 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  median | Returns the median value of a list of values mentioned | bi.median(p1,p2,p3,.....) |
 |  mode | Returns the values which are repeated in the list mentioned | bi.mode(p1,p2,p3,.....)<br/>Ex: bi.mode(1,2,1)=1 |
 |  prod | Returns the product values of the mentioned values |bi.prod(p1,p2,p3,p4,....) Ex: bi.prod(p1,p2,p3) = p1 * p2 * p3|
-|  quantileSeq | Returns prob order quantile of a matrix or a list with values | bi.quantileSeq(A, prob[, sorted]) |
+|  quantileSeq | Returns prob order quantile of a matrix or a list with values | bi.quantileSeq
+(A, prob[, sorted]) |
 |  std | Returns the standard deviation of a matrix or a list with values. | bi.std(p1,p2,p3 ...)<br/>bi.std(A)<br/>bi.std(A, normalization) |
 |  sum | Returns the sum of list of values mentioned | bi.sum(p1,p2,p3,.....)<br/>Ex: bi.sum(p1,p2,p3) = p1 + p2 +p3 |
 |  var | Returns the variance of a matrix or a list with values | bi.var(p1,p2,p3)<br/>Ex: bi.var(2, 4, 6) = 4 |
@@ -438,8 +439,8 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDEzNzk5NCwtNzY5NTA4MzE2LDIwNz
-Q2MTEzOTIsLTIwMTg5Nzk5MTUsODIyNjQxNTA4LDE3ODc1NzQw
-OTgsLTE1OTcwNTc2MTAsLTQ2ODAyNTA4MCwxNjE5ODAxNjgsNz
-E0NTgyNzc0XX0=
+eyJoaXN0b3J5IjpbLTc5NjMyMTk0OCwtNDgwMTM3OTk0LC03Nj
+k1MDgzMTYsMjA3NDYxMTM5MiwtMjAxODk3OTkxNSw4MjI2NDE1
+MDgsMTc4NzU3NDA5OCwtMTU5NzA1NzYxMCwtNDY4MDI1MDgwLD
+E2MTk4MDE2OCw3MTQ1ODI3NzRdfQ==
 -->
