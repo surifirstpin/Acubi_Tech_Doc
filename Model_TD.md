@@ -190,8 +190,8 @@ ROOT.BI_Orders.Amount IS NOT NULL
 " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
 ```
 **II.**  **Position**  It is the priority to apply the filter “before” or “after”.
--   **Before**  the filter will be applied first to the data, before any alternate filters on data are applied in analyze section.
--   **After**  the filter will be applied to the data after applying them in Analyze section.
+-   **Before**  the filter will be applied first to the data, before any alternate filters on data are applied in Report section.
+-   **After**  the filter will be applied to the data after applying them in Report section.
 
 **2.B. Join Characteristics**
 
@@ -660,11 +660,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI3NjEwMjIsNzAzODMwOTAyLC04OT
-Y2NzA1NjAsLTE1MjU5NTg2OTMsLTg0Nzc1ODYzNywyMTEzNTc2
-Mzc5LC0xODkxMzg3NzU3LDIxMTM1NzYzNzksLTIwNDY3ODQ1Nz
-UsLTYzMDg5MzA0MSwxOTE0NjM2MTYwLC0zNTMxMzQ5MzEsODU2
-Mjg0NzU5LC0yMDgxNjM1MzU2LDIwMzI5NjE1NCw5NDY2MDM0OT
-AsLTIwNzQwMDg5NjgsMjIyMzk0NjMsLTE0OTA2NjgxNzIsLTE2
-MTg3MTYwNzNdfQ==
+eyJoaXN0b3J5IjpbLTYwNTAwOTIyMiw3MDM4MzA5MDIsLTg5Nj
+Y3MDU2MCwtMTUyNTk1ODY5MywtODQ3NzU4NjM3LDIxMTM1NzYz
+NzksLTE4OTEzODc3NTcsMjExMzU3NjM3OSwtMjA0Njc4NDU3NS
+wtNjMwODkzMDQxLDE5MTQ2MzYxNjAsLTM1MzEzNDkzMSw4NTYy
+ODQ3NTksLTIwODE2MzUzNTYsMjAzMjk2MTU0LDk0NjYwMzQ5MC
+wtMjA3NDAwODk2OCwyMjIzOTQ2MywtMTQ5MDY2ODE3MiwtMTYx
+ODcxNjA3M119
 -->
