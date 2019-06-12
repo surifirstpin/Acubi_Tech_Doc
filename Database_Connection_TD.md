@@ -15,7 +15,7 @@
   
 **III.** Set up database to work with AcuBi. Instructions may vary from dialect to dialect. Typically it includes providing approval to AcuBi to access database.
 
- ## Set-Up Connection
+ ## Set-Up Database Connection
 
  Login **AcuBi** using following navigation path :
 
@@ -95,7 +95,8 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjQxNTY1OCwxOTg3NTk1MzAwLDE0Nz
-k5MDQyMTEsLTEzNTk3MjAxMzksMTUyMDg3OTcyMCwyMTQ2NDI2
-NDY5LDIwNDc0NjIyNDgsLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbMjAzMjgwOTU0MywyMTE2NDE1NjU4LDE5OD
+c1OTUzMDAsMTQ3OTkwNDIxMSwtMTM1OTcyMDEzOSwxNTIwODc5
+NzIwLDIxNDY0MjY0NjksMjA0NzQ2MjI0OCwtODAyNDcwOTBdfQ
+==
 -->
