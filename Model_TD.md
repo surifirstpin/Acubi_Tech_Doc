@@ -106,6 +106,7 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/277037f93bc45d7c04c5c27d596cc7e7e3adf0d5/images/New_version5/TD_Model_image9.png)
+**Image 9**
 
 **Customization for a model can be carried out in following ways :**
 
@@ -660,11 +661,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0MjczNjIsLTE1MjU5NTg2OTMsLTg0Nz
-c1ODYzNywyMTEzNTc2Mzc5LC0xODkxMzg3NzU3LDIxMTM1NzYz
-NzksLTIwNDY3ODQ1NzUsLTYzMDg5MzA0MSwxOTE0NjM2MTYwLC
-0zNTMxMzQ5MzEsODU2Mjg0NzU5LC0yMDgxNjM1MzU2LDIwMzI5
-NjE1NCw5NDY2MDM0OTAsLTIwNzQwMDg5NjgsMjIyMzk0NjMsLT
-E0OTA2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwzNDg3
-MjEzNzFdfQ==
+eyJoaXN0b3J5IjpbLTg5NjY3MDU2MCwtMTUyNTk1ODY5MywtOD
+Q3NzU4NjM3LDIxMTM1NzYzNzksLTE4OTEzODc3NTcsMjExMzU3
+NjM3OSwtMjA0Njc4NDU3NSwtNjMwODkzMDQxLDE5MTQ2MzYxNj
+AsLTM1MzEzNDkzMSw4NTYyODQ3NTksLTIwODE2MzUzNTYsMjAz
+Mjk2MTU0LDk0NjYwMzQ5MCwtMjA3NDAwODk2OCwyMjIzOTQ2My
+wtMTQ5MDY2ODE3MiwtMTYxODcxNjA3MywtMjk3Mjc0NTEyLDM0
+ODcyMTM3MV19
 -->
