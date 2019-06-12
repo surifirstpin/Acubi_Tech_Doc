@@ -648,7 +648,7 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Botswana | BWA |  | Guinea-Bissau | GNB |  | Moldova | MDA |  | Romania | ROU |  | Venezuela (Bolivarian Republic) | VEN |
 |  Central African Republic | CAF |  | Equatorial Guinea | GNQ |  | Madagascar | MDG |  | Russian Federation | RUS |  | British Virgin Islands | VGB |
 |  Canada | CAN |  | Greece | GRC |  | Maldives | MDV |  | Rwanda | RWA |  | Virgin Islands, US | VIR |
-|  Cocos (Keeling) Islands | CCK |  | Grenada | GRD |  | Mexico | MEX |  | Saudi Arabia | SAU |  | Viet Nam | VNM |
+|  Cocos (Keeling) Islands | CCK |  | Grenada | GRD |  | Mexico | MEX |  | Saudi Arabia | SAU |  | VietNam | VNM |
 |  Switzerland | CHE |  | Greenland | GRL |  | Marshall Islands | MHL |  | Sudan | SDN |  | Vanuatu | VUT |
 |  Chile | CHL |  | Guatemala | GTM |  | Macedonia, Republic of | MKD |  | Senegal | SEN |  | Wallis and Futuna Islands | WLF |
 |  China | CHN |  | French Guiana | GUF |  | Mali | MLI |  | Singapore | SGP |  | Samoa | WSM |
@@ -659,11 +659,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzA4MTQyOSwzMTk1OTkzNTQsLTMyMj
-IwNjcwOCwtNjA1MDA5MjIyLDcwMzgzMDkwMiwtODk2NjcwNTYw
-LC0xNTI1OTU4NjkzLC04NDc3NTg2MzcsMjExMzU3NjM3OSwtMT
-g5MTM4Nzc1NywyMTEzNTc2Mzc5LC0yMDQ2Nzg0NTc1LC02MzA4
-OTMwNDEsMTkxNDYzNjE2MCwtMzUzMTM0OTMxLDg1NjI4NDc1OS
-wtMjA4MTYzNTM1NiwyMDMyOTYxNTQsOTQ2NjAzNDkwLC0yMDc0
-MDA4OTY4XX0=
+eyJoaXN0b3J5IjpbMTY3NTk5NDE1OSwtMzIzMDgxNDI5LDMxOT
+U5OTM1NCwtMzIyMjA2NzA4LC02MDUwMDkyMjIsNzAzODMwOTAy
+LC04OTY2NzA1NjAsLTE1MjU5NTg2OTMsLTg0Nzc1ODYzNywyMT
+EzNTc2Mzc5LC0xODkxMzg3NzU3LDIxMTM1NzYzNzksLTIwNDY3
+ODQ1NzUsLTYzMDg5MzA0MSwxOTE0NjM2MTYwLC0zNTMxMzQ5Mz
+EsODU2Mjg0NzU5LC0yMDgxNjM1MzU2LDIwMzI5NjE1NCw5NDY2
+MDM0OTBdfQ==
 -->
