@@ -256,7 +256,6 @@ The Associated keywords with the views are flowing :
 **Among the above stated list, the following are the special attributes for user convenience :**
 
 **I.**  **lookup and operator :**  Using “lookup” feature, AcuBi allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
-
 -   **Query**  an sql query returning a set of values can be written in **“lookup”** for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
 ```
  “lookup” : “SELECT DISTINCT Name FROM ROOT.Employees”
@@ -659,11 +658,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjIwNjcwOCwtNjA1MDA5MjIyLDcwMz
-gzMDkwMiwtODk2NjcwNTYwLC0xNTI1OTU4NjkzLC04NDc3NTg2
-MzcsMjExMzU3NjM3OSwtMTg5MTM4Nzc1NywyMTEzNTc2Mzc5LC
-0yMDQ2Nzg0NTc1LC02MzA4OTMwNDEsMTkxNDYzNjE2MCwtMzUz
-MTM0OTMxLDg1NjI4NDc1OSwtMjA4MTYzNTM1NiwyMDMyOTYxNT
-QsOTQ2NjAzNDkwLC0yMDc0MDA4OTY4LDIyMjM5NDYzLC0xNDkw
-NjY4MTcyXX0=
+eyJoaXN0b3J5IjpbMzE5NTk5MzU0LC0zMjIyMDY3MDgsLTYwNT
+AwOTIyMiw3MDM4MzA5MDIsLTg5NjY3MDU2MCwtMTUyNTk1ODY5
+MywtODQ3NzU4NjM3LDIxMTM1NzYzNzksLTE4OTEzODc3NTcsMj
+ExMzU3NjM3OSwtMjA0Njc4NDU3NSwtNjMwODkzMDQxLDE5MTQ2
+MzYxNjAsLTM1MzEzNDkzMSw4NTYyODQ3NTksLTIwODE2MzUzNT
+YsMjAzMjk2MTU0LDk0NjYwMzQ5MCwtMjA3NDAwODk2OCwyMjIz
+OTQ2M119
 -->
