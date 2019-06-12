@@ -67,7 +67,7 @@ A model is a customized gateway into the database for accessing data as per busi
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e535debfb80662d425803114d0399ad21e615cda/images/New_version5/TD_Model_image6.png)
 
-- After making necessary changes hit the **Update** button.
+- After making necessary changes hit the **Update** button to save the changes made.
 
 - To cancel the changes made to a project hit **Cancel** button.
 
@@ -654,11 +654,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU5NTg2OTMsLTg0Nzc1ODYzNywyMT
-EzNTc2Mzc5LC0xODkxMzg3NzU3LDIxMTM1NzYzNzksLTIwNDY3
-ODQ1NzUsLTYzMDg5MzA0MSwxOTE0NjM2MTYwLC0zNTMxMzQ5Mz
-EsODU2Mjg0NzU5LC0yMDgxNjM1MzU2LDIwMzI5NjE1NCw5NDY2
-MDM0OTAsLTIwNzQwMDg5NjgsMjIyMzk0NjMsLTE0OTA2NjgxNz
-IsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwzNDg3MjEzNzEsLTgx
-MTIwMjY1OV19
+eyJoaXN0b3J5IjpbLTE1Njg2NjM3ODQsLTE1MjU5NTg2OTMsLT
+g0Nzc1ODYzNywyMTEzNTc2Mzc5LC0xODkxMzg3NzU3LDIxMTM1
+NzYzNzksLTIwNDY3ODQ1NzUsLTYzMDg5MzA0MSwxOTE0NjM2MT
+YwLC0zNTMxMzQ5MzEsODU2Mjg0NzU5LC0yMDgxNjM1MzU2LDIw
+MzI5NjE1NCw5NDY2MDM0OTAsLTIwNzQwMDg5NjgsMjIyMzk0Nj
+MsLTE0OTA2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwz
+NDg3MjEzNzFdfQ==
 -->
