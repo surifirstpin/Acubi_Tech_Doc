@@ -82,11 +82,12 @@ To delete the project created hit the **Delete** icon, on far right of the proje
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/66530cb4c6a170b9703c654fdad1927190ba7a60/images/New_version5/TD_Model_image7.png)
-**Image 8**
+**Image 7**
+
 ## Model and Customization
 
 After saving a project, AcuBi will display the views and relevant information of the project as a **Model**, which can be further customized as per the business requirement. 
-Once the project is saved, model screen is triggered as shown in below image.
+Once the project is saved, model screen is triggered.(Refer Image 8)
 Depending on the table joins applied the code is retrieved in JSON format. To refresh the data, hit the refresh icon of model, project and tables.
 
 **4.**  To undo the changes done click **Undo**.
@@ -97,11 +98,11 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4822775225f357a86fd13bbd40a05c88bd0fca0a/images/New_version5/TD_Model_image8.png)
+**Image 8**
 
 **7.**  To hide and unhide,  model and views list click on **Angle double left** and **Angle double right** Icon.
 
 **8.** To save the model click on **Save** button.
-
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/277037f93bc45d7c04c5c27d596cc7e7e3adf0d5/images/New_version5/TD_Model_image9.png)
@@ -659,11 +660,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTAwMTg0NiwtMTUyNTk1ODY5MywtOD
-Q3NzU4NjM3LDIxMTM1NzYzNzksLTE4OTEzODc3NTcsMjExMzU3
-NjM3OSwtMjA0Njc4NDU3NSwtNjMwODkzMDQxLDE5MTQ2MzYxNj
-AsLTM1MzEzNDkzMSw4NTYyODQ3NTksLTIwODE2MzUzNTYsMjAz
-Mjk2MTU0LDk0NjYwMzQ5MCwtMjA3NDAwODk2OCwyMjIzOTQ2My
-wtMTQ5MDY2ODE3MiwtMTYxODcxNjA3MywtMjk3Mjc0NTEyLDM0
-ODcyMTM3MV19
+eyJoaXN0b3J5IjpbNjc0MjczNjIsLTE1MjU5NTg2OTMsLTg0Nz
+c1ODYzNywyMTEzNTc2Mzc5LC0xODkxMzg3NzU3LDIxMTM1NzYz
+NzksLTIwNDY3ODQ1NzUsLTYzMDg5MzA0MSwxOTE0NjM2MTYwLC
+0zNTMxMzQ5MzEsODU2Mjg0NzU5LC0yMDgxNjM1MzU2LDIwMzI5
+NjE1NCw5NDY2MDM0OTAsLTIwNzQwMDg5NjgsMjIyMzk0NjMsLT
+E0OTA2NjgxNzIsLTE2MTg3MTYwNzMsLTI5NzI3NDUxMiwzNDg3
+MjEzNzFdfQ==
 -->
