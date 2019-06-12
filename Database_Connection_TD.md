@@ -7,7 +7,7 @@
    
  **To set up database connection, Follow the below steps;**
     
-**I.**  Get the connection details for database such as Host name, port, username and password, etc from **Database Administrator.**.
+**I.**  Get the connection details for database such as Host name, port, username and password, etc from **Database Administrator.**
 
 **II.** Enable secure access to database, such as :
   -  Using  IP Address Whitelist, optionally adding SSL Encryption.
@@ -95,8 +95,8 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjgwOTU0MywyMTE2NDE1NjU4LDE5OD
-c1OTUzMDAsMTQ3OTkwNDIxMSwtMTM1OTcyMDEzOSwxNTIwODc5
-NzIwLDIxNDY0MjY0NjksMjA0NzQ2MjI0OCwtODAyNDcwOTBdfQ
-==
+eyJoaXN0b3J5IjpbMTIwOTkzNTE1MSwyMDMyODA5NTQzLDIxMT
+Y0MTU2NTgsMTk4NzU5NTMwMCwxNDc5OTA0MjExLC0xMzU5NzIw
+MTM5LDE1MjA4Nzk3MjAsMjE0NjQyNjQ2OSwyMDQ3NDYyMjQ4LC
+04MDI0NzA5MF19
 -->
