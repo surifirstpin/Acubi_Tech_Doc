@@ -31,12 +31,14 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/67d93f76cb8e582b7157b1f8e696925b97fa4abd/images/New_version5/TD_Model_image2.png)
-**Image 3g text**
+**Image 2**
+
 ###  Step 3
 - **Database** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/94a885c012491ba11e96367e359fc5a65526085e/images/New_version5/TD_Model_image3.png)
+**Image 3**
 
 ### Step 4
 - **Tables** Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under **Selected Tables** section.
@@ -45,6 +47,8 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a7917cd2c9ad40f7abbfe85519a69bc3e9a8af45/images/New_version5/TD_Model_image4.png)
+**Image 4**
+
 ### Step 5
 -   **Privacy** you can save the project in any one of the following privacy option.
 
@@ -55,7 +59,7 @@ A model is a customized gateway into the database for accessing data as per busi
     
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ffa4998a87ebeece5d3fde4f2930b83243e9b4a8/images/New_version5/TD_Model_image5.png)
-
+**Image 5**
 
 **3.** Once all the entries are made, click on  **Save Project**  to save the project created.
 
@@ -67,7 +71,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e535debfb80662d425803114d0399ad21e615cda/images/New_version5/TD_Model_image6.png)
-
+**Image 6**
 - After making necessary changes hit the **Update** button to save the changes made.
 
 - To cancel the changes made to a project hit **Cancel** button.
@@ -78,7 +82,7 @@ To delete the project created hit the **Delete** icon, on far right of the proje
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/66530cb4c6a170b9703c654fdad1927190ba7a60/images/New_version5/TD_Model_image7.png)
-
+**Image 8**
 ## Model and Customization
 
 After saving a project, AcuBi will display the views and relevant information of the project as a **Model**, which can be further customized as per the business requirement. 
@@ -655,7 +659,7 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODYyNzE2NiwtMTUyNTk1ODY5MywtOD
+eyJoaXN0b3J5IjpbLTI5NTAwMTg0NiwtMTUyNTk1ODY5MywtOD
 Q3NzU4NjM3LDIxMTM1NzYzNzksLTE4OTEzODc3NTcsMjExMzU3
 NjM3OSwtMjA0Njc4NDU3NSwtNjMwODkzMDQxLDE5MTQ2MzYxNj
 AsLTM1MzEzNDkzMSw4NTYyODQ3NTksLTIwODE2MzUzNTYsMjAz
