@@ -229,7 +229,6 @@ Views are independent tables chosen while creating a project. All the columns in
 -  Assigning currency & number format for measure fields.
 
 -  Extracting different date formats from the date field permissible formats like hour, day, week, month, quarter, year, date, week_day, date_month, date_quarter, date_hour, year_week.
-
 -  You can create new custom views.
 -  Assigning drill down fields for a field.
 -  Defining values for different map co-ordinates.
@@ -660,11 +659,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTAwOTIyMiw3MDM4MzA5MDIsLTg5Nj
-Y3MDU2MCwtMTUyNTk1ODY5MywtODQ3NzU4NjM3LDIxMTM1NzYz
-NzksLTE4OTEzODc3NTcsMjExMzU3NjM3OSwtMjA0Njc4NDU3NS
-wtNjMwODkzMDQxLDE5MTQ2MzYxNjAsLTM1MzEzNDkzMSw4NTYy
-ODQ3NTksLTIwODE2MzUzNTYsMjAzMjk2MTU0LDk0NjYwMzQ5MC
-wtMjA3NDAwODk2OCwyMjIzOTQ2MywtMTQ5MDY2ODE3MiwtMTYx
-ODcxNjA3M119
+eyJoaXN0b3J5IjpbLTMyMjIwNjcwOCwtNjA1MDA5MjIyLDcwMz
+gzMDkwMiwtODk2NjcwNTYwLC0xNTI1OTU4NjkzLC04NDc3NTg2
+MzcsMjExMzU3NjM3OSwtMTg5MTM4Nzc1NywyMTEzNTc2Mzc5LC
+0yMDQ2Nzg0NTc1LC02MzA4OTMwNDEsMTkxNDYzNjE2MCwtMzUz
+MTM0OTMxLDg1NjI4NDc1OSwtMjA4MTYzNTM1NiwyMDMyOTYxNT
+QsOTQ2NjAzNDkwLC0yMDc0MDA4OTY4LDIyMjM5NDYzLC0xNDkw
+NjY4MTcyXX0=
 -->
