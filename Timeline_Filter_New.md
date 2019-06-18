@@ -282,7 +282,7 @@
 |  **Example** | **Description** |
 |  ------ | ------ |
 |  day in year n to date | Every year of  first day to  nth day |
-|  day in month n to dtae | Every  month of first day to nth day |
+|  day in month n to date | Every  month of first day to nth day |
 |  day in quarter n to date | Every quarter of first day to nth day |
 |  day in week n to date | Every week of first  day to nth day |
 |  week in year n to date | Every year of first week to nth week |
@@ -312,7 +312,7 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjc0MzM4MiwtMTE1MDQ5MDY1OCwtOD
-M3OTU1OTk0LDE0Mjg4OTMyNDAsLTE4ODk5MTk0NCwtNTE2MTg3
-ODAyLDE5ODUwNzM3NDhdfQ==
+eyJoaXN0b3J5IjpbLTE5NjczNTQ1NDQsLTExNTA0OTA2NTgsLT
+gzNzk1NTk5NCwxNDI4ODkzMjQwLC0xODg5OTE5NDQsLTUxNjE4
+NzgwMiwxOTg1MDczNzQ4XX0=
 -->
