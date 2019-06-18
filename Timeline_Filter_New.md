@@ -103,7 +103,7 @@
 |  next n full days | data belongs to the next n completed days with reference to the current point of time (if data exists) |
 |  next n full weeks | data belongs to the next n completed weeks with reference to the current point of time (if data exists)<br/>(week resembles start date of week to next date of week) |
 |  next n full months | data belongs to the next n completed months with reference to the current point of time (if data exists)<br/>(month resembles start date of month to next date of month) |
-|  next n full quarters | data belongs to the next n completed quarters with reference to the current point of time (if data exists)<br/>(quarter resembles start date to the next date of te quarter) |
+|  next n full quarters | data belongs to the next n completed quarters with reference to the current point of time (if data exists)<br/>(quarter resembles start date to the next date of the quarter) |
 |  next n full years | data belongs to the next n completed years with reference to the current point of time (if data exists)<br/>(year resembles start date to the next date of the year) |
 
 ## Ago
@@ -176,7 +176,7 @@
 |  after n full weeks | data from exactly ‘n’ completed weeks after the current point of time to the last available record <br/>(excluded the current week and week here resembles 7 days and not from start date of a week to end date of week) |
 |  after n full months | data from exactly ‘n’ completed months after the current point of time to the last available record<br/>(excluded the current month and month here resembles 30 days and not from start date of a month to end date of month) |
 |  after n full quarters | data from exactly ‘n’ completed quarter after the current point of time to the last available record<br/>(excluded the current quarter and quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
-|  after n full years | data from exactly ‘n’ completed years after the current point of time to the last available record<br/>(excluded the currentyear and year here resembles 365 days and not from start date of a year to end date of year) |
+|  after n full years | data from exactly ‘n’ completed years after the current point of time to the last available record<br/>(excluded the current year and year here resembles 365 days and not from start date of a year to end date of year) |
 
 ## over series
 
@@ -312,7 +312,7 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA0OTA2NTgsLTgzNzk1NTk5NCwxND
-I4ODkzMjQwLC0xODg5OTE5NDQsLTUxNjE4NzgwMiwxOTg1MDcz
-NzQ4XX0=
+eyJoaXN0b3J5IjpbMTUzMjc0MzM4MiwtMTE1MDQ5MDY1OCwtOD
+M3OTU1OTk0LDE0Mjg4OTMyNDAsLTE4ODk5MTk0NCwtNTE2MTg3
+ODAyLDE5ODUwNzM3NDhdfQ==
 -->
