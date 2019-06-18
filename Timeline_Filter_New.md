@@ -58,6 +58,7 @@
 |  next month | from the zero hour of the start date to the last hour of the last date in the immediate month with reference to current point of time (if data exists) |
 |  next quarter | from the zero hour of the start date to the last hour of the last date in the immediate quarter with reference to current point of time (if data exists) |
 |  next year | from the zero hour of the start date to the last hour of the last date in the immediate year with reference to current point of time (if data exists) |
+
 ## Last & n
 |  **Example** | **Description** |
 |  ------ | ------ |
@@ -69,6 +70,7 @@
 |  last n month | data from exactly ‘n’ months before the current point of time and up to current point of time<br/>(month here resembles 30 days and not from start date of a month to end date of month) |
 |  last n quarters | data from exactly ‘n’ quarters before the current point of time and up to current point of time<br/>(quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
 |  last n years | data from exactly ‘n’ years before the current point of time and up to current point of time<br/>(year here resembles 365 days and not from start date of a year to end date of year) |
+
 ## last – n – full
 
 |  **Example** | **Description** |
@@ -80,6 +82,7 @@
 |  last n full months | data belongs to the last n completed months with reference to the current point of time<br/>(month resembles start date of month to last date of month) |
 |  last n full quarters | data belongs to the last n completed quarters with reference to the current point of time<br/>(quarter resembles start date to the last date of te quarter) |
 |  last n full years | data belongs to the last n completed years with reference to the current point of time<br/>(year resembles start date to the last date of the year) |
+
 ## next & ‘n’
 |  **Example** | **Description** |
 |  ------ | ------ |
@@ -309,6 +312,6 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODg5MzI0MCwtMTg4OTkxOTQ0LC01MT
-YxODc4MDIsMTk4NTA3Mzc0OF19
+eyJoaXN0b3J5IjpbLTgzNzk1NTk5NCwxNDI4ODkzMjQwLC0xOD
+g5OTE5NDQsLTUxNjE4NzgwMiwxOTg1MDczNzQ4XX0=
 -->
