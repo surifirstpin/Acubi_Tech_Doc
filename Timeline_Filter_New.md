@@ -14,7 +14,7 @@
 |  this month | from zero hour of current month start date to current point of time |
 |  this quarter | from zero hour of current quarter start date to current point of time |
 |  this year | from zero hour of current year start date to current point of time |
-|  **full** |  |
+|  **FULL** |  |
 |  today full | from zero hour to last hour of today (if data exists) |
 |  this full minute | from zero seconds of current minute to the 60th second(if data exists) |
 |  this full hour | from zero minute, zero seconds of current hour to the 60th minute, 60th second(if data exists) |
@@ -309,6 +309,6 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk5MTk0NCwtNTE2MTg3ODAyLC0xOD
-g5OTE5NDQsMTk4NTA3Mzc0OF19
+eyJoaXN0b3J5IjpbMTQyODg5MzI0MCwtMTg4OTkxOTQ0LC01MT
+YxODc4MDIsMTk4NTA3Mzc0OF19
 -->
