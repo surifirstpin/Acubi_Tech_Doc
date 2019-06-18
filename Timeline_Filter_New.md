@@ -149,7 +149,7 @@
 |  before n full hours | data from beginning to exactly  ‘n’ completed hours before the current point of time |
 |  before n full days | data from beginning to exactly  ‘n’ completed days before the current point of time |
 |  before n full weeks | data from beginning to exactly  ‘n’ completed Weeks before the current point of time (excludes current week)<br/>(week here resembles time between start date of the week to last date of the week) |
-|  beforen full months | data from beginning to exactly  ‘n’ completed months before the current point of time (excludes current month)<br/>(week here resembles time between start date of the month to last date of the month) |
+|  before n full months | data from beginning to exactly  ‘n’ completed months before the current point of time (excludes current month)<br/>(week here resembles time between start date of the month to last date of the month) |
 |  before n full quarters | data from beginning to exactly  ‘n’ completed quarters before the current point of time (excludes current quarter)<br/>(week here resembles time between start date of the quarter to last date of the quarter) |
 |  before n full years | data from beginning to exactly  ‘n’ completed year before the current point of time (excludes current year)<br/>(week here resembles time between start date of the year to last date of the year)|
 
@@ -159,7 +159,7 @@
 |  after n seconds | data from exactly ‘n’ seconds after the current point of time to the last available record |
 |  after n minutes | data from exactly ‘n’ minutes after the current point of time to the last available record |
 |  after n hours | data from exactly ‘n’ hours after the current point of time to the last available record |
-|  aftter n days | data from exactly ‘n’ days after the current point of time to the last available record |
+|  after n days | data from exactly ‘n’ days after the current point of time to the last available record |
 |  after n weeks | data from exactly ‘n’ weeks after the current point of time to the last available record<br/>(week here resembles 7 days and not from start date of a week to end date of week) |
 |  after n months | data from exactly ‘n’ months after the current point of time to the last available record<br/>(month here resembles 30 days and not from start date of a month to end date of month) |
 |  after n quarters | data from exactly ‘n’ quarter after the current point of time to the last available record<br/>(quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
@@ -198,22 +198,22 @@
 |  **Example** | **Description** |
 |  ------ | ------ |
 |  doy n | data belongs to exactly ‘n’th day after the current day in all the available years (gives future data if exists) |
-|  dom n | data belongs to exactly ‘n’th day after the current day in all the availbale months (gives future data if exists) |
-|  doq n | data belongs to exactly ‘n’th day after the current day(that is current day number in quarter) in all the availbale quarters (gives future data if exists) |
-|  dow n | data belongs to exactly ‘n’th day after the current day(that is current day number in week) in all the availbale weeks (gives future data if exists) |
-|  woy n | data belongs to exactly ‘n’th week after the current week(that is current week number in year) in all the availbale years (gives future data if exists) |
-|  wom n | data belongs to exactly ‘n’th week after the current week(that is current week number in month) in all the availbale months (gives future data if exists) |
-|  woq n | data belongs to exactly ‘n’th week after the current week(that is current week number in quarter) in all the availbale quarters (gives future data if exists) |
-|  moy n | data belongs to exactly ‘n’th months after the current month(that is current month number in year) in all the availbale years (gives future data if exists) |
-|  moq n | data belongs to exactly ‘n’th month after the current month(that is current month number in quarter) in all the availbale quarters (gives future data if exists) |
-|  qoy n | data belongs to exactly ‘n’th quarter after the current quarter(that is current quarter number in year) in all the availbale years (gives future data if exists) |
+|  dom n | data belongs to exactly ‘n’th day after the current day in all the available months (gives future data if exists) |
+|  doq n | data belongs to exactly ‘n’th day after the current day(that is current day number in quarter) in all the available quarters (gives future data if exists) |
+|  dow n | data belongs to exactly ‘n’th day after the current day(that is current day number in week) in all the available weeks (gives future data if exists) |
+|  woy n | data belongs to exactly ‘n’th week after the current week(that is current week number in year) in all the available years (gives future data if exists) |
+|  wom n | data belongs to exactly ‘n’th week after the current week(that is current week number in month) in all the available months (gives future data if exists) |
+|  woq n | data belongs to exactly ‘n’th week after the current week(that is current week number in quarter) in all the available quarters (gives future data if exists) |
+|  moy n | data belongs to exactly ‘n’th months after the current month(that is current month number in year) in all the available years (gives future data if exists) |
+|  moq n | data belongs to exactly ‘n’th month after the current month(that is current month number in quarter) in all the available quarters (gives future data if exists) |
+|  qoy n | data belongs to exactly ‘n’th quarter after the current quarter(that is current quarter number in year) in all the available years (gives future data if exists) |
 
 ## over & ‘-n’ series
 |  **Example** | **Description** |
 |  ------ | ------ |
 |  doy -n | data belongs to exactly ‘n’th day before the current day in all the available years (gives future data if exists) |
-|  dom -n | data belongs to exactly ‘n’th day before the current day in all the availbale months (gives future data if exists) |
-|  doq -n | data belongs to exactly ‘n’th day before the current day(that is current day number in quarter) in all the availbale quarters (gives future data if exists) |
+|  dom -n | data belongs to exactly ‘n’th day before the current day in all the available  months (gives future data if exists) |
+|  doq -n | data belongs to exactly ‘n’th day before the current day(that is current day number in quarter) in all the available quarters (gives future data if exists) |
 |  dow -n | data belongs to exactly ‘n’th day before the current day(that is current day number in week) in all the availbale weeks (gives future data if exists) |
 |  woy -n | data belongs to exactly ‘n’th week before the current week(that is current week number in year) in all the availbale years (gives future data if exists) |
 |  wom -n | data belongs to exactly ‘n’th week before the current week(that is current week number in month) in all the availbale months (gives future data if exists) |
@@ -312,6 +312,7 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzk1NTk5NCwxNDI4ODkzMjQwLC0xOD
-g5OTE5NDQsLTUxNjE4NzgwMiwxOTg1MDczNzQ4XX0=
+eyJoaXN0b3J5IjpbMTY2MzY3NTM4MCwtODM3OTU1OTk0LDE0Mj
+g4OTMyNDAsLTE4ODk5MTk0NCwtNTE2MTg3ODAyLDE5ODUwNzM3
+NDhdfQ==
 -->
