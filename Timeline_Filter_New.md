@@ -1,7 +1,7 @@
 
 
 
-<center><h1>Timeline Filters</h1></center>
+<center><h1>TIMELINE FILTERS</h1></center>
 
 ## Date 
 |  **Example** | **Description** |
@@ -312,7 +312,7 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjczNTQ1NDQsLTExNTA0OTA2NTgsLT
-gzNzk1NTk5NCwxNDI4ODkzMjQwLC0xODg5OTE5NDQsLTUxNjE4
-NzgwMiwxOTg1MDczNzQ4XX0=
+eyJoaXN0b3J5IjpbLTE5NDE3MzIwNDgsLTE5NjczNTQ1NDQsLT
+ExNTA0OTA2NTgsLTgzNzk1NTk5NCwxNDI4ODkzMjQwLC0xODg5
+OTE5NDQsLTUxNjE4NzgwMiwxOTg1MDczNzQ4XX0=
 -->
