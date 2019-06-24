@@ -1,5 +1,5 @@
 
-<center><h1>Analysis</h1></center>
+<center><h1>ANALYSIS</h1></center>
 
 **Analysis section** is a starting point for building a query.  it is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
@@ -370,8 +370,8 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODE3MTM1NywtMTY4NjU4Njk2MSwtMT
-g2ODAyMjM3MSwxMDg4Mzg1NDcxLC0xMTk0NDkzMDA5LC02ODk3
-Nzg2Nyw4MTI2OTI0MjMsMTkyNjc2MTcyMiwtMTQ4Njk5ODU5OF
-19
+eyJoaXN0b3J5IjpbMTM4Mzc2MDI1MywxNDg4MTcxMzU3LC0xNj
+g2NTg2OTYxLC0xODY4MDIyMzcxLDEwODgzODU0NzEsLTExOTQ0
+OTMwMDksLTY4OTc3ODY3LDgxMjY5MjQyMywxOTI2NzYxNzIyLC
+0xNDg2OTk4NTk4XX0=
 -->
