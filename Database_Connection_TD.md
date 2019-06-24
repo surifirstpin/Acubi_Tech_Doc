@@ -1,7 +1,7 @@
 
 
 
-<center><h1>DATABASE </h1></center>
+<center><h1>DATABASE CONNECTION</h1></center>
 
  **Connection** Specifies a database connection from which a model can retrieve the data.
    
@@ -101,11 +101,11 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODkwOTE5MywzMzY5NjU2NTMsLTE1MT
-c4Njc0NDMsLTQ2MjUyNTcwNywtMjk2MjExMjA4LDEzOTg1OTA4
-MzgsLTEzNTQ5OTU4MzYsMjA1NTczNzgyNywtMTg5NjY5NjM4My
-wxMDYxNDk3NywxMjA5OTM1MTUxLDIwMzI4MDk1NDMsMjExNjQx
-NTY1OCwxOTg3NTk1MzAwLDE0Nzk5MDQyMTEsLTEzNTk3MjAxMz
-ksMTUyMDg3OTcyMCwyMTQ2NDI2NDY5LDIwNDc0NjIyNDgsLTgw
-MjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbLTE5ODk2NzA4OTEsMzM2OTY1NjUzLC0xNT
+E3ODY3NDQzLC00NjI1MjU3MDcsLTI5NjIxMTIwOCwxMzk4NTkw
+ODM4LC0xMzU0OTk1ODM2LDIwNTU3Mzc4MjcsLTE4OTY2OTYzOD
+MsMTA2MTQ5NzcsMTIwOTkzNTE1MSwyMDMyODA5NTQzLDIxMTY0
+MTU2NTgsMTk4NzU5NTMwMCwxNDc5OTA0MjExLC0xMzU5NzIwMT
+M5LDE1MjA4Nzk3MjAsMjE0NjQyNjQ2OSwyMDQ3NDYyMjQ4LC04
+MDI0NzA5MF19
 -->
