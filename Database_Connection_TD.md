@@ -31,7 +31,7 @@
 ](https://raw.githubusercontent.com/sv18042016/fp1/b9756e1483bd0d90240ab79291ca14627ae39368/images/New_version5/TD_Database_Connection_image1.png)
 **Image 1**
 
-*Enter the following details in New connection page ;*
+***Enter the following details in New connection page ;***
 
 -  **Name** specify a name to define connection.
  
@@ -96,8 +96,8 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzU2MzUxOSwxMDYxNDk3NywxMjA5OT
-M1MTUxLDIwMzI4MDk1NDMsMjExNjQxNTY1OCwxOTg3NTk1MzAw
-LDE0Nzk5MDQyMTEsLTEzNTk3MjAxMzksMTUyMDg3OTcyMCwyMT
-Q2NDI2NDY5LDIwNDc0NjIyNDgsLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbLTE4OTY2OTYzODMsMTA2MTQ5NzcsMTIwOT
+kzNTE1MSwyMDMyODA5NTQzLDIxMTY0MTU2NTgsMTk4NzU5NTMw
+MCwxNDc5OTA0MjExLC0xMzU5NzIwMTM5LDE1MjA4Nzk3MjAsMj
+E0NjQyNjQ2OSwyMDQ3NDYyMjQ4LC04MDI0NzA5MF19
 -->
