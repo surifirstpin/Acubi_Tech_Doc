@@ -45,7 +45,7 @@
 
 - **Username and Password** Credentials used to connect the database.
 
-- **Temporary Database**  
+- **Temporary Database**  To get the data path location of local files for user.
 
 - **Maximum connection** Concurrent connection used by  database.
 
@@ -98,9 +98,9 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA5Njc1MTEsLTEzNTQ5OTU4MzYsMj
-A1NTczNzgyNywtMTg5NjY5NjM4MywxMDYxNDk3NywxMjA5OTM1
-MTUxLDIwMzI4MDk1NDMsMjExNjQxNTY1OCwxOTg3NTk1MzAwLD
-E0Nzk5MDQyMTEsLTEzNTk3MjAxMzksMTUyMDg3OTcyMCwyMTQ2
-NDI2NDY5LDIwNDc0NjIyNDgsLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbMTM5ODU5MDgzOCwtMTM1NDk5NTgzNiwyMD
+U1NzM3ODI3LC0xODk2Njk2MzgzLDEwNjE0OTc3LDEyMDk5MzUx
+NTEsMjAzMjgwOTU0MywyMTE2NDE1NjU4LDE5ODc1OTUzMDAsMT
+Q3OTkwNDIxMSwtMTM1OTcyMDEzOSwxNTIwODc5NzIwLDIxNDY0
+MjY0NjksMjA0NzQ2MjI0OCwtODAyNDcwOTBdfQ==
 -->
