@@ -65,10 +65,11 @@
   - Database port number as seen from the tunnel server.
   - IP address or DNS name of the tunnel server as seen from the public internet.
   - SSH port of the tunnel server as seen from the public internet.
-  - Username on the tunnel server for the SSH connection (the standard is looker).
-  
+  - Username and Password on the tunnel server for the SSH connection (the standard is looker).
+
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
+**Image 2**
 
 **3.** **Dialects** select the accurate dialect from the list using drop down option.
 
@@ -98,9 +99,10 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODU5MDgzOCwtMTM1NDk5NTgzNiwyMD
-U1NzM3ODI3LC0xODk2Njk2MzgzLDEwNjE0OTc3LDEyMDk5MzUx
-NTEsMjAzMjgwOTU0MywyMTE2NDE1NjU4LDE5ODc1OTUzMDAsMT
-Q3OTkwNDIxMSwtMTM1OTcyMDEzOSwxNTIwODc5NzIwLDIxNDY0
-MjY0NjksMjA0NzQ2MjI0OCwtODAyNDcwOTBdfQ==
+eyJoaXN0b3J5IjpbMTkxNjY2MzA4OSwxMzk4NTkwODM4LC0xMz
+U0OTk1ODM2LDIwNTU3Mzc4MjcsLTE4OTY2OTYzODMsMTA2MTQ5
+NzcsMTIwOTkzNTE1MSwyMDMyODA5NTQzLDIxMTY0MTU2NTgsMT
+k4NzU5NTMwMCwxNDc5OTA0MjExLC0xMzU5NzIwMTM5LDE1MjA4
+Nzk3MjAsMjE0NjQyNjQ2OSwyMDQ3NDYyMjQ4LC04MDI0NzA5MF
+19
 -->
