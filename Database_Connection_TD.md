@@ -37,7 +37,7 @@
  
  - **Database (dialect)** choose appropriate dialect based on  connection. 
  
->**Note:** Based on priority, more number of dialects can be introduced.
+>**Note:** Depending on priority, more number of dialects can be introduced in Acubi.
 
 - **Host**  Database host path.
 
@@ -96,8 +96,9 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY2OTYzODMsMTA2MTQ5NzcsMTIwOT
-kzNTE1MSwyMDMyODA5NTQzLDIxMTY0MTU2NTgsMTk4NzU5NTMw
-MCwxNDc5OTA0MjExLC0xMzU5NzIwMTM5LDE1MjA4Nzk3MjAsMj
-E0NjQyNjQ2OSwyMDQ3NDYyMjQ4LC04MDI0NzA5MF19
+eyJoaXN0b3J5IjpbMjA1NTczNzgyNywtMTg5NjY5NjM4MywxMD
+YxNDk3NywxMjA5OTM1MTUxLDIwMzI4MDk1NDMsMjExNjQxNTY1
+OCwxOTg3NTk1MzAwLDE0Nzk5MDQyMTEsLTEzNTk3MjAxMzksMT
+UyMDg3OTcyMCwyMTQ2NDI2NDY5LDIwNDc0NjIyNDgsLTgwMjQ3
+MDkwXX0=
 -->
