@@ -66,7 +66,7 @@
   - IP address or DNS name of the tunnel server as seen from the public internet.
   - SSH port of the tunnel server as seen from the public internet.
   - Username and Password on the tunnel server for the SSH connection (the standard is looker).
-  - **Browse Key File** upload a private or public local key for upload
+  - **Browse Key File** upload a private or public key from local system.
  
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
@@ -100,7 +100,7 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mjc0MDYxMiwtMjk2MjExMjA4LDEzOT
+eyJoaXN0b3J5IjpbLTQ2MjUyNTcwNywtMjk2MjExMjA4LDEzOT
 g1OTA4MzgsLTEzNTQ5OTU4MzYsMjA1NTczNzgyNywtMTg5NjY5
 NjM4MywxMDYxNDk3NywxMjA5OTM1MTUxLDIwMzI4MDk1NDMsMj
 ExNjQxNTY1OCwxOTg3NTk1MzAwLDE0Nzk5MDQyMTEsLTEzNTk3
