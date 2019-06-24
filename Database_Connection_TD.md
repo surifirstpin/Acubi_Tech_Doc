@@ -23,7 +23,7 @@
 
 >**Navigation: Database→ New connection**
 
- **1.** Click on **Database Section** to setup a database connection.
+ **1.** Click on **Database Section**
 
  **2.** Click on **New Connection**  button to start setting up the connection to database. In general, specify the below mentioned fields:
   
@@ -95,8 +95,8 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTQ5NzcsMTIwOTkzNTE1MSwyMDMyOD
-A5NTQzLDIxMTY0MTU2NTgsMTk4NzU5NTMwMCwxNDc5OTA0MjEx
-LC0xMzU5NzIwMTM5LDE1MjA4Nzk3MjAsMjE0NjQyNjQ2OSwyMD
-Q3NDYyMjQ4LC04MDI0NzA5MF19
+eyJoaXN0b3J5IjpbLTEzMTk4NTYxMTMsMTA2MTQ5NzcsMTIwOT
+kzNTE1MSwyMDMyODA5NTQzLDIxMTY0MTU2NTgsMTk4NzU5NTMw
+MCwxNDc5OTA0MjExLC0xMzU5NzIwMTM5LDE1MjA4Nzk3MjAsMj
+E0NjQyNjQ2OSwyMDQ3NDYyMjQ4LC04MDI0NzA5MF19
 -->
