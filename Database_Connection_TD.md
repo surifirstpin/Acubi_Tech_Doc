@@ -87,6 +87,7 @@
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bb8fa15c4665b7b50dbfaa9191605b04a70bfdf0/images/New_version5/TD_Database_Connection_image3.png)
+**Image 3**
 
    **6.** Click **Edit** option to make any changes to connection established.
    
@@ -100,10 +101,10 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc4Njc0NDMsLTQ2MjUyNTcwNywtMj
-k2MjExMjA4LDEzOTg1OTA4MzgsLTEzNTQ5OTU4MzYsMjA1NTcz
-NzgyNywtMTg5NjY5NjM4MywxMDYxNDk3NywxMjA5OTM1MTUxLD
-IwMzI4MDk1NDMsMjExNjQxNTY1OCwxOTg3NTk1MzAwLDE0Nzk5
-MDQyMTEsLTEzNTk3MjAxMzksMTUyMDg3OTcyMCwyMTQ2NDI2ND
-Y5LDIwNDc0NjIyNDgsLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbMzM2OTY1NjUzLC0xNTE3ODY3NDQzLC00Nj
+I1MjU3MDcsLTI5NjIxMTIwOCwxMzk4NTkwODM4LC0xMzU0OTk1
+ODM2LDIwNTU3Mzc4MjcsLTE4OTY2OTYzODMsMTA2MTQ5NzcsMT
+IwOTkzNTE1MSwyMDMyODA5NTQzLDIxMTY0MTU2NTgsMTk4NzU5
+NTMwMCwxNDc5OTA0MjExLC0xMzU5NzIwMTM5LDE1MjA4Nzk3Mj
+AsMjE0NjQyNjQ2OSwyMDQ3NDYyMjQ4LC04MDI0NzA5MF19
 -->
