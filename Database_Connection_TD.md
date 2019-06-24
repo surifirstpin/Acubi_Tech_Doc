@@ -35,7 +35,7 @@
 
 -  **Name** specify a name to define connection.
  
- - **Database (dialect)** choose appropriate dialect based on  connection. 
+ - **Dialect** choose appropriate dialect based on  connection being established. 
  
 >**Note:** Depending on priority, more number of dialects can be introduced in Acubi.
 
@@ -98,9 +98,9 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ5OTU4MzYsMjA1NTczNzgyNywtMT
-g5NjY5NjM4MywxMDYxNDk3NywxMjA5OTM1MTUxLDIwMzI4MDk1
-NDMsMjExNjQxNTY1OCwxOTg3NTk1MzAwLDE0Nzk5MDQyMTEsLT
-EzNTk3MjAxMzksMTUyMDg3OTcyMCwyMTQ2NDI2NDY5LDIwNDc0
-NjIyNDgsLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbLTEwMjA5Njc1MTEsLTEzNTQ5OTU4MzYsMj
+A1NTczNzgyNywtMTg5NjY5NjM4MywxMDYxNDk3NywxMjA5OTM1
+MTUxLDIwMzI4MDk1NDMsMjExNjQxNTY1OCwxOTg3NTk1MzAwLD
+E0Nzk5MDQyMTEsLTEzNTk3MjAxMzksMTUyMDg3OTcyMCwyMTQ2
+NDI2NDY5LDIwNDc0NjIyNDgsLTgwMjQ3MDkwXX0=
 -->
