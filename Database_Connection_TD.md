@@ -25,7 +25,7 @@
 
  **1.** Click on **Database Section.** It navigates to database connections page.
 
- **2.** Click on **New Connection** button  (top right) to start setting up the connection to database. In general, specify the below mentioned fields:
+ **2.** Click on **New Connection** button  (on top right) to start setting up the connection to database. In general, specify the below mentioned fields:
   
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b9756e1483bd0d90240ab79291ca14627ae39368/images/New_version5/TD_Database_Connection_image1.png)
@@ -95,8 +95,8 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTcxOTUxNCwxMDYxNDk3NywxMjA5OT
-M1MTUxLDIwMzI4MDk1NDMsMjExNjQxNTY1OCwxOTg3NTk1MzAw
-LDE0Nzk5MDQyMTEsLTEzNTk3MjAxMzksMTUyMDg3OTcyMCwyMT
-Q2NDI2NDY5LDIwNDc0NjIyNDgsLTgwMjQ3MDkwXX0=
+eyJoaXN0b3J5IjpbOTAwOTcyNzEzLDEwNjE0OTc3LDEyMDk5Mz
+UxNTEsMjAzMjgwOTU0MywyMTE2NDE1NjU4LDE5ODc1OTUzMDAs
+MTQ3OTkwNDIxMSwtMTM1OTcyMDEzOSwxNTIwODc5NzIwLDIxND
+Y0MjY0NjksMjA0NzQ2MjI0OCwtODAyNDcwOTBdfQ==
 -->
