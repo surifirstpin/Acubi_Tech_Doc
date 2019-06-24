@@ -1,7 +1,7 @@
 
 
 
-<center><h1>DATABASE CONNECTION</h1></center>
+<center><h2>DATABASE CONNECTION</h2></center>
 
  **Connection** Specifies a database connection from which a model can retrieve the data.
    
@@ -101,7 +101,7 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk2NzA4OTEsMzM2OTY1NjUzLC0xNT
+eyJoaXN0b3J5IjpbLTExOTAyNTExMTMsMzM2OTY1NjUzLC0xNT
 E3ODY3NDQzLC00NjI1MjU3MDcsLTI5NjIxMTIwOCwxMzk4NTkw
 ODM4LC0xMzU0OTk1ODM2LDIwNTU3Mzc4MjcsLTE4OTY2OTYzOD
 MsMTA2MTQ5NzcsMTIwOTkzNTE1MSwyMDMyODA5NTQzLDIxMTY0
