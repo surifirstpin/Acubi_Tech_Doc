@@ -25,16 +25,16 @@ A model is a customized gateway into the database for accessing data as per busi
 
 **Enter the following details;**
 
--   **Project Name**  Enter the project name.
+-   **Project Name:**  Enter the project name.
 ### Step 2    
--   **Connection**  Choose the database connection from the drop-down list provided.
+-   **Connection:**  Choose the database connection from the drop-down list provided.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/67d93f76cb8e582b7157b1f8e696925b97fa4abd/images/New_version5/TD_Model_image2.png)
 **Image 2**
 
 ###  Step 3
-- **Database** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
+- **Database:** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/94a885c012491ba11e96367e359fc5a65526085e/images/New_version5/TD_Model_image3.png)
@@ -659,11 +659,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTE2MTgzMCwtMTc1MDk1MDQzOCwtNj
-Y0NjI3OTEwLDE4NDI5MzMyNDAsLTE2MjM2MjM5MjYsMTg0Mjkz
-MzI0MCwxNjc1OTk0MTU5LC0zMjMwODE0MjksMzE5NTk5MzU0LC
-0zMjIyMDY3MDgsLTYwNTAwOTIyMiw3MDM4MzA5MDIsLTg5NjY3
-MDU2MCwtMTUyNTk1ODY5MywtODQ3NzU4NjM3LDIxMTM1NzYzNz
-ksLTE4OTEzODc3NTcsMjExMzU3NjM3OSwtMjA0Njc4NDU3NSwt
-NjMwODkzMDQxXX0=
+eyJoaXN0b3J5IjpbLTExNjI0NTQwODQsLTkxMTE2MTgzMCwtMT
+c1MDk1MDQzOCwtNjY0NjI3OTEwLDE4NDI5MzMyNDAsLTE2MjM2
+MjM5MjYsMTg0MjkzMzI0MCwxNjc1OTk0MTU5LC0zMjMwODE0Mj
+ksMzE5NTk5MzU0LC0zMjIyMDY3MDgsLTYwNTAwOTIyMiw3MDM4
+MzA5MDIsLTg5NjY3MDU2MCwtMTUyNTk1ODY5MywtODQ3NzU4Nj
+M3LDIxMTM1NzYzNzksLTE4OTEzODc3NTcsMjExMzU3NjM3OSwt
+MjA0Njc4NDU3NV19
 -->
