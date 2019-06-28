@@ -51,10 +51,10 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ### Step 5
 -   **Privacy** you can save the project in any one of the following privacy option.
-    -   **Private**  report saved in private section are accessed by the existing user only.
-    -   **Public**  report is saved in public section are accessed by all the users.
+    -   **Private:**  report saved in private section are accessed by the existing user only.
+    -   **Public:**  report is saved in public section are accessed by all the users.
    
-    -   **Share**  report saved under share section are accessed by specific group of users only.
+    -   **Share:**  report saved under share section are accessed by specific set of users.
     
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ffa4998a87ebeece5d3fde4f2930b83243e9b4a8/images/New_version5/TD_Model_image5.png)
@@ -658,11 +658,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTU1MDIzMCwtOTExMTYxODMwLC0xNz
-UwOTUwNDM4LC02NjQ2Mjc5MTAsMTg0MjkzMzI0MCwtMTYyMzYy
-MzkyNiwxODQyOTMzMjQwLDE2NzU5OTQxNTksLTMyMzA4MTQyOS
-wzMTk1OTkzNTQsLTMyMjIwNjcwOCwtNjA1MDA5MjIyLDcwMzgz
-MDkwMiwtODk2NjcwNTYwLC0xNTI1OTU4NjkzLC04NDc3NTg2Mz
-csMjExMzU3NjM3OSwtMTg5MTM4Nzc1NywyMTEzNTc2Mzc5LC0y
-MDQ2Nzg0NTc1XX0=
+eyJoaXN0b3J5IjpbODE3MzE1ODcsLTkxMTE2MTgzMCwtMTc1MD
+k1MDQzOCwtNjY0NjI3OTEwLDE4NDI5MzMyNDAsLTE2MjM2MjM5
+MjYsMTg0MjkzMzI0MCwxNjc1OTk0MTU5LC0zMjMwODE0MjksMz
+E5NTk5MzU0LC0zMjIyMDY3MDgsLTYwNTAwOTIyMiw3MDM4MzA5
+MDIsLTg5NjY3MDU2MCwtMTUyNTk1ODY5MywtODQ3NzU4NjM3LD
+IxMTM1NzYzNzksLTE4OTEzODc3NTcsMjExMzU3NjM3OSwtMjA0
+Njc4NDU3NV19
 -->
