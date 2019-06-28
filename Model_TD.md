@@ -1,5 +1,6 @@
 <center><h2>MODEL</h2></center>
-This section discusses the steps to create a new project and accordingly generates a basic model from the database.
+
+This section introduces the steps to create a new project and accordingly generates a basic model from the database.
 A model is a customized gateway into the database for accessing data as per business logic. AcuBi provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
 
 **A Model can be defined in 3 steps :**
@@ -658,7 +659,7 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAzNDg3MjIsLTY2NDYyNzkxMCwxOD
+eyJoaXN0b3J5IjpbLTE3NTA5NTA0MzgsLTY2NDYyNzkxMCwxOD
 QyOTMzMjQwLC0xNjIzNjIzOTI2LDE4NDI5MzMyNDAsMTY3NTk5
 NDE1OSwtMzIzMDgxNDI5LDMxOTU5OTM1NCwtMzIyMjA2NzA4LC
 02MDUwMDkyMjIsNzAzODMwOTAyLC04OTY2NzA1NjAsLTE1MjU5
