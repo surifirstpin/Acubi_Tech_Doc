@@ -1,5 +1,4 @@
-<center><h2>
-MODEL</h2></center>
+<center><h2>MODEL</h2></center>
 
 This section introduces the steps to create a new project and accordingly generates a basic model from the database.
 A model is a customized gateway into the database for accessing data as per business logic. AcuBi provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
@@ -659,11 +658,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMyNTU3ODcsLTEzNzA4NzM3NzEsOD
-E3MzE1ODcsLTkxMTE2MTgzMCwtMTc1MDk1MDQzOCwtNjY0NjI3
-OTEwLDE4NDI5MzMyNDAsLTE2MjM2MjM5MjYsMTg0MjkzMzI0MC
-wxNjc1OTk0MTU5LC0zMjMwODE0MjksMzE5NTk5MzU0LC0zMjIy
-MDY3MDgsLTYwNTAwOTIyMiw3MDM4MzA5MDIsLTg5NjY3MDU2MC
-wtMTUyNTk1ODY5MywtODQ3NzU4NjM3LDIxMTM1NzYzNzksLTE4
-OTEzODc3NTddfQ==
+eyJoaXN0b3J5IjpbLTYyMDY1MDQyOSwtMjA3MzI1NTc4NywtMT
+M3MDg3Mzc3MSw4MTczMTU4NywtOTExMTYxODMwLC0xNzUwOTUw
+NDM4LC02NjQ2Mjc5MTAsMTg0MjkzMzI0MCwtMTYyMzYyMzkyNi
+wxODQyOTMzMjQwLDE2NzU5OTQxNTksLTMyMzA4MTQyOSwzMTk1
+OTkzNTQsLTMyMjIwNjcwOCwtNjA1MDA5MjIyLDcwMzgzMDkwMi
+wtODk2NjcwNTYwLC0xNTI1OTU4NjkzLC04NDc3NTg2MzcsMjEx
+MzU3NjM3OV19
 -->
