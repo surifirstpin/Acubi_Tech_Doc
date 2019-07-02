@@ -99,7 +99,7 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 ](https://raw.githubusercontent.com/sv18042016/fp1/4822775225f357a86fd13bbd40a05c88bd0fca0a/images/New_version5/TD_Model_image8.png)
 **Image 8**
 
-**7.**  To hide and unhide,  model and views list click on **Angle double left** and **Angle double right** Icon.
+**7.**  To hide and unhide model and views list click on **Angle double left** and **Angle double right** Icon.
 
 **8.** To save the model click on **Save** button.
 
@@ -658,11 +658,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDY1MDQyOSwtMjA3MzI1NTc4NywtMT
-M3MDg3Mzc3MSw4MTczMTU4NywtOTExMTYxODMwLC0xNzUwOTUw
-NDM4LC02NjQ2Mjc5MTAsMTg0MjkzMzI0MCwtMTYyMzYyMzkyNi
-wxODQyOTMzMjQwLDE2NzU5OTQxNTksLTMyMzA4MTQyOSwzMTk1
-OTkzNTQsLTMyMjIwNjcwOCwtNjA1MDA5MjIyLDcwMzgzMDkwMi
-wtODk2NjcwNTYwLC0xNTI1OTU4NjkzLC04NDc3NTg2MzcsMjEx
-MzU3NjM3OV19
+eyJoaXN0b3J5IjpbMjA2OTA0NzczNSwtNjIwNjUwNDI5LC0yMD
+czMjU1Nzg3LC0xMzcwODczNzcxLDgxNzMxNTg3LC05MTExNjE4
+MzAsLTE3NTA5NTA0MzgsLTY2NDYyNzkxMCwxODQyOTMzMjQwLC
+0xNjIzNjIzOTI2LDE4NDI5MzMyNDAsMTY3NTk5NDE1OSwtMzIz
+MDgxNDI5LDMxOTU5OTM1NCwtMzIyMjA2NzA4LC02MDUwMDkyMj
+IsNzAzODMwOTAyLC04OTY2NzA1NjAsLTE1MjU5NTg2OTMsLTg0
+Nzc1ODYzN119
 -->
