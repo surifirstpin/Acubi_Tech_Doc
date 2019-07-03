@@ -166,25 +166,25 @@ To filter data from a view and the respective mapping views, the filter criteria
 
 **I.**  **Filter_Sql :**  the filter expression or condition. Filter expression can be date-based, string-based, number-based and even login-based.
 
--  **Date-Based** standard filters which are applicable on dates.
+-  **Date-Based:** standard filters which are applicable on dates.
 ```
  ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
 ```
--  **String-Based :** standard filters which are applicable on strings.
+-  **String-Based:** standard filters which are applicable on strings.
 ```
  ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)
  ```
--  **Number-Based** :**  standard filters which are applicable on numbers.
+-  **Number-Based:**  standard filters which are applicable on numbers.
 ```
 ROOT.BI_Orders.Amount IS NOT NULL
 ```
--   **User-based :** AcuBi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
+-   **User-based:** AcuBi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
 ```
  " DB.TABLE.COLUMN IN (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
 ```
--   **globalparam**  the name of the global parameter which contains the user based list of values.
--   **ref_field**  the column name in global parameter which contains the filter values.
--   **gp_username_field**  the column name in global parameter which contains the usernames.
+-   **GlobalParam:**  the name of the global parameter which contains the user based list of values.
+-   **Ref_Field**  the column name in global parameter which contains the filter values.
+-   **Gp_Username_Field**  the column name in global parameter which contains the usernames.
 ```
 " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
 ```
@@ -661,11 +661,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMjk0MzY1LDExNjIwNDQ3NTksLTE2MD
-c4MzI2NjUsMjEyNTgxNjUzLDU3ODQ4MjQ3LDIwNjkwNDc3MzUs
-LTYyMDY1MDQyOSwtMjA3MzI1NTc4NywtMTM3MDg3Mzc3MSw4MT
-czMTU4NywtOTExMTYxODMwLC0xNzUwOTUwNDM4LC02NjQ2Mjc5
-MTAsMTg0MjkzMzI0MCwtMTYyMzYyMzkyNiwxODQyOTMzMjQwLD
-E2NzU5OTQxNTksLTMyMzA4MTQyOSwzMTk1OTkzNTQsLTMyMjIw
-NjcwOF19
+eyJoaXN0b3J5IjpbLTI2ODkwNDczMywxMTYyMDQ0NzU5LC0xNj
+A3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MDQ3NzM1
+LC02MjA2NTA0MjksLTIwNzMyNTU3ODcsLTEzNzA4NzM3NzEsOD
+E3MzE1ODcsLTkxMTE2MTgzMCwtMTc1MDk1MDQzOCwtNjY0NjI3
+OTEwLDE4NDI5MzMyNDAsLTE2MjM2MjM5MjYsMTg0MjkzMzI0MC
+wxNjc1OTk0MTU5LC0zMjMwODE0MjksMzE5NTk5MzU0LC0zMjIy
+MDY3MDhdfQ==
 -->
