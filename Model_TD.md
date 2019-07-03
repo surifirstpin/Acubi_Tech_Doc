@@ -659,7 +659,8 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 ## Existing Projects and Views
 
-To view and access the existing projects and views, move the cursor to projects on top left of the screen then click the drop-down to display the list of projects created
+To view and access the existing projects and views, move the cursor to projects on top left of the screen then click the drop-down to display the list of projects created. Simultaneously on selecting the projects it displays the list views ofall under that particular project created.
+Similarly, 
 In the top section of the  **LookML Projects**  page, you can see certain existing projects. In Production Mode, you see projects that have been generated and pushed to production. In Development Mode, you see projects that you have pulled from production or generated yourself in your Development Mode.
 
 To see a project, you must have the  [`manage_models`](https://docs.looker.com/admin-options/settings/roles#manage-models)  permission, or have the  [`develop`](https://docs.looker.com/admin-options/settings/roles#develop)permission for at least one model in the project.
@@ -668,11 +669,11 @@ If you have the  [`manage_models`](https://docs.looker.com/admin-options/setting
 
 To specify a new project or a new model for an existing project, see the  [Creating a New LookML Project](https://docs.looker.com/data-modeling/getting-started/create-projects)  documentation page.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5NzE0MTE3LC02MTM5Njg3NzUsMTE2Mj
-A0NDc1OSwtMTYwNzgzMjY2NSwyMTI1ODE2NTMsNTc4NDgyNDcs
-MjA2OTA0NzczNSwtNjIwNjUwNDI5LC0yMDczMjU1Nzg3LC0xMz
-cwODczNzcxLDgxNzMxNTg3LC05MTExNjE4MzAsLTE3NTA5NTA0
-MzgsLTY2NDYyNzkxMCwxODQyOTMzMjQwLC0xNjIzNjIzOTI2LD
-E4NDI5MzMyNDAsMTY3NTk5NDE1OSwtMzIzMDgxNDI5LDMxOTU5
-OTM1NF19
+eyJoaXN0b3J5IjpbLTU1Nzk5OTA5MSwtNjEzOTY4Nzc1LDExNj
+IwNDQ3NTksLTE2MDc4MzI2NjUsMjEyNTgxNjUzLDU3ODQ4MjQ3
+LDIwNjkwNDc3MzUsLTYyMDY1MDQyOSwtMjA3MzI1NTc4NywtMT
+M3MDg3Mzc3MSw4MTczMTU4NywtOTExMTYxODMwLC0xNzUwOTUw
+NDM4LC02NjQ2Mjc5MTAsMTg0MjkzMzI0MCwtMTYyMzYyMzkyNi
+wxODQyOTMzMjQwLDE2NzU5OTQxNTksLTMyMzA4MTQyOSwzMTk1
+OTkzNTRdfQ==
 -->
