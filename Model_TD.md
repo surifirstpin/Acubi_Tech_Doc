@@ -659,14 +659,15 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 ## Existing Projects and Views
 
-To view and access the existing projects and views, move the cursor to projects on top left of the screen then click the drop-down to display the list of projects created. Simultaneously on selecting the projects it displays the list of views that fall under that particular project created.
+To view and access the existing projects and views, 
+move the cursor to projects on top left of the screen then click the drop-down to display the list of projects created. Simultaneously on selecting the projects it displays the list of views that fall under that particular project created.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY4MDE5ODUsLTYxMzk2ODc3NSwxMT
-YyMDQ0NzU5LC0xNjA3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0
-NywyMDY5MDQ3NzM1LC02MjA2NTA0MjksLTIwNzMyNTU3ODcsLT
-EzNzA4NzM3NzEsODE3MzE1ODcsLTkxMTE2MTgzMCwtMTc1MDk1
-MDQzOCwtNjY0NjI3OTEwLDE4NDI5MzMyNDAsLTE2MjM2MjM5Mj
-YsMTg0MjkzMzI0MCwxNjc1OTk0MTU5LC0zMjMwODE0MjksMzE5
-NTk5MzU0XX0=
+eyJoaXN0b3J5IjpbLTE4NTYzNTk1MSwtNjEzOTY4Nzc1LDExNj
+IwNDQ3NTksLTE2MDc4MzI2NjUsMjEyNTgxNjUzLDU3ODQ4MjQ3
+LDIwNjkwNDc3MzUsLTYyMDY1MDQyOSwtMjA3MzI1NTc4NywtMT
+M3MDg3Mzc3MSw4MTczMTU4NywtOTExMTYxODMwLC0xNzUwOTUw
+NDM4LC02NjQ2Mjc5MTAsMTg0MjkzMzI0MCwtMTYyMzYyMzkyNi
+wxODQyOTMzMjQwLDE2NzU5OTQxNTksLTMyMzA4MTQyOSwzMTk1
+OTkzNTRdfQ==
 -->
