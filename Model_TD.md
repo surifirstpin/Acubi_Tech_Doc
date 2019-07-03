@@ -562,8 +562,7 @@ As  **Show drill down measures**  is set  **TRUE**, the associated measures (if 
 
 
 # Maps
-Maps enables users to visualize the geographic data on reactive and interactive maps. To carry out maps  in AcuBi,Your query should include at least one dimension based on geographic data. On including measure in your query it will display the information the location selected.
-
+Maps enables users to visualize the geographic data on reactive and interactive maps. To carry out maps  in AcuBi,Your query should include at least one dimension based on geographic data. On including measure in your query it will display the information about the location selected.
 To carryout maps under visualization you need to derive the field in Model Section first.
 
  **For Model, Views and for a specific field the map co-ordinates  may be assigned as follows :**
@@ -659,11 +658,11 @@ To carryout maps under visualization you need to derive the field in Model Secti
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDA1MDM1Niw1Nzg0ODI0NywyMDY5MD
-Q3NzM1LC02MjA2NTA0MjksLTIwNzMyNTU3ODcsLTEzNzA4NzM3
-NzEsODE3MzE1ODcsLTkxMTE2MTgzMCwtMTc1MDk1MDQzOCwtNj
-Y0NjI3OTEwLDE4NDI5MzMyNDAsLTE2MjM2MjM5MjYsMTg0Mjkz
-MzI0MCwxNjc1OTk0MTU5LC0zMjMwODE0MjksMzE5NTk5MzU0LC
-0zMjIyMDY3MDgsLTYwNTAwOTIyMiw3MDM4MzA5MDIsLTg5NjY3
-MDU2MF19
+eyJoaXN0b3J5IjpbMjEyNTgxNjUzLDU3ODQ4MjQ3LDIwNjkwND
+c3MzUsLTYyMDY1MDQyOSwtMjA3MzI1NTc4NywtMTM3MDg3Mzc3
+MSw4MTczMTU4NywtOTExMTYxODMwLC0xNzUwOTUwNDM4LC02Nj
+Q2Mjc5MTAsMTg0MjkzMzI0MCwtMTYyMzYyMzkyNiwxODQyOTMz
+MjQwLDE2NzU5OTQxNTksLTMyMzA4MTQyOSwzMTk1OTkzNTQsLT
+MyMjIwNjcwOCwtNjA1MDA5MjIyLDcwMzgzMDkwMiwtODk2Njcw
+NTYwXX0=
 -->
