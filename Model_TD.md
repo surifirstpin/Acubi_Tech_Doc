@@ -222,11 +222,8 @@ Views are independent tables chosen while creating a project. All the columns in
 **AcuBi allows various actions to performed in views as follows:**
 
 -  Creating a new field (User Defined Fields).
-
 -  Defining the output in a new field as resultant of arithmetical or logical operations among the database fields of the self view or from mapped views.
-
 -  Assigning currency & number format for measure fields.
-
 -  Extracting different date formats from the date field permissible formats like hour, day, week, month, quarter, year, date, week_day, date_month, date_quarter, date_hour, year_week.
 -  You can create new custom views.
 -  Assigning drill down fields for a field.
@@ -661,11 +658,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMzE0OTUsMTE2MjA0NDc1OSwtMTYwNz
-gzMjY2NSwyMTI1ODE2NTMsNTc4NDgyNDcsMjA2OTA0NzczNSwt
-NjIwNjUwNDI5LC0yMDczMjU1Nzg3LC0xMzcwODczNzcxLDgxNz
-MxNTg3LC05MTExNjE4MzAsLTE3NTA5NTA0MzgsLTY2NDYyNzkx
-MCwxODQyOTMzMjQwLC0xNjIzNjIzOTI2LDE4NDI5MzMyNDAsMT
-Y3NTk5NDE1OSwtMzIzMDgxNDI5LDMxOTU5OTM1NCwtMzIyMjA2
-NzA4XX0=
+eyJoaXN0b3J5IjpbLTYxMzk2ODc3NSwxMTYyMDQ0NzU5LC0xNj
+A3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MDQ3NzM1
+LC02MjA2NTA0MjksLTIwNzMyNTU3ODcsLTEzNzA4NzM3NzEsOD
+E3MzE1ODcsLTkxMTE2MTgzMCwtMTc1MDk1MDQzOCwtNjY0NjI3
+OTEwLDE4NDI5MzMyNDAsLTE2MjM2MjM5MjYsMTg0MjkzMzI0MC
+wxNjc1OTk0MTU5LC0zMjMwODE0MjksMzE5NTk5MzU0LC0zMjIy
+MDY3MDhdfQ==
 -->
