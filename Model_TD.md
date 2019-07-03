@@ -679,16 +679,19 @@ Insert customers table in to the project by selecting the *checkbox for customer
 
 ## Deleting Project
 
+Click on 
 Clicking the **Delete Project** button will remove all LookML from the project, in all development and production environments across your Looker instance.
 
 
 A deleted project will no longer appear in the **Projects** section of the **LookML Projects** page, but _will_ still appear in the **Configured Projects** section.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjM0MzI4NCwtMTA0NTMzNDMxMCwxNT
-MzNzY3NDQ4LC0xNDY4NDM2NDY1LDE1MzIxODMzMTEsNzM1Mzgy
-NDUxLC05NTg2MTMxNDUsLTg2MzMzMjcwMSw0NTE2MzM3NTksLT
-YxMzk2ODc3NSwxMTYyMDQ0NzU5LC0xNjA3ODMyNjY1LDIxMjU4
-MTY1Myw1Nzg0ODI0NywyMDY5MDQ3NzM1LC02MjA2NTA0MjksLT
-IwNzMyNTU3ODcsLTEzNzA4NzM3NzEsODE3MzE1ODcsLTkxMTE2
-MTgzMF19
+eyJoaXN0b3J5IjpbLTE1NjQzMjE4OTUsLTEwNDUzMzQzMTAsMT
+UzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwxNTMyMTgzMzExLDczNTM4
+MjQ1MSwtOTU4NjEzMTQ1LC04NjMzMzI3MDEsNDUxNjMzNzU5LC
+02MTM5Njg3NzUsMTE2MjA0NDc1OSwtMTYwNzgzMjY2NSwyMTI1
+ODE2NTMsNTc4NDgyNDcsMjA2OTA0NzczNSwtNjIwNjUwNDI5LC
+0yMDczMjU1Nzg3LC0xMzcwODczNzcxLDgxNzMxNTg3LC05MTEx
+NjE4MzBdfQ==
 -->
