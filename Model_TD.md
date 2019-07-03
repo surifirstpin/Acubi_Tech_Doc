@@ -667,12 +667,14 @@ To view and access the existing projects and views, click on projects on top rig
 ## Edit Project
 
 To edit existing projects, navigate to projects screen. Select the project you would like to edit, then click on edit button.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1MzgyNDUxLC05NTg2MTMxNDUsLTg2Mz
-MzMjcwMSw0NTE2MzM3NTksLTYxMzk2ODc3NSwxMTYyMDQ0NzU5
-LC0xNjA3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MD
-Q3NzM1LC02MjA2NTA0MjksLTIwNzMyNTU3ODcsLTEzNzA4NzM3
-NzEsODE3MzE1ODcsLTkxMTE2MTgzMCwtMTc1MDk1MDQzOCwtNj
-Y0NjI3OTEwLDE4NDI5MzMyNDAsLTE2MjM2MjM5MjYsMTg0Mjkz
-MzI0MF19
+eyJoaXN0b3J5IjpbMTUzMjE4MzMxMSw3MzUzODI0NTEsLTk1OD
+YxMzE0NSwtODYzMzMyNzAxLDQ1MTYzMzc1OSwtNjEzOTY4Nzc1
+LDExNjIwNDQ3NTksLTE2MDc4MzI2NjUsMjEyNTgxNjUzLDU3OD
+Q4MjQ3LDIwNjkwNDc3MzUsLTYyMDY1MDQyOSwtMjA3MzI1NTc4
+NywtMTM3MDg3Mzc3MSw4MTczMTU4NywtOTExMTYxODMwLC0xNz
+UwOTUwNDM4LC02NjQ2Mjc5MTAsMTg0MjkzMzI0MCwtMTYyMzYy
+MzkyNl19
 -->
