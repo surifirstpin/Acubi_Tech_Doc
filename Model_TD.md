@@ -667,14 +667,15 @@ To view and access the existing projects and views, click on projects on top rig
 ## Edit Project
 
 To edit existing projects, navigate to projects screen. Select the project you would like to edit, then click on edit button.
+You can rename the project created, insert more tables into already existing projects as show in the below image.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjE4MzMxMSw3MzUzODI0NTEsLTk1OD
-YxMzE0NSwtODYzMzMyNzAxLDQ1MTYzMzc1OSwtNjEzOTY4Nzc1
-LDExNjIwNDQ3NTksLTE2MDc4MzI2NjUsMjEyNTgxNjUzLDU3OD
-Q4MjQ3LDIwNjkwNDc3MzUsLTYyMDY1MDQyOSwtMjA3MzI1NTc4
-NywtMTM3MDg3Mzc3MSw4MTczMTU4NywtOTExMTYxODMwLC0xNz
-UwOTUwNDM4LC02NjQ2Mjc5MTAsMTg0MjkzMzI0MCwtMTYyMzYy
-MzkyNl19
+eyJoaXN0b3J5IjpbLTE0Njg0MzY0NjUsMTUzMjE4MzMxMSw3Mz
+UzODI0NTEsLTk1ODYxMzE0NSwtODYzMzMyNzAxLDQ1MTYzMzc1
+OSwtNjEzOTY4Nzc1LDExNjIwNDQ3NTksLTE2MDc4MzI2NjUsMj
+EyNTgxNjUzLDU3ODQ4MjQ3LDIwNjkwNDc3MzUsLTYyMDY1MDQy
+OSwtMjA3MzI1NTc4NywtMTM3MDg3Mzc3MSw4MTczMTU4NywtOT
+ExMTYxODMwLC0xNzUwOTUwNDM4LC02NjQ2Mjc5MTAsMTg0Mjkz
+MzI0MF19
 -->
