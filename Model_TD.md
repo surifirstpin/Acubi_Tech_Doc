@@ -677,13 +677,18 @@ Insert customers table in to the project by selecting the *checkbox for customer
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image15.png)
 **Image 14**
 
-## Delete Project
+## Deleting Project
+
+Clicking the **Delete Project** button will remove all LookML from the project, in all development and production environments across your Looker instance.
+
+
+A deleted project will no longer appear in the **Projects** section of the **LookML Projects** page, but _will_ still appear in the **Configured Projects** section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3OTM4Nzc0LC0xMDQ1MzM0MzEwLDE1Mz
-M3Njc0NDgsLTE0Njg0MzY0NjUsMTUzMjE4MzMxMSw3MzUzODI0
-NTEsLTk1ODYxMzE0NSwtODYzMzMyNzAxLDQ1MTYzMzc1OSwtNj
-EzOTY4Nzc1LDExNjIwNDQ3NTksLTE2MDc4MzI2NjUsMjEyNTgx
-NjUzLDU3ODQ4MjQ3LDIwNjkwNDc3MzUsLTYyMDY1MDQyOSwtMj
-A3MzI1NTc4NywtMTM3MDg3Mzc3MSw4MTczMTU4NywtOTExMTYx
-ODMwXX0=
+eyJoaXN0b3J5IjpbLTkzNjM0MzI4NCwtMTA0NTMzNDMxMCwxNT
+MzNzY3NDQ4LC0xNDY4NDM2NDY1LDE1MzIxODMzMTEsNzM1Mzgy
+NDUxLC05NTg2MTMxNDUsLTg2MzMzMjcwMSw0NTE2MzM3NTksLT
+YxMzk2ODc3NSwxMTYyMDQ0NzU5LC0xNjA3ODMyNjY1LDIxMjU4
+MTY1Myw1Nzg0ODI0NywyMDY5MDQ3NzM1LC02MjA2NTA0MjksLT
+IwNzMyNTU3ODcsLTEzNzA4NzM3NzEsODE3MzE1ODcsLTkxMTE2
+MTgzMF19
 -->
