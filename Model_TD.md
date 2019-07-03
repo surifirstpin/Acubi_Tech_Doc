@@ -164,17 +164,17 @@ To filter data from a view and the respective mapping views, the filter criteria
 
 **Filter can be derived with two specific attributes such as;**
 
-**I.**  **filter_sql :**  the filter expression or condition. Filter expression can be date-based, string-based, number-based and even login-based.
+**I.**  **Filter_Sql :**  the filter expression or condition. Filter expression can be date-based, string-based, number-based and even login-based.
 
--  **Date-based** standard filters which are applicable on dates.
+-  **Date-Based** standard filters which are applicable on dates.
 ```
  ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
 ```
--  **String-based** standard filters which are applicable on strings.
+-  **String-Based :** standard filters which are applicable on strings.
 ```
  ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)
  ```
--  **Number-based** :**  standard filters which are applicable on numbers.
+-  **Number-Based** :**  standard filters which are applicable on numbers.
 ```
 ROOT.BI_Orders.Amount IS NOT NULL
 ```
@@ -661,11 +661,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjA0NDc1OSwtMTYwNzgzMjY2NSwyMT
-I1ODE2NTMsNTc4NDgyNDcsMjA2OTA0NzczNSwtNjIwNjUwNDI5
-LC0yMDczMjU1Nzg3LC0xMzcwODczNzcxLDgxNzMxNTg3LC05MT
-ExNjE4MzAsLTE3NTA5NTA0MzgsLTY2NDYyNzkxMCwxODQyOTMz
-MjQwLC0xNjIzNjIzOTI2LDE4NDI5MzMyNDAsMTY3NTk5NDE1OS
-wtMzIzMDgxNDI5LDMxOTU5OTM1NCwtMzIyMjA2NzA4LC02MDUw
-MDkyMjJdfQ==
+eyJoaXN0b3J5IjpbNzQyMjk0MzY1LDExNjIwNDQ3NTksLTE2MD
+c4MzI2NjUsMjEyNTgxNjUzLDU3ODQ4MjQ3LDIwNjkwNDc3MzUs
+LTYyMDY1MDQyOSwtMjA3MzI1NTc4NywtMTM3MDg3Mzc3MSw4MT
+czMTU4NywtOTExMTYxODMwLC0xNzUwOTUwNDM4LC02NjQ2Mjc5
+MTAsMTg0MjkzMzI0MCwtMTYyMzYyMzkyNiwxODQyOTMzMjQwLD
+E2NzU5OTQxNTksLTMyMzA4MTQyOSwzMTk1OTkzNTQsLTMyMjIw
+NjcwOF19
 -->
