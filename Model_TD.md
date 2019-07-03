@@ -657,12 +657,22 @@ To carryout maps under visualization you need to derive the data fields in Model
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
+## Existing Projects and Views
+
+
+In the top section of the  **LookML Projects**  page, you can see certain existing projects. In Production Mode, you see projects that have been generated and pushed to production. In Development Mode, you see projects that you have pulled from production or generated yourself in your Development Mode.
+
+To see a project, you must have the  [`manage_models`](https://docs.looker.com/admin-options/settings/roles#manage-models)  permission, or have the  [`develop`](https://docs.looker.com/admin-options/settings/roles#develop)permission for at least one model in the project.
+
+If you have the  [`manage_models`](https://docs.looker.com/admin-options/settings/roles#manage-models)  permission, you can  [add or edit the configuration](https://docs.looker.com/data-modeling/getting-started/manage-projects#adding_and_editing_configurations)  for any model listed under the projects.
+
+To specify a new project or a new model for an existing project, see the  [Creating a New LookML Project](https://docs.looker.com/data-modeling/getting-started/create-projects)  documentation page.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzk2ODc3NSwxMTYyMDQ0NzU5LC0xNj
-A3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MDQ3NzM1
-LC02MjA2NTA0MjksLTIwNzMyNTU3ODcsLTEzNzA4NzM3NzEsOD
-E3MzE1ODcsLTkxMTE2MTgzMCwtMTc1MDk1MDQzOCwtNjY0NjI3
-OTEwLDE4NDI5MzMyNDAsLTE2MjM2MjM5MjYsMTg0MjkzMzI0MC
-wxNjc1OTk0MTU5LC0zMjMwODE0MjksMzE5NTk5MzU0LC0zMjIy
-MDY3MDhdfQ==
+eyJoaXN0b3J5IjpbLTk4ODI0MzMyMCwtNjEzOTY4Nzc1LDExNj
+IwNDQ3NTksLTE2MDc4MzI2NjUsMjEyNTgxNjUzLDU3ODQ4MjQ3
+LDIwNjkwNDc3MzUsLTYyMDY1MDQyOSwtMjA3MzI1NTc4NywtMT
+M3MDg3Mzc3MSw4MTczMTU4NywtOTExMTYxODMwLC0xNzUwOTUw
+NDM4LC02NjQ2Mjc5MTAsMTg0MjkzMzI0MCwtMTYyMzYyMzkyNi
+wxODQyOTMzMjQwLDE2NzU5OTQxNTksLTMyMzA4MTQyOSwzMTk1
+OTkzNTRdfQ==
 -->
