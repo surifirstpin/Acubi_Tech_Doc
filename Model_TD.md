@@ -15,7 +15,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 > **Navigation: Model → Projects → New Project**
 
-### Step 1
+### Step 1:
 
 **1.**  Click **New Project** button, to create a new project in a model.
 
@@ -26,7 +26,7 @@ A model is a customized gateway into the database for accessing data as per busi
 **Enter the following details;**
 
 -   **Project Name:**  Enter the project name.
-### Step 2    
+### Step 2:    
 -   **Connection:**  Choose the database connection from the drop-down list provided.
 
 ![
@@ -682,8 +682,8 @@ Deleting project will permanently removes project from database. To carryout del
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NzAxNjA1LDEyNjM3NTI4NzUsMjU0Nz
-AxNjA1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUs
+eyJoaXN0b3J5IjpbNDA1ODI2ODI1LDI1NDcwMTYwNSwxMjYzNz
+UyODc1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUs
 LTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwxNT
 MyMTgzMzExLDczNTM4MjQ1MSwtOTU4NjEzMTQ1LC04NjMzMzI3
 MDEsNDUxNjMzNzU5LC02MTM5Njg3NzUsMTE2MjA0NDc1OSwtMT
