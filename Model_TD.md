@@ -33,14 +33,14 @@ A model is a customized gateway into the database for accessing data as per busi
 ](https://raw.githubusercontent.com/sv18042016/fp1/67d93f76cb8e582b7157b1f8e696925b97fa4abd/images/New_version5/TD_Model_image2.png)
 **Image 2**
 
-###  Step 3
+###  Step 3:
 - **Database:** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/94a885c012491ba11e96367e359fc5a65526085e/images/New_version5/TD_Model_image3.png)
 **Image 3**
 
-### Step 4
+### Step 4:
 - **Tables** Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under **Selected Tables** section.
 
 **2.** **Auto Build Joins (check box)** On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
@@ -49,7 +49,7 @@ A model is a customized gateway into the database for accessing data as per busi
 ](https://raw.githubusercontent.com/sv18042016/fp1/a7917cd2c9ad40f7abbfe85519a69bc3e9a8af45/images/New_version5/TD_Model_image4.png)
 **Image 4**
 
-### Step 5
+### Step 5:
 -   **Privacy** you can save the project in any one of the following privacy option.
     -   **Private:**  report saved in private section are accessed by the existing user only.
     -   **Public:**  report is saved in public section are accessed by all the users.
@@ -66,7 +66,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ## Edit Project
 
-- Click on Projects, select the desired project and hit the **Edit** button.
+Click Projects, select the desired project and hit the **Edit** button.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e535debfb80662d425803114d0399ad21e615cda/images/New_version5/TD_Model_image6.png)
@@ -682,11 +682,11 @@ Deleting project will permanently removes project from database. To carryout del
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1ODI2ODI1LDI1NDcwMTYwNSwxMjYzNz
-UyODc1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUs
-LTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwxNT
-MyMTgzMzExLDczNTM4MjQ1MSwtOTU4NjEzMTQ1LC04NjMzMzI3
-MDEsNDUxNjMzNzU5LC02MTM5Njg3NzUsMTE2MjA0NDc1OSwtMT
-YwNzgzMjY2NSwyMTI1ODE2NTMsNTc4NDgyNDcsMjA2OTA0Nzcz
-NV19
+eyJoaXN0b3J5IjpbLTEwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNj
+M3NTI4NzUsMTQzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5
+NSwtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC0xNDY4NDM2NDY1LD
+E1MzIxODMzMTEsNzM1MzgyNDUxLC05NTg2MTMxNDUsLTg2MzMz
+MjcwMSw0NTE2MzM3NTksLTYxMzk2ODc3NSwxMTYyMDQ0NzU5LC
+0xNjA3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MDQ3
+NzM1XX0=
 -->
