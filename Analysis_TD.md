@@ -104,14 +104,14 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 **To carry out this function, follow the below steps:**
 
-**a.**  Apply hidden filters to dimension 
+**a.**  Apply hidden filters to dimension.(Startdate_month)
 **b.** Fields to which hidden filters applied are visible in filter expression of filter section.
 **c.** The data is retrieved, based on the applied hidden filters.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bbcdc39667a75cb351f143fd76d9c207dc053d27/images/New_version5/TD_Reports_3.png)
 - To add more filters click **Add Rule**.
-- To delete the filter applied click **Ban Icon**.
-- To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To unhide click on angle-double-down icon at same location.
+- To delete the filter applied click **Cross Icon**.
+- To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To un-hide click on angle-double-down icon at same location.
 
 **5.**  Click on **Run** to display the data retrieved.
 
@@ -360,7 +360,7 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTY2NDY1MCwtMTcyNjA3MTc3NiwtMT
+eyJoaXN0b3J5IjpbLTc0NTE3MjIyMCwtMTcyNjA3MTc3NiwtMT
 Y2MTI3Njc0NSwtMTg0NzYxMjMyNSwxNDU1NDk0Njc5LDc3MTk4
 MzQxMSw3MTE2MDkyNTgsMTA4MDc0NzY0NiwtMzQ2ODk5NDkxLD
 E0ODgxNzEzNTcsLTE2ODY1ODY5NjEsLTE4NjgwMjIzNzEsMTA4
