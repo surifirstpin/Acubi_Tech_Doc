@@ -108,10 +108,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 **b.** Fields to which hidden filters applied are visible in filter expression of filter section.
 **c.** The data is retrieved, based on the applied hidden filters.
 
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bbcdc39667a75cb351f143fd76d9c207dc053d27/images/New_version5/TD_Reports_3.png)
 - To add more filters click **Add Rule**.
 - To delete the filter applied click **Ban Icon**.
 - To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To unhide click on angle-double-down icon at same location.
@@ -363,10 +360,10 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYwNzE3NzYsLTE2NjEyNzY3NDUsLT
-E4NDc2MTIzMjUsMTQ1NTQ5NDY3OSw3NzE5ODM0MTEsNzExNjA5
-MjU4LDEwODA3NDc2NDYsLTM0Njg5OTQ5MSwxNDg4MTcxMzU3LC
-0xNjg2NTg2OTYxLC0xODY4MDIyMzcxLDEwODgzODU0NzEsLTEx
-OTQ0OTMwMDksLTY4OTc3ODY3LDgxMjY5MjQyMywxOTI2NzYxNz
-IyLC0xNDg2OTk4NTk4XX0=
+eyJoaXN0b3J5IjpbLTE3MTg1MDA2NiwtMTcyNjA3MTc3NiwtMT
+Y2MTI3Njc0NSwtMTg0NzYxMjMyNSwxNDU1NDk0Njc5LDc3MTk4
+MzQxMSw3MTE2MDkyNTgsMTA4MDc0NzY0NiwtMzQ2ODk5NDkxLD
+E0ODgxNzEzNTcsLTE2ODY1ODY5NjEsLTE4NjgwMjIzNzEsMTA4
+ODM4NTQ3MSwtMTE5NDQ5MzAwOSwtNjg5Nzc4NjcsODEyNjkyND
+IzLDE5MjY3NjE3MjIsLTE0ODY5OTg1OThdfQ==
 -->
