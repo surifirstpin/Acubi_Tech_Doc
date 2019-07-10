@@ -28,7 +28,7 @@ A **Dimension** is a group of data and **Measure** is information about group of
                                                                                                                                                                                                                     
 ## Filters 
 
-Filters removes all the data except the one you want to retrieve. Filter expressions are the advanced way to limit the data. 
+Filters  in AcuBi Narrows by data except the one you want to retrieve. Filter expressions are the advanced way to limit the data. 
 
 **The following are the various types of filter expressions used:**
 
@@ -364,7 +364,7 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODE3Nzg2MywxNDU1NDk0Njc5LDc3MT
+eyJoaXN0b3J5IjpbMTc2MDIwNzc3NCwxNDU1NDk0Njc5LDc3MT
 k4MzQxMSw3MTE2MDkyNTgsMTA4MDc0NzY0NiwtMzQ2ODk5NDkx
 LDE0ODgxNzEzNTcsLTE2ODY1ODY5NjEsLTE4NjgwMjIzNzEsMT
 A4ODM4NTQ3MSwtMTE5NDQ5MzAwOSwtNjg5Nzc4NjcsODEyNjky
