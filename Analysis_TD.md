@@ -104,7 +104,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 **To carry out this function, follow the below steps:**
 
-**a.**  Apply hidden filters to d
+**a.**  Apply hidden filters to dimension 
 **b.** Fields to which hidden filters applied are visible in filter expression of filter section.
 **c.** The data is retrieved, based on the applied hidden filters.
 
@@ -360,7 +360,7 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg1MDA2NiwtMTcyNjA3MTc3NiwtMT
+eyJoaXN0b3J5IjpbLTkzOTY2NDY1MCwtMTcyNjA3MTc3NiwtMT
 Y2MTI3Njc0NSwtMTg0NzYxMjMyNSwxNDU1NDk0Njc5LDc3MTk4
 MzQxMSw3MTE2MDkyNTgsMTA4MDc0NzY0NiwtMzQ2ODk5NDkxLD
 E0ODgxNzEzNTcsLTE2ODY1ODY5NjEsLTE4NjgwMjIzNzEsMTA4
