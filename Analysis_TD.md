@@ -7,7 +7,7 @@
  
 **1.** Click on *Reports section** and select the desired **Project** and **Model** based on which the data is retrieved.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79b57d524fc3251d33788b6a461086bbbe2a7bd8/images/New_version5/TD_Reports_1.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b743a83f523e1d6ddfc4593b9e04d0f6abe03e5e/images/New_version5/TD_Reports_1.png)
 
 - To create a new report click on **Reset Visualization** ( refresh icon).
 
@@ -364,9 +364,9 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc5NjYyMDQsNzExNjA5MjU4LDEwOD
-A3NDc2NDYsLTM0Njg5OTQ5MSwxNDg4MTcxMzU3LC0xNjg2NTg2
-OTYxLC0xODY4MDIyMzcxLDEwODgzODU0NzEsLTExOTQ0OTMwMD
-ksLTY4OTc3ODY3LDgxMjY5MjQyMywxOTI2NzYxNzIyLC0xNDg2
-OTk4NTk4XX0=
+eyJoaXN0b3J5IjpbNzcxOTgzNDExLDcxMTYwOTI1OCwxMDgwNz
+Q3NjQ2LC0zNDY4OTk0OTEsMTQ4ODE3MTM1NywtMTY4NjU4Njk2
+MSwtMTg2ODAyMjM3MSwxMDg4Mzg1NDcxLC0xMTk0NDkzMDA5LC
+02ODk3Nzg2Nyw4MTI2OTI0MjMsMTkyNjc2MTcyMiwtMTQ4Njk5
+ODU5OF19
 -->
