@@ -113,7 +113,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 - To delete the filter applied click **Cross Icon**.
 - To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To un-hide click on angle-double-down icon at same location.
 
-**5.** Hit the **Run** to display the data retrieved.
+**5.** Hit the **Run** button to display the data based on applied filters.
 
 ## Order  (Ascending / Descending)
 
@@ -360,11 +360,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MDkyOTYwLC00MzgxOTg2MTMsLTE3Mj
-YwNzE3NzYsLTE2NjEyNzY3NDUsLTE4NDc2MTIzMjUsMTQ1NTQ5
-NDY3OSw3NzE5ODM0MTEsNzExNjA5MjU4LDEwODA3NDc2NDYsLT
-M0Njg5OTQ5MSwxNDg4MTcxMzU3LC0xNjg2NTg2OTYxLC0xODY4
-MDIyMzcxLDEwODgzODU0NzEsLTExOTQ0OTMwMDksLTY4OTc3OD
-Y3LDgxMjY5MjQyMywxOTI2NzYxNzIyLC0xNDg2OTk4NTk4XX0=
+eyJoaXN0b3J5IjpbMjA5NTg2NzM3NCwtNDM4MTk4NjEzLC0xNz
+I2MDcxNzc2LC0xNjYxMjc2NzQ1LC0xODQ3NjEyMzI1LDE0NTU0
+OTQ2NzksNzcxOTgzNDExLDcxMTYwOTI1OCwxMDgwNzQ3NjQ2LC
+0zNDY4OTk0OTEsMTQ4ODE3MTM1NywtMTY4NjU4Njk2MSwtMTg2
+ODAyMjM3MSwxMDg4Mzg1NDcxLC0xMTk0NDkzMDA5LC02ODk3Nz
+g2Nyw4MTI2OTI0MjMsMTkyNjc2MTcyMiwtMTQ4Njk5ODU5OF19
 
 -->
