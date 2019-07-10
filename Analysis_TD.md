@@ -21,14 +21,9 @@ A **Dimension** is a group of data and **Measure** is information about group of
  
 **2.**  Select one or more dimension fields ( Grey fields) to access the data. It supports strings and date types.
 
-**3.** Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. 
+**3.** Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. (Refer Image 1)
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/fc61997d3a6999b632b7b6e9dfdfdcd3f93b5507/images/analysis1.png)
-  
-  > **Note :** To hide Explore
-
-/Visualize sections  click on  **angle double left** icon. To display the same click **angle double right  (»)** icon available above dimensions and measure field list.
+  > **Note :** To hide Explore/Visualize sections  click on  **angle double left** icon. To display the same click **angle double right  (»)** icon available above dimensions and measure field list.
 
                                                                                                                                                                                                                     
 ## Filters 
@@ -369,8 +364,9 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNjA5MjU4LDEwODA3NDc2NDYsLTM0Nj
-g5OTQ5MSwxNDg4MTcxMzU3LC0xNjg2NTg2OTYxLC0xODY4MDIy
-MzcxLDEwODgzODU0NzEsLTExOTQ0OTMwMDksLTY4OTc3ODY3LD
-gxMjY5MjQyMywxOTI2NzYxNzIyLC0xNDg2OTk4NTk4XX0=
+eyJoaXN0b3J5IjpbLTEwNjc5NjYyMDQsNzExNjA5MjU4LDEwOD
+A3NDc2NDYsLTM0Njg5OTQ5MSwxNDg4MTcxMzU3LC0xNjg2NTg2
+OTYxLC0xODY4MDIyMzcxLDEwODgzODU0NzEsLTExOTQ0OTMwMD
+ksLTY4OTc3ODY3LDgxMjY5MjQyMywxOTI2NzYxNzIyLC0xNDg2
+OTk4NTk4XX0=
 -->
