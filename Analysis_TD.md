@@ -5,12 +5,12 @@
  
 **Let see in detail, How AcuBi helps you in retrieving the data as per your business needs :**
  
-**1.** Click on **Analysis section** and select the desired **Project** and **Model** based on which the data is retrieved.
+**1.** Click on *Reports section** and select the desired **Project** and **Model** based on which the data is retrieved.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d2a240b7943427822dbd1280f1555acc64d6800e/images/analysis.png)
 
-- To create a new Analysis report click on **Reset Visualization** ( refresh icon).
+- To create a new report click on **Reset Visualization** ( refresh icon).
 
 
 ## Add Dimension and Measure
@@ -370,8 +370,9 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDc0NzY0NiwtMzQ2ODk5NDkxLDE0OD
-gxNzEzNTcsLTE2ODY1ODY5NjEsLTE4NjgwMjIzNzEsMTA4ODM4
-NTQ3MSwtMTE5NDQ5MzAwOSwtNjg5Nzc4NjcsODEyNjkyNDIzLD
-E5MjY3NjE3MjIsLTE0ODY5OTg1OThdfQ==
+eyJoaXN0b3J5IjpbLTEwMDc0MjUwMDksMTA4MDc0NzY0NiwtMz
+Q2ODk5NDkxLDE0ODgxNzEzNTcsLTE2ODY1ODY5NjEsLTE4Njgw
+MjIzNzEsMTA4ODM4NTQ3MSwtMTE5NDQ5MzAwOSwtNjg5Nzc4Nj
+csODEyNjkyNDIzLDE5MjY3NjE3MjIsLTE0ODY5OTg1OThdfQ==
+
 -->
