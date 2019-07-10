@@ -8,10 +8,10 @@
 **1.** Click on *Reports section** and select the desired **Project** and **Model** based on which the data is retrieved.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b743a83f523e1d6ddfc4593b9e04d0f6abe03e5e/images/New_version5/TD_Reports_1.png)
-
+**Image 1**
 - To create a new report click on **Reset Visualization** ( refresh icon).
 
-## Add Dimension and Measure
+## Adding Dimension and Measure
 
 A **Dimension** is a group of data and **Measure** is information about group of data and they collectively acts as fundamental building blocks for a query.
 
@@ -364,9 +364,9 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxOTgzNDExLDcxMTYwOTI1OCwxMDgwNz
-Q3NjQ2LC0zNDY4OTk0OTEsMTQ4ODE3MTM1NywtMTY4NjU4Njk2
-MSwtMTg2ODAyMjM3MSwxMDg4Mzg1NDcxLC0xMTk0NDkzMDA5LC
-02ODk3Nzg2Nyw4MTI2OTI0MjMsMTkyNjc2MTcyMiwtMTQ4Njk5
-ODU5OF19
+eyJoaXN0b3J5IjpbMTQ1NTQ5NDY3OSw3NzE5ODM0MTEsNzExNj
+A5MjU4LDEwODA3NDc2NDYsLTM0Njg5OTQ5MSwxNDg4MTcxMzU3
+LC0xNjg2NTg2OTYxLC0xODY4MDIyMzcxLDEwODgzODU0NzEsLT
+ExOTQ0OTMwMDksLTY4OTc3ODY3LDgxMjY5MjQyMywxOTI2NzYx
+NzIyLC0xNDg2OTk4NTk4XX0=
 -->
