@@ -94,10 +94,9 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 
 > **Note :** For more details on **Timeline Filters,** Refer timeline filters document.
 
-**4.**  Goto **Filter section,** then extract data based on filters applied.
+**4.** Navigate to **Filter section,** then extract data based on filters applied.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/451979e37dcbf9fc459308e68773450b4452ed0f/images/filter_analysis.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb353d0308368c774c84058005a471ff667e7125/images/New_version5/TD_Reports_2.png)
 
 ## Hidden Filters
 
@@ -364,9 +363,10 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc2MTIzMjUsMTQ1NTQ5NDY3OSw3Nz
-E5ODM0MTEsNzExNjA5MjU4LDEwODA3NDc2NDYsLTM0Njg5OTQ5
-MSwxNDg4MTcxMzU3LC0xNjg2NTg2OTYxLC0xODY4MDIyMzcxLD
-EwODgzODU0NzEsLTExOTQ0OTMwMDksLTY4OTc3ODY3LDgxMjY5
-MjQyMywxOTI2NzYxNzIyLC0xNDg2OTk4NTk4XX0=
+eyJoaXN0b3J5IjpbLTE2NjEyNzY3NDUsLTE4NDc2MTIzMjUsMT
+Q1NTQ5NDY3OSw3NzE5ODM0MTEsNzExNjA5MjU4LDEwODA3NDc2
+NDYsLTM0Njg5OTQ5MSwxNDg4MTcxMzU3LC0xNjg2NTg2OTYxLC
+0xODY4MDIyMzcxLDEwODgzODU0NzEsLTExOTQ0OTMwMDksLTY4
+OTc3ODY3LDgxMjY5MjQyMywxOTI2NzYxNzIyLC0xNDg2OTk4NT
+k4XX0=
 -->
