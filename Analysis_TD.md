@@ -19,7 +19,7 @@ A **Dimension** is a group of data and **Measure** is information about group of
 
 > **For Instance :** **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
  
- **To retrieve the data in analysis section follow the below steps,**
+ **To retrieve the data in report section follow the below steps,**
  
 **2.**  Select one or more dimension fields ( Grey fields) to access the data. It supports strings and date types.
 
@@ -370,9 +370,8 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDc0MjUwMDksMTA4MDc0NzY0NiwtMz
-Q2ODk5NDkxLDE0ODgxNzEzNTcsLTE2ODY1ODY5NjEsLTE4Njgw
-MjIzNzEsMTA4ODM4NTQ3MSwtMTE5NDQ5MzAwOSwtNjg5Nzc4Nj
-csODEyNjkyNDIzLDE5MjY3NjE3MjIsLTE0ODY5OTg1OThdfQ==
-
+eyJoaXN0b3J5IjpbNTMwNTYwNDIzLDEwODA3NDc2NDYsLTM0Nj
+g5OTQ5MSwxNDg4MTcxMzU3LC0xNjg2NTg2OTYxLC0xODY4MDIy
+MzcxLDEwODgzODU0NzEsLTExOTQ0OTMwMDksLTY4OTc3ODY3LD
+gxMjY5MjQyMywxOTI2NzYxNzIyLC0xNDg2OTk4NTk4XX0=
 -->
