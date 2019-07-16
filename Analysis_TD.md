@@ -222,7 +222,7 @@ The below image display the consolidated values after grouping is applied on fie
 
 To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
-> **For instance** : In the below image grouping has been applied to dimension fields customer and hub. In retrieved data on expanding country name it displays the perspective State Names that fall under specific country and on Further Expansion it displays city names that fall under the specific state  as shown in below image.
+> **For instance** : In the below image grouping has been applied to dimension fields customer and hub. In retrieved data below on expanding customer it displays the perspective Hub that belongs to customer, on further Expansion it displays city names that fall under the specific state  as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0b15f99af3dde5ba74467811bdd3ff84e8ae541b/images/New_version5/TD_Reports_10.png)
 ## Find
@@ -357,11 +357,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzAzNjUwLC0yMTEyMjM3OTM4LDE5Mj
-I4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEyNjU3LDEwNDY3Njg4
-MjgsNzk3ODM4ODksLTE1NDU4MzA4MDIsLTE4ODEwMTM1MzMsMj
-QwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3NCwtNDM4MTk4
-NjEzLC0xNzI2MDcxNzc2LC0xNjYxMjc2NzQ1LC0xODQ3NjEyMz
-I1LDE0NTU0OTQ2NzksNzcxOTgzNDExLDcxMTYwOTI1OCwxMDgw
-NzQ3NjQ2XX0=
+eyJoaXN0b3J5IjpbMTE1Mjk5OTU1NywtMjExMjIzNzkzOCwxOT
+IyODA1MjgzLC01NjA3NzA5MzAsMTY3ODkxMjY1NywxMDQ2NzY4
+ODI4LDc5NzgzODg5LC0xNTQ1ODMwODAyLC0xODgxMDEzNTMzLD
+I0MDYxODQxNSwtMzI5ODQxMjk3LDIwOTU4NjczNzQsLTQzODE5
+ODYxMywtMTcyNjA3MTc3NiwtMTY2MTI3Njc0NSwtMTg0NzYxMj
+MyNSwxNDU1NDk0Njc5LDc3MTk4MzQxMSw3MTE2MDkyNTgsMTA4
+MDc0NzY0Nl19
 -->
