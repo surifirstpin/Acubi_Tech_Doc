@@ -196,8 +196,8 @@ To **Pivot** a dimension click on pivot for dimension before or after running th
  
 **b.** Apply pivot **Before Retrieving** the data while selecting the fields by clicking on pivot icon.
  
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/ec488bd0bf7e068232945138e9ea20c018d013fa/images/pivot1.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eed95c0e5c6888ef680626c8f9e22a7ad38c9125/images/New_version5/TD_Reports_7.png)
+**Image 7**
 
 ## Hide data in pivot 
 
@@ -364,11 +364,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Njc2ODgyOCw3OTc4Mzg4OSwtMTU0NT
-gzMDgwMiwtMTg4MTAxMzUzMywyNDA2MTg0MTUsLTMyOTg0MTI5
-NywyMDk1ODY3Mzc0LC00MzgxOTg2MTMsLTE3MjYwNzE3NzYsLT
-E2NjEyNzY3NDUsLTE4NDc2MTIzMjUsMTQ1NTQ5NDY3OSw3NzE5
-ODM0MTEsNzExNjA5MjU4LDEwODA3NDc2NDYsLTM0Njg5OTQ5MS
-wxNDg4MTcxMzU3LC0xNjg2NTg2OTYxLC0xODY4MDIyMzcxLDEw
-ODgzODU0NzFdfQ==
+eyJoaXN0b3J5IjpbMTY3ODkxMjY1NywxMDQ2NzY4ODI4LDc5Nz
+gzODg5LC0xNTQ1ODMwODAyLC0xODgxMDEzNTMzLDI0MDYxODQx
+NSwtMzI5ODQxMjk3LDIwOTU4NjczNzQsLTQzODE5ODYxMywtMT
+cyNjA3MTc3NiwtMTY2MTI3Njc0NSwtMTg0NzYxMjMyNSwxNDU1
+NDk0Njc5LDc3MTk4MzQxMSw3MTE2MDkyNTgsMTA4MDc0NzY0Ni
+wtMzQ2ODk5NDkxLDE0ODgxNzEzNTcsLTE2ODY1ODY5NjEsLTE4
+NjgwMjIzNzFdfQ==
 -->
