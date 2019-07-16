@@ -222,7 +222,7 @@ To hide first column of pivoted data  in visualization, choose pivot hide first,
 
 To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
-> **For instance** : In the below image grouping has been applied to dimension fields **customer and hub.** In data retrieved below on expanding HUB it displays the perspective Hub that belongs to customer, on further expansion it displays city names that fall under the specific state  as shown in below image.
+> **For instance** : In the below image grouping has been applied to dimension fields **customer and hub.** In data retrieved below on expanding HUB it displays the perspective  belonging to specific hub, on further expansion it displays casinos name that belongs to customer.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0b15f99af3dde5ba74467811bdd3ff84e8ae541b/images/New_version5/TD_Reports_10.png)
 ## Find
@@ -357,11 +357,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDQwMTIzNSwtMjAwMzk2OTg4MywtMj
-ExMjIzNzkzOCwxOTIyODA1MjgzLC01NjA3NzA5MzAsMTY3ODkx
-MjY1NywxMDQ2NzY4ODI4LDc5NzgzODg5LC0xNTQ1ODMwODAyLC
-0xODgxMDEzNTMzLDI0MDYxODQxNSwtMzI5ODQxMjk3LDIwOTU4
-NjczNzQsLTQzODE5ODYxMywtMTcyNjA3MTc3NiwtMTY2MTI3Nj
-c0NSwtMTg0NzYxMjMyNSwxNDU1NDk0Njc5LDc3MTk4MzQxMSw3
-MTE2MDkyNThdfQ==
+eyJoaXN0b3J5IjpbNzQ4MDU3MzQ5LC0yMDAzOTY5ODgzLC0yMT
+EyMjM3OTM4LDE5MjI4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEy
+NjU3LDEwNDY3Njg4MjgsNzk3ODM4ODksLTE1NDU4MzA4MDIsLT
+E4ODEwMTM1MzMsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2
+NzM3NCwtNDM4MTk4NjEzLC0xNzI2MDcxNzc2LC0xNjYxMjc2Nz
+Q1LC0xODQ3NjEyMzI1LDE0NTU0OTQ2NzksNzcxOTgzNDExLDcx
+MTYwOTI1OF19
 -->
