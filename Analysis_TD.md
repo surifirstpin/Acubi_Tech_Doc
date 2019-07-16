@@ -290,6 +290,8 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
   - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi ;
   
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b4b71a76877a20fa60858be7fbb514e421c9a435/images/New_version5/TD_Reports_16.png)  
+
 |  Example | Description |
 |  ------ | :------ |
 |  #  | Number(1234) |
@@ -349,11 +351,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjYzNDIwNywtNTM2MTE3MzA3LC02NT
-gxMjQ2NzksLTEyNzY0MzY1MDksNDIxMTg5NDg0LDQ0MTA2NDk0
-MSwxODc3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMTEyMjM3OTM4LD
-E5MjI4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEyNjU3LDEwNDY3
-Njg4MjgsNzk3ODM4ODksLTE1NDU4MzA4MDIsLTE4ODEwMTM1Mz
-MsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3NCwtNDM4
-MTk4NjEzXX0=
+eyJoaXN0b3J5IjpbLTI3NjAyODI0OCwtMjE2NjM0MjA3LC01Mz
+YxMTczMDcsLTY1ODEyNDY3OSwtMTI3NjQzNjUwOSw0MjExODk0
+ODQsNDQxMDY0OTQxLDE4NzcxOTAyNTMsLTIwMDM5Njk4ODMsLT
+IxMTIyMzc5MzgsMTkyMjgwNTI4MywtNTYwNzcwOTMwLDE2Nzg5
+MTI2NTcsMTA0Njc2ODgyOCw3OTc4Mzg4OSwtMTU0NTgzMDgwMi
+wtMTg4MTAxMzUzMywyNDA2MTg0MTUsLTMyOTg0MTI5NywyMDk1
+ODY3Mzc0XX0=
 -->
