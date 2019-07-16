@@ -208,15 +208,12 @@ To hide first column of pivoted data  in visualization, choose pivot hide first,
 
 **11.** To freeze the column field values while scrolling the data, click **Pin** in field drop down provided and to release the same click **Remove Pin.**
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/994f3e816fcd104d81eeee8656b39dae9e854092/images/New_version5/TD_Reports_8.png)
 ## Group / Un-Group
 
 **12.** By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down and **To release** the same click on **Un-Group**. 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/group.png)
-
-The below image shows the consolidated values after grouping is applied on fields.
+The below image display the consolidated values after grouping is applied on fields.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/after_grouping.png)
@@ -362,11 +359,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDc3MDkzMCwxNjc4OTEyNjU3LDEwND
-Y3Njg4MjgsNzk3ODM4ODksLTE1NDU4MzA4MDIsLTE4ODEwMTM1
-MzMsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3NCwtND
-M4MTk4NjEzLC0xNzI2MDcxNzc2LC0xNjYxMjc2NzQ1LC0xODQ3
-NjEyMzI1LDE0NTU0OTQ2NzksNzcxOTgzNDExLDcxMTYwOTI1OC
-wxMDgwNzQ3NjQ2LC0zNDY4OTk0OTEsMTQ4ODE3MTM1NywtMTY4
-NjU4Njk2MV19
+eyJoaXN0b3J5IjpbLTE4NjgyMDEyOTEsLTU2MDc3MDkzMCwxNj
+c4OTEyNjU3LDEwNDY3Njg4MjgsNzk3ODM4ODksLTE1NDU4MzA4
+MDIsLTE4ODEwMTM1MzMsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMj
+A5NTg2NzM3NCwtNDM4MTk4NjEzLC0xNzI2MDcxNzc2LC0xNjYx
+Mjc2NzQ1LC0xODQ3NjEyMzI1LDE0NTU0OTQ2NzksNzcxOTgzND
+ExLDcxMTYwOTI1OCwxMDgwNzQ3NjQ2LC0zNDY4OTk0OTEsMTQ4
+ODE3MTM1N119
 -->
