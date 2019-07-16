@@ -167,7 +167,7 @@ For **Measures**
 
 ## Pivot table
 
-Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
+Multiple dimensions in report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
 To **Pivot** a dimension click on pivot for dimension before or after running the query.
 
 > **Note :** you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
@@ -364,7 +364,7 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjA2NTYxMyw3OTc4Mzg4OSwtMTU0NT
+eyJoaXN0b3J5IjpbMTA0Njc2ODgyOCw3OTc4Mzg4OSwtMTU0NT
 gzMDgwMiwtMTg4MTAxMzUzMywyNDA2MTg0MTUsLTMyOTg0MTI5
 NywyMDk1ODY3Mzc0LC00MzgxOTg2MTMsLTE3MjYwNzE3NzYsLT
 E2NjEyNzY3NDUsLTE4NDc2MTIzMjUsMTQ1NTQ5NDY3OSw3NzE5
