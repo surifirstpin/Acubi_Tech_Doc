@@ -120,7 +120,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 ## Order  (Ascending / Descending)
 
 To view the column data in ascending or descending orders, Click **Order** and choose the fields with desired combination, resulting on which the result in data section is displayed.
-as shown In the below image, descending order is applied to bets_usd (sum) as a result data
+as shown In the below image, descending order is applied to bets_usd (sum), the resultant for this is shown in descending order.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34680d9c76d6eebc3cc6b1bb76af169b96af03c3/images/New_version5/TD_Reports_4.png)
 **Image 4**
@@ -363,11 +363,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ4MDMzMDcsMjQwNjE4NDE1LC0zMj
-k4NDEyOTcsMjA5NTg2NzM3NCwtNDM4MTk4NjEzLC0xNzI2MDcx
-Nzc2LC0xNjYxMjc2NzQ1LC0xODQ3NjEyMzI1LDE0NTU0OTQ2Nz
-ksNzcxOTgzNDExLDcxMTYwOTI1OCwxMDgwNzQ3NjQ2LC0zNDY4
-OTk0OTEsMTQ4ODE3MTM1NywtMTY4NjU4Njk2MSwtMTg2ODAyMj
-M3MSwxMDg4Mzg1NDcxLC0xMTk0NDkzMDA5LC02ODk3Nzg2Nyw4
-MTI2OTI0MjNdfQ==
+eyJoaXN0b3J5IjpbMjg0MTQxMzE1LDI0MDYxODQxNSwtMzI5OD
+QxMjk3LDIwOTU4NjczNzQsLTQzODE5ODYxMywtMTcyNjA3MTc3
+NiwtMTY2MTI3Njc0NSwtMTg0NzYxMjMyNSwxNDU1NDk0Njc5LD
+c3MTk4MzQxMSw3MTE2MDkyNTgsMTA4MDc0NzY0NiwtMzQ2ODk5
+NDkxLDE0ODgxNzEzNTcsLTE2ODY1ODY5NjEsLTE4NjgwMjIzNz
+EsMTA4ODM4NTQ3MSwtMTE5NDQ5MzAwOSwtNjg5Nzc4NjcsODEy
+NjkyNDIzXX0=
 -->
