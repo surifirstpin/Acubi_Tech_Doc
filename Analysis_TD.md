@@ -97,6 +97,7 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 **4.** Navigate to **Filter section,** then extract data based on filters applied.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb353d0308368c774c84058005a471ff667e7125/images/New_version5/TD_Reports_2.png)
+**Image 2**
 
 ## Hidden Filters
 
@@ -109,6 +110,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 **c.** The data is retrieved, based on the applied hidden filters.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1f4b77c16dbb8f5b7ff70eb159ddb35c6445236c/images/New_version5/TD_Reports_3.png)
+**Image 3**
 - To add more filters click **Add Rule**.
 - To delete the filter applied click **Cross Icon**.
 - To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To un-hide click on angle-double-down icon at same location.
@@ -119,7 +121,8 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 To view the column data in ascending or descending orders, Click **Order** and choose the fields with desired combination, resulting on which the result in data section is displayed.
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34680d9c76d6eebc3cc6b1bb76af169b96af03c3/images/New_version5/TD_Reports_4.png)
+**Image 4**
 
 ## Local Sorting
 
@@ -359,11 +362,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTg0MTI5NywyMDk1ODY3Mzc0LC00Mz
-gxOTg2MTMsLTE3MjYwNzE3NzYsLTE2NjEyNzY3NDUsLTE4NDc2
-MTIzMjUsMTQ1NTQ5NDY3OSw3NzE5ODM0MTEsNzExNjA5MjU4LD
-EwODA3NDc2NDYsLTM0Njg5OTQ5MSwxNDg4MTcxMzU3LC0xNjg2
-NTg2OTYxLC0xODY4MDIyMzcxLDEwODgzODU0NzEsLTExOTQ0OT
-MwMDksLTY4OTc3ODY3LDgxMjY5MjQyMywxOTI2NzYxNzIyLC0x
-NDg2OTk4NTk4XX0=
+eyJoaXN0b3J5IjpbMjQwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NT
+g2NzM3NCwtNDM4MTk4NjEzLC0xNzI2MDcxNzc2LC0xNjYxMjc2
+NzQ1LC0xODQ3NjEyMzI1LDE0NTU0OTQ2NzksNzcxOTgzNDExLD
+cxMTYwOTI1OCwxMDgwNzQ3NjQ2LC0zNDY4OTk0OTEsMTQ4ODE3
+MTM1NywtMTY4NjU4Njk2MSwtMTg2ODAyMjM3MSwxMDg4Mzg1ND
+cxLC0xMTk0NDkzMDA5LC02ODk3Nzg2Nyw4MTI2OTI0MjMsMTky
+Njc2MTcyMl19
 -->
