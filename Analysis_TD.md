@@ -232,21 +232,21 @@ To carry out Multi-level grouping on extracted data. Select group option for the
 
 ## Find
 
-To find the specific field value from the data extracted click on **Find** in the  field drop down.
+**13** To find the specific field value from the data extracted click on **Find** in the  field drop down.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0c61b3a711f6de1821fa63350eaa8f2e11e84486/images/find.png)
 
 ## Field Visualization On / Off
 
-To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization**
+**14.** To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/75f9c50ef12a1aa2ff5c43aaafefa2fd1140597d/images/hide_visualisation.png)
 
 ## Remove
 
-To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.
+**15.** To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.
 
 ## Calculated Column 
 
@@ -362,7 +362,7 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Mjk0MzE2OSwxNjc4OTEyNjU3LDEwND
+eyJoaXN0b3J5IjpbLTU2MDc3MDkzMCwxNjc4OTEyNjU3LDEwND
 Y3Njg4MjgsNzk3ODM4ODksLTE1NDU4MzA4MDIsLTE4ODEwMTM1
 MzMsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3NCwtND
 M4MTk4NjEzLC0xNzI2MDcxNzc2LC0xNjYxMjc2NzQ1LC0xODQ3
