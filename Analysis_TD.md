@@ -243,7 +243,7 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up in green colour in data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
 
-- Click on **Calculated Column** button to enable table calculations as shown in below image,
+- Click on **Calculated Column** button to enable table calculations as shown in image below,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
@@ -353,11 +353,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzE5MDI1MywtMjAwMzk2OTg4MywtMj
-ExMjIzNzkzOCwxOTIyODA1MjgzLC01NjA3NzA5MzAsMTY3ODkx
-MjY1NywxMDQ2NzY4ODI4LDc5NzgzODg5LC0xNTQ1ODMwODAyLC
-0xODgxMDEzNTMzLDI0MDYxODQxNSwtMzI5ODQxMjk3LDIwOTU4
-NjczNzQsLTQzODE5ODYxMywtMTcyNjA3MTc3NiwtMTY2MTI3Nj
-c0NSwtMTg0NzYxMjMyNSwxNDU1NDk0Njc5LDc3MTk4MzQxMSw3
-MTE2MDkyNThdfQ==
+eyJoaXN0b3J5IjpbNDQxMDY0OTQxLDE4NzcxOTAyNTMsLTIwMD
+M5Njk4ODMsLTIxMTIyMzc5MzgsMTkyMjgwNTI4MywtNTYwNzcw
+OTMwLDE2Nzg5MTI2NTcsMTA0Njc2ODgyOCw3OTc4Mzg4OSwtMT
+U0NTgzMDgwMiwtMTg4MTAxMzUzMywyNDA2MTg0MTUsLTMyOTg0
+MTI5NywyMDk1ODY3Mzc0LC00MzgxOTg2MTMsLTE3MjYwNzE3Nz
+YsLTE2NjEyNzY3NDUsLTE4NDc2MTIzMjUsMTQ1NTQ5NDY3OSw3
+NzE5ODM0MTFdfQ==
 -->
