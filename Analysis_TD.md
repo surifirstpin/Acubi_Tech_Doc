@@ -213,7 +213,7 @@ To hide first column of pivoted data  in visualization, choose pivot hide first,
 
 **12.** By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down and **To release** the same click on **Un-Group**. 
 
-The below image display the consolidated values after grouping is applied on fields.
+
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bc9bcd938189cd95f72d69d632d643df0746e9af/images/New_version5/TD_Reports_9.png)
 **Image 9**
@@ -222,7 +222,7 @@ The below image display the consolidated values after grouping is applied on fie
 
 To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
-> **For instance** : In the below image grouping has been applied to dimension fields customer and hub. In retrieved data below on expanding customer it displays the perspective Hub that belongs to customer, on further expansion it displays city names that fall under the specific state  as shown in below image.
+> **For instance** : In the below image grouping has been applied to dimension fields **customer and hub.** In data retrieved below on expanding HUB it displays the perspective Hub that belongs to customer, on further expansion it displays city names that fall under the specific state  as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0b15f99af3dde5ba74467811bdd3ff84e8ae541b/images/New_version5/TD_Reports_10.png)
 ## Find
@@ -357,11 +357,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM5Njk4ODMsLTIxMTIyMzc5MzgsMT
-kyMjgwNTI4MywtNTYwNzcwOTMwLDE2Nzg5MTI2NTcsMTA0Njc2
-ODgyOCw3OTc4Mzg4OSwtMTU0NTgzMDgwMiwtMTg4MTAxMzUzMy
-wyNDA2MTg0MTUsLTMyOTg0MTI5NywyMDk1ODY3Mzc0LC00Mzgx
-OTg2MTMsLTE3MjYwNzE3NzYsLTE2NjEyNzY3NDUsLTE4NDc2MT
-IzMjUsMTQ1NTQ5NDY3OSw3NzE5ODM0MTEsNzExNjA5MjU4LDEw
-ODA3NDc2NDZdfQ==
+eyJoaXN0b3J5IjpbLTk5MDQwMTIzNSwtMjAwMzk2OTg4MywtMj
+ExMjIzNzkzOCwxOTIyODA1MjgzLC01NjA3NzA5MzAsMTY3ODkx
+MjY1NywxMDQ2NzY4ODI4LDc5NzgzODg5LC0xNTQ1ODMwODAyLC
+0xODgxMDEzNTMzLDI0MDYxODQxNSwtMzI5ODQxMjk3LDIwOTU4
+NjczNzQsLTQzODE5ODYxMywtMTcyNjA3MTc3NiwtMTY2MTI3Nj
+c0NSwtMTg0NzYxMjMyNSwxNDU1NDk0Njc5LDc3MTk4MzQxMSw3
+MTE2MDkyNThdfQ==
 -->
