@@ -291,7 +291,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
   - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi ;
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b4b71a76877a20fa60858be7fbb514e421c9a435/images/New_version5/TD_Reports_16.png)  
-
+**Image 15**
 |  Example | Description |
 |  ------ | :------ |
 |  #  | Number(1234) |
@@ -330,6 +330,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 To View the SQL query built on retrieving data in report, click on **SQL** section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e89fea59c7b6d6978b5430de4d1be5cbfe27aeb3/images/New_version5/TD_Reports_15.png)
+**Image 16**
 
 ## Drill Down Display
 
@@ -343,15 +344,8 @@ Using drill down you can view more deeper insights of the data.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 
-## Download Data
-
-To download a report, click on **Download (icon)** button as shown in the image below.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjAyODI0OCwtMjE2NjM0MjA3LC01Mz
+eyJoaXN0b3J5IjpbLTYxNzk1MzEyNiwtMjE2NjM0MjA3LC01Mz
 YxMTczMDcsLTY1ODEyNDY3OSwtMTI3NjQzNjUwOSw0MjExODk0
 ODQsNDQxMDY0OTQxLDE4NzcxOTAyNTMsLTIwMDM5Njk4ODMsLT
 IxMTIyMzc5MzgsMTkyMjgwNTI4MywtNTYwNzcwOTMwLDE2Nzg5
