@@ -119,8 +119,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 To view the column data in ascending or descending orders, Click **Order** and choose the fields with desired combination, resulting on which the result in data section is displayed.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png)
+
 
 ## Local Sorting
 
@@ -360,11 +359,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTg2NzM3NCwtNDM4MTk4NjEzLC0xNz
-I2MDcxNzc2LC0xNjYxMjc2NzQ1LC0xODQ3NjEyMzI1LDE0NTU0
-OTQ2NzksNzcxOTgzNDExLDcxMTYwOTI1OCwxMDgwNzQ3NjQ2LC
-0zNDY4OTk0OTEsMTQ4ODE3MTM1NywtMTY4NjU4Njk2MSwtMTg2
-ODAyMjM3MSwxMDg4Mzg1NDcxLC0xMTk0NDkzMDA5LC02ODk3Nz
-g2Nyw4MTI2OTI0MjMsMTkyNjc2MTcyMiwtMTQ4Njk5ODU5OF19
-
+eyJoaXN0b3J5IjpbLTMyOTg0MTI5NywyMDk1ODY3Mzc0LC00Mz
+gxOTg2MTMsLTE3MjYwNzE3NzYsLTE2NjEyNzY3NDUsLTE4NDc2
+MTIzMjUsMTQ1NTQ5NDY3OSw3NzE5ODM0MTEsNzExNjA5MjU4LD
+EwODA3NDc2NDYsLTM0Njg5OTQ5MSwxNDg4MTcxMzU3LC0xNjg2
+NTg2OTYxLC0xODY4MDIyMzcxLDEwODgzODU0NzEsLTExOTQ0OT
+MwMDksLTY4OTc3ODY3LDgxMjY5MjQyMywxOTI2NzYxNzIyLC0x
+NDg2OTk4NTk4XX0=
 -->
