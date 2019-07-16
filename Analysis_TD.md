@@ -281,10 +281,11 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-- **Legend** it will enable the user to name a measure field value in visualization charts as shown below.
+- **Legend** it will enable the user to name a measure field value under the datasets of visualization charts as shown in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6160c646c543e909e647be818feacde139666cd5/images/New_version5/TD_Reports_14.png)
 **Image 14**
+
 ##  Format
 
   - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi ;
@@ -350,11 +351,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI1MzY5MTgsLTUzNjExNzMwNywtNj
-U4MTI0Njc5LC0xMjc2NDM2NTA5LDQyMTE4OTQ4NCw0NDEwNjQ5
-NDEsMTg3NzE5MDI1MywtMjAwMzk2OTg4MywtMjExMjIzNzkzOC
-wxOTIyODA1MjgzLC01NjA3NzA5MzAsMTY3ODkxMjY1NywxMDQ2
-NzY4ODI4LDc5NzgzODg5LC0xNTQ1ODMwODAyLC0xODgxMDEzNT
-MzLDI0MDYxODQxNSwtMzI5ODQxMjk3LDIwOTU4NjczNzQsLTQz
-ODE5ODYxM119
+eyJoaXN0b3J5IjpbMTY4OTk1NDgyNiwtNTM2MTE3MzA3LC02NT
+gxMjQ2NzksLTEyNzY0MzY1MDksNDIxMTg5NDg0LDQ0MTA2NDk0
+MSwxODc3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMTEyMjM3OTM4LD
+E5MjI4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEyNjU3LDEwNDY3
+Njg4MjgsNzk3ODM4ODksLTE1NDU4MzA4MDIsLTE4ODEwMTM1Mz
+MsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3NCwtNDM4
+MTk4NjEzXX0=
 -->
