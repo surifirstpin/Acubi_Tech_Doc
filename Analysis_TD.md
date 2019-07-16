@@ -322,14 +322,12 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Currency**  AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
-![
-](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/e1bd201419a03bfb1375b64b9e74fb8e06830061/images/data_section_analysis.png%29)
 
 ## SQL Query 
 
 To View the SQL query built on retrieving data in report, click on **SQL** section.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e89fea59c7b6d6978b5430de4d1be5cbfe27aeb3/images/New_version5/TD_Reports_15.png)
 
 ## Drill Down Display
 
@@ -351,7 +349,7 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzQzNjA4NywtNTM2MTE3MzA3LC02NT
+eyJoaXN0b3J5IjpbLTIxNjYzNDIwNywtNTM2MTE3MzA3LC02NT
 gxMjQ2NzksLTEyNzY0MzY1MDksNDIxMTg5NDg0LDQ0MTA2NDk0
 MSwxODc3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMTEyMjM3OTM4LD
 E5MjI4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEyNjU3LDEwNDY3
