@@ -139,9 +139,8 @@ For **Measures**
 - Click Upwards Pointing Arrow,  to enable descending order.
 - Click Downwards Pointing Arrow, to enable ascending order.
  
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/local_sorting.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/87a73aeac27bf279f1b6a9d87a473785644d363f/images/New_version5/TD_Reports_5.png)
+**Image 5**
 
 ## Query Time
 
@@ -363,11 +362,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODEwMTM1MzMsMjQwNjE4NDE1LC0zMj
-k4NDEyOTcsMjA5NTg2NzM3NCwtNDM4MTk4NjEzLC0xNzI2MDcx
-Nzc2LC0xNjYxMjc2NzQ1LC0xODQ3NjEyMzI1LDE0NTU0OTQ2Nz
-ksNzcxOTgzNDExLDcxMTYwOTI1OCwxMDgwNzQ3NjQ2LC0zNDY4
-OTk0OTEsMTQ4ODE3MTM1NywtMTY4NjU4Njk2MSwtMTg2ODAyMj
-M3MSwxMDg4Mzg1NDcxLC0xMTk0NDkzMDA5LC02ODk3Nzg2Nyw4
-MTI2OTI0MjNdfQ==
+eyJoaXN0b3J5IjpbLTE1NDU4MzA4MDIsLTE4ODEwMTM1MzMsMj
+QwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3NCwtNDM4MTk4
+NjEzLC0xNzI2MDcxNzc2LC0xNjYxMjc2NzQ1LC0xODQ3NjEyMz
+I1LDE0NTU0OTQ2NzksNzcxOTgzNDExLDcxMTYwOTI1OCwxMDgw
+NzQ3NjQ2LC0zNDY4OTk0OTEsMTQ4ODE3MTM1NywtMTY4NjU4Nj
+k2MSwtMTg2ODAyMjM3MSwxMDg4Mzg1NDcxLC0xMTk0NDkzMDA5
+LC02ODk3Nzg2N119
 -->
