@@ -161,8 +161,9 @@ For **Measures**
 **9.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.                                                          
 
 **10.** To download the data in csv format, click ***download data***.
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/61de99f8d763cf180029d192cc9b991ed454a35a/images/query_time.png)
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1877afffe878ada04f7e66846fc1f74161830c79/images/New_version5/TD_Reports_6.png)
+**Image 6**
 
 ## Pivot table
 
@@ -363,11 +364,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3ODM4ODksLTE1NDU4MzA4MDIsLTE4OD
-EwMTM1MzMsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3
-NCwtNDM4MTk4NjEzLC0xNzI2MDcxNzc2LC0xNjYxMjc2NzQ1LC
-0xODQ3NjEyMzI1LDE0NTU0OTQ2NzksNzcxOTgzNDExLDcxMTYw
-OTI1OCwxMDgwNzQ3NjQ2LC0zNDY4OTk0OTEsMTQ4ODE3MTM1Ny
-wtMTY4NjU4Njk2MSwtMTg2ODAyMjM3MSwxMDg4Mzg1NDcxLC0x
-MTk0NDkzMDA5XX0=
+eyJoaXN0b3J5IjpbMTI5NjA2NTYxMyw3OTc4Mzg4OSwtMTU0NT
+gzMDgwMiwtMTg4MTAxMzUzMywyNDA2MTg0MTUsLTMyOTg0MTI5
+NywyMDk1ODY3Mzc0LC00MzgxOTg2MTMsLTE3MjYwNzE3NzYsLT
+E2NjEyNzY3NDUsLTE4NDc2MTIzMjUsMTQ1NTQ5NDY3OSw3NzE5
+ODM0MTEsNzExNjA5MjU4LDEwODA3NDc2NDYsLTM0Njg5OTQ5MS
+wxNDg4MTcxMzU3LC0xNjg2NTg2OTYxLC0xODY4MDIyMzcxLDEw
+ODgzODU0NzFdfQ==
 -->
