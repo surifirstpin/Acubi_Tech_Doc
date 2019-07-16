@@ -127,7 +127,7 @@ as shown In the below image, descending order is applied to bets_usd (sum), the 
 
 ## Local Sorting
 
-Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. To enable this Click on the desired field header to enable sorting.
+Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. To enable this click on the desired field header to enable sorting.
 
 For **Dimensions**
 
@@ -363,11 +363,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0MTQxMzE1LDI0MDYxODQxNSwtMzI5OD
-QxMjk3LDIwOTU4NjczNzQsLTQzODE5ODYxMywtMTcyNjA3MTc3
-NiwtMTY2MTI3Njc0NSwtMTg0NzYxMjMyNSwxNDU1NDk0Njc5LD
-c3MTk4MzQxMSw3MTE2MDkyNTgsMTA4MDc0NzY0NiwtMzQ2ODk5
-NDkxLDE0ODgxNzEzNTcsLTE2ODY1ODY5NjEsLTE4NjgwMjIzNz
-EsMTA4ODM4NTQ3MSwtMTE5NDQ5MzAwOSwtNjg5Nzc4NjcsODEy
-NjkyNDIzXX0=
+eyJoaXN0b3J5IjpbLTE4ODEwMTM1MzMsMjQwNjE4NDE1LC0zMj
+k4NDEyOTcsMjA5NTg2NzM3NCwtNDM4MTk4NjEzLC0xNzI2MDcx
+Nzc2LC0xNjYxMjc2NzQ1LC0xODQ3NjEyMzI1LDE0NTU0OTQ2Nz
+ksNzcxOTgzNDExLDcxMTYwOTI1OCwxMDgwNzQ3NjQ2LC0zNDY4
+OTk0OTEsMTQ4ODE3MTM1NywtMTY4NjU4Njk2MSwtMTg2ODAyMj
+M3MSwxMDg4Mzg1NDcxLC0xMTk0NDkzMDA5LC02ODk3Nzg2Nyw4
+MTI2OTI0MjNdfQ==
 -->
