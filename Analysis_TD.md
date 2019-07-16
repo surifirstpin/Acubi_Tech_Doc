@@ -206,14 +206,12 @@ To hide first column of pivoted data  in visualization, choose pivot hide first,
 
 ## Pin or Remove Pin
 
-To freeze the column field values while scrolling the data, click **Pin** in field drop down provided and to release the same click **Remove Pin.**
+**11.** To freeze the column field values while scrolling the data, click **Pin** in field drop down provided and to release the same click **Remove Pin.**
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/83983da3cd4f0b19f0ed84550fc2151b0619fc36/images/pin.png)
 
 ## Group / Un-Group
 
-By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down and **To release** the same click on **Un-Group**. 
+**12.** By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down and **To release** the same click on **Un-Group**. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/group.png)
@@ -364,11 +362,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODkxMjY1NywxMDQ2NzY4ODI4LDc5Nz
-gzODg5LC0xNTQ1ODMwODAyLC0xODgxMDEzNTMzLDI0MDYxODQx
-NSwtMzI5ODQxMjk3LDIwOTU4NjczNzQsLTQzODE5ODYxMywtMT
-cyNjA3MTc3NiwtMTY2MTI3Njc0NSwtMTg0NzYxMjMyNSwxNDU1
-NDk0Njc5LDc3MTk4MzQxMSw3MTE2MDkyNTgsMTA4MDc0NzY0Ni
-wtMzQ2ODk5NDkxLDE0ODgxNzEzNTcsLTE2ODY1ODY5NjEsLTE4
-NjgwMjIzNzFdfQ==
+eyJoaXN0b3J5IjpbLTI0Mjk0MzE2OSwxNjc4OTEyNjU3LDEwND
+Y3Njg4MjgsNzk3ODM4ODksLTE1NDU4MzA4MDIsLTE4ODEwMTM1
+MzMsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3NCwtND
+M4MTk4NjEzLC0xNzI2MDcxNzc2LC0xNjYxMjc2NzQ1LC0xODQ3
+NjEyMzI1LDE0NTU0OTQ2NzksNzcxOTgzNDExLDcxMTYwOTI1OC
+wxMDgwNzQ3NjQ2LC0zNDY4OTk0OTEsMTQ4ODE3MTM1NywtMTY4
+NjU4Njk2MV19
 -->
