@@ -215,8 +215,8 @@ To hide first column of pivoted data  in visualization, choose pivot hide first,
 
 The below image display the consolidated values after grouping is applied on fields.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/after_grouping.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bc9bcd938189cd95f72d69d632d643df0746e9af/images/New_version5/TD_Reports_9.png)
+**Image 9**
 
 ## Multi-Level grouping
 
@@ -359,11 +359,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjgyMDEyOTEsLTU2MDc3MDkzMCwxNj
-c4OTEyNjU3LDEwNDY3Njg4MjgsNzk3ODM4ODksLTE1NDU4MzA4
-MDIsLTE4ODEwMTM1MzMsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMj
-A5NTg2NzM3NCwtNDM4MTk4NjEzLC0xNzI2MDcxNzc2LC0xNjYx
-Mjc2NzQ1LC0xODQ3NjEyMzI1LDE0NTU0OTQ2NzksNzcxOTgzND
-ExLDcxMTYwOTI1OCwxMDgwNzQ3NjQ2LC0zNDY4OTk0OTEsMTQ4
-ODE3MTM1N119
+eyJoaXN0b3J5IjpbMTkyMjgwNTI4MywtNTYwNzcwOTMwLDE2Nz
+g5MTI2NTcsMTA0Njc2ODgyOCw3OTc4Mzg4OSwtMTU0NTgzMDgw
+MiwtMTg4MTAxMzUzMywyNDA2MTg0MTUsLTMyOTg0MTI5NywyMD
+k1ODY3Mzc0LC00MzgxOTg2MTMsLTE3MjYwNzE3NzYsLTE2NjEy
+NzY3NDUsLTE4NDc2MTIzMjUsMTQ1NTQ5NDY3OSw3NzE5ODM0MT
+EsNzExNjA5MjU4LDEwODA3NDc2NDYsLTM0Njg5OTQ5MSwxNDg4
+MTcxMzU3XX0=
 -->
