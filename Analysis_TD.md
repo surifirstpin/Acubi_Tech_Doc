@@ -283,7 +283,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Legend** it will enable the user to name a measure field value under the datasets of visualization charts as shown in image below.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6160c646c543e909e647be818feacde139666cd5/images/New_version5/TD_Reports_14.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5172b5cf71819a0e92ccc38247af5660d863bdf2/images/New_version5/TD_Reports_14.png)
 **Image 14**
 
 ##  Format
@@ -351,7 +351,7 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTk1NDgyNiwtNTM2MTE3MzA3LC02NT
+eyJoaXN0b3J5IjpbLTk1MzQzNjA4NywtNTM2MTE3MzA3LC02NT
 gxMjQ2NzksLTEyNzY0MzY1MDksNDIxMTg5NDg0LDQ0MTA2NDk0
 MSwxODc3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMTEyMjM3OTM4LD
 E5MjI4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEyNjU3LDEwNDY3
