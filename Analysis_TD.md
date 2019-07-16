@@ -245,6 +245,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 - Click on **Calculated Column** button to enable table calculations as shown in image below,
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/96a6c4d7d9cd243bc1742d6a45a3372d87704877/images/New_version5/TD_Reports_11.png)
+**Image 11** 
 
 - **Field name** unique identifier name to refer calculated column.
 
@@ -351,11 +352,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMTg5NDg0LDQ0MTA2NDk0MSwxODc3MT
-kwMjUzLC0yMDAzOTY5ODgzLC0yMTEyMjM3OTM4LDE5MjI4MDUy
-ODMsLTU2MDc3MDkzMCwxNjc4OTEyNjU3LDEwNDY3Njg4MjgsNz
-k3ODM4ODksLTE1NDU4MzA4MDIsLTE4ODEwMTM1MzMsMjQwNjE4
-NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3NCwtNDM4MTk4NjEzLC
-0xNzI2MDcxNzc2LC0xNjYxMjc2NzQ1LC0xODQ3NjEyMzI1LDE0
-NTU0OTQ2NzldfQ==
+eyJoaXN0b3J5IjpbLTEyNzY0MzY1MDksNDIxMTg5NDg0LDQ0MT
+A2NDk0MSwxODc3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMTEyMjM3
+OTM4LDE5MjI4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEyNjU3LD
+EwNDY3Njg4MjgsNzk3ODM4ODksLTE1NDU4MzA4MDIsLTE4ODEw
+MTM1MzMsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3NC
+wtNDM4MTk4NjEzLC0xNzI2MDcxNzc2LC0xNjYxMjc2NzQ1LC0x
+ODQ3NjEyMzI1XX0=
 -->
