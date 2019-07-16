@@ -259,13 +259,12 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 - **Calculate on the raw data** if it is enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c80c47106a0f82196eaeb00516008a3e4c34e395/images/New_version5/TD_Reports_12.png)
+**Image 12**
 
 - Click **OK** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image:
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
+
 
 ## Data 
 
@@ -352,11 +351,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY0MzY1MDksNDIxMTg5NDg0LDQ0MT
-A2NDk0MSwxODc3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMTEyMjM3
-OTM4LDE5MjI4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEyNjU3LD
-EwNDY3Njg4MjgsNzk3ODM4ODksLTE1NDU4MzA4MDIsLTE4ODEw
-MTM1MzMsMjQwNjE4NDE1LC0zMjk4NDEyOTcsMjA5NTg2NzM3NC
-wtNDM4MTk4NjEzLC0xNzI2MDcxNzc2LC0xNjYxMjc2NzQ1LC0x
-ODQ3NjEyMzI1XX0=
+eyJoaXN0b3J5IjpbLTY1ODEyNDY3OSwtMTI3NjQzNjUwOSw0Mj
+ExODk0ODQsNDQxMDY0OTQxLDE4NzcxOTAyNTMsLTIwMDM5Njk4
+ODMsLTIxMTIyMzc5MzgsMTkyMjgwNTI4MywtNTYwNzcwOTMwLD
+E2Nzg5MTI2NTcsMTA0Njc2ODgyOCw3OTc4Mzg4OSwtMTU0NTgz
+MDgwMiwtMTg4MTAxMzUzMywyNDA2MTg0MTUsLTMyOTg0MTI5Ny
+wyMDk1ODY3Mzc0LC00MzgxOTg2MTMsLTE3MjYwNzE3NzYsLTE2
+NjEyNzY3NDVdfQ==
 -->
