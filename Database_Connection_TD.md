@@ -19,7 +19,7 @@
 
  Login **AcuBi** using following navigation path :
 
-**Link :**  [http://52.29.248.194:8081/biplus](http://52.29.248.194:8081/biplus)
+**Link :**  [http://18.196.122.102:8081/acubi/home](http://18.196.122.102:8081/acubi/home)
 
 >**Navigation: Database→ New connection**
 
@@ -101,11 +101,11 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAyNTExMTMsMzM2OTY1NjUzLC0xNT
-E3ODY3NDQzLC00NjI1MjU3MDcsLTI5NjIxMTIwOCwxMzk4NTkw
-ODM4LC0xMzU0OTk1ODM2LDIwNTU3Mzc4MjcsLTE4OTY2OTYzOD
-MsMTA2MTQ5NzcsMTIwOTkzNTE1MSwyMDMyODA5NTQzLDIxMTY0
-MTU2NTgsMTk4NzU5NTMwMCwxNDc5OTA0MjExLC0xMzU5NzIwMT
-M5LDE1MjA4Nzk3MjAsMjE0NjQyNjQ2OSwyMDQ3NDYyMjQ4LC04
-MDI0NzA5MF19
+eyJoaXN0b3J5IjpbMjExMzI5MDk1OSwtMTE5MDI1MTExMywzMz
+Y5NjU2NTMsLTE1MTc4Njc0NDMsLTQ2MjUyNTcwNywtMjk2MjEx
+MjA4LDEzOTg1OTA4MzgsLTEzNTQ5OTU4MzYsMjA1NTczNzgyNy
+wtMTg5NjY5NjM4MywxMDYxNDk3NywxMjA5OTM1MTUxLDIwMzI4
+MDk1NDMsMjExNjQxNTY1OCwxOTg3NTk1MzAwLDE0Nzk5MDQyMT
+EsLTEzNTk3MjAxMzksMTUyMDg3OTcyMCwyMTQ2NDI2NDY5LDIw
+NDc0NjIyNDhdfQ==
 -->
