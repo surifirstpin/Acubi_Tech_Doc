@@ -150,11 +150,9 @@ For **Measures**
 
 **7.** Display number of rows fetched while retrieving data.
 
-
 ## Display Totals
 
 **8.**    On selecting  **Check box** for totals, the report is displayed with total sum values of the measure fields obtained.
-
 
  ## Display  Row Limit
 
@@ -345,11 +343,11 @@ Using drill down you can view more deeper insights of the data.
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzk1MzEyNiwtMjE2NjM0MjA3LC01Mz
-YxMTczMDcsLTY1ODEyNDY3OSwtMTI3NjQzNjUwOSw0MjExODk0
-ODQsNDQxMDY0OTQxLDE4NzcxOTAyNTMsLTIwMDM5Njk4ODMsLT
-IxMTIyMzc5MzgsMTkyMjgwNTI4MywtNTYwNzcwOTMwLDE2Nzg5
-MTI2NTcsMTA0Njc2ODgyOCw3OTc4Mzg4OSwtMTU0NTgzMDgwMi
-wtMTg4MTAxMzUzMywyNDA2MTg0MTUsLTMyOTg0MTI5NywyMDk1
-ODY3Mzc0XX0=
+eyJoaXN0b3J5IjpbMTgwNjk4NTg1NCwtNjE3OTUzMTI2LC0yMT
+Y2MzQyMDcsLTUzNjExNzMwNywtNjU4MTI0Njc5LC0xMjc2NDM2
+NTA5LDQyMTE4OTQ4NCw0NDEwNjQ5NDEsMTg3NzE5MDI1MywtMj
+AwMzk2OTg4MywtMjExMjIzNzkzOCwxOTIyODA1MjgzLC01NjA3
+NzA5MzAsMTY3ODkxMjY1NywxMDQ2NzY4ODI4LDc5NzgzODg5LC
+0xNTQ1ODMwODAyLC0xODgxMDEzNTMzLDI0MDYxODQxNSwtMzI5
+ODQxMjk3XX0=
 -->
