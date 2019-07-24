@@ -7,7 +7,7 @@
    
  **To set up database connection;**
     
-**I.**  Get the connection details for database such as HostName, port, username and password, etc from **Database Administrator.**
+**I.**  Get the connection details for database such as Host, Dialects, port, username, password, etc from **Database Administrator.**
 
 **II.** Enable secure access to database, such as :
   -  Using  IP Address Whitelist, optionally adding SSL Encryption.
@@ -101,11 +101,11 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkyNjgzNTksMjExMzI5MDk1OSwtMT
-E5MDI1MTExMywzMzY5NjU2NTMsLTE1MTc4Njc0NDMsLTQ2MjUy
-NTcwNywtMjk2MjExMjA4LDEzOTg1OTA4MzgsLTEzNTQ5OTU4Mz
-YsMjA1NTczNzgyNywtMTg5NjY5NjM4MywxMDYxNDk3NywxMjA5
-OTM1MTUxLDIwMzI4MDk1NDMsMjExNjQxNTY1OCwxOTg3NTk1Mz
-AwLDE0Nzk5MDQyMTEsLTEzNTk3MjAxMzksMTUyMDg3OTcyMCwy
-MTQ2NDI2NDY5XX0=
+eyJoaXN0b3J5IjpbLTk0NDU2NTAzMCwyMTEzMjkwOTU5LC0xMT
+kwMjUxMTEzLDMzNjk2NTY1MywtMTUxNzg2NzQ0MywtNDYyNTI1
+NzA3LC0yOTYyMTEyMDgsMTM5ODU5MDgzOCwtMTM1NDk5NTgzNi
+wyMDU1NzM3ODI3LC0xODk2Njk2MzgzLDEwNjE0OTc3LDEyMDk5
+MzUxNTEsMjAzMjgwOTU0MywyMTE2NDE1NjU4LDE5ODc1OTUzMD
+AsMTQ3OTkwNDIxMSwtMTM1OTcyMDEzOSwxNTIwODc5NzIwLDIx
+NDY0MjY0NjldfQ==
 -->
