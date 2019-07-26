@@ -334,7 +334,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 
 Using drill down you can view more deeper insights of the data.
 
-**For example:** On expanding Station Code, it will display Station code details(eg: area code, way used & quantity)  that fall under the particular station_code. On further expanding state-name, it will display the city-name that falls under the state.
+**For example:** On expanding Station Code, it will display Station code details(eg: area code, way used & quantity)  that fall under the particular station_code. On further expanding Way_used it will display the mode of payment(phone) that falls under the Way_use.
 
 > **Note :** to attain drill down features it need to be specified in model section, Refer **Model Documentation** for more information about drill down feature.
 
@@ -343,11 +343,11 @@ Using drill down you can view more deeper insights of the data.
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA5NTc2NjcsMTgwNjk4NTg1NCwtNj
-E3OTUzMTI2LC0yMTY2MzQyMDcsLTUzNjExNzMwNywtNjU4MTI0
-Njc5LC0xMjc2NDM2NTA5LDQyMTE4OTQ4NCw0NDEwNjQ5NDEsMT
-g3NzE5MDI1MywtMjAwMzk2OTg4MywtMjExMjIzNzkzOCwxOTIy
-ODA1MjgzLC01NjA3NzA5MzAsMTY3ODkxMjY1NywxMDQ2NzY4OD
-I4LDc5NzgzODg5LC0xNTQ1ODMwODAyLC0xODgxMDEzNTMzLDI0
-MDYxODQxNV19
+eyJoaXN0b3J5IjpbMTMwODM0MTE5NywxODA2OTg1ODU0LC02MT
+c5NTMxMjYsLTIxNjYzNDIwNywtNTM2MTE3MzA3LC02NTgxMjQ2
+NzksLTEyNzY0MzY1MDksNDIxMTg5NDg0LDQ0MTA2NDk0MSwxOD
+c3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMTEyMjM3OTM4LDE5MjI4
+MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEyNjU3LDEwNDY3Njg4Mj
+gsNzk3ODM4ODksLTE1NDU4MzA4MDIsLTE4ODEwMTM1MzMsMjQw
+NjE4NDE1XX0=
 -->
