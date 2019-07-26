@@ -327,14 +327,14 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 To View the SQL query built on retrieving data in report, click on **SQL** section.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e89fea59c7b6d6978b5430de4d1be5cbfe27aeb3/images/New_version5/TD_Reports_15.png)
+9 eg: area code, wayused and![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e89fea59c7b6d6978b5430de4d1be5cbfe27aeb3/images/New_version5/TD_Reports_15.png)
 **Image 16**
 
 ## Drill Down Display
 
 Using drill down you can view more deeper insights of the data.
 
-**For example:** On expanding country name, it will display states that fall under the particular country. On further expanding state-name, it will display the city-name that falls under the state.
+**For example:** On expanding Station Code, it will display Station code details(eg: area code, way used & quantity)  that fall under the particular station_code. On further expanding state-name, it will display the city-name that falls under the state.
 
 > **Note :** to attain drill down features it need to be specified in model section, Refer **Model Documentation** for more information about drill down feature.
 
@@ -343,11 +343,11 @@ Using drill down you can view more deeper insights of the data.
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjk4NTg1NCwtNjE3OTUzMTI2LC0yMT
-Y2MzQyMDcsLTUzNjExNzMwNywtNjU4MTI0Njc5LC0xMjc2NDM2
-NTA5LDQyMTE4OTQ4NCw0NDEwNjQ5NDEsMTg3NzE5MDI1MywtMj
-AwMzk2OTg4MywtMjExMjIzNzkzOCwxOTIyODA1MjgzLC01NjA3
-NzA5MzAsMTY3ODkxMjY1NywxMDQ2NzY4ODI4LDc5NzgzODg5LC
-0xNTQ1ODMwODAyLC0xODgxMDEzNTMzLDI0MDYxODQxNSwtMzI5
-ODQxMjk3XX0=
+eyJoaXN0b3J5IjpbLTIwMzA5NTc2NjcsMTgwNjk4NTg1NCwtNj
+E3OTUzMTI2LC0yMTY2MzQyMDcsLTUzNjExNzMwNywtNjU4MTI0
+Njc5LC0xMjc2NDM2NTA5LDQyMTE4OTQ4NCw0NDEwNjQ5NDEsMT
+g3NzE5MDI1MywtMjAwMzk2OTg4MywtMjExMjIzNzkzOCwxOTIy
+ODA1MjgzLC01NjA3NzA5MzAsMTY3ODkxMjY1NywxMDQ2NzY4OD
+I4LDc5NzgzODg5LC0xNTQ1ODMwODAyLC0xODgxMDEzNTMzLDI0
+MDYxODQxNV19
 -->
