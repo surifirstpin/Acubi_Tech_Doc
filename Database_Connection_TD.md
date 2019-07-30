@@ -37,8 +37,6 @@
  
  - **Dialect** choose appropriate dialect based on  connection being established. 
  
->**Note:** Depending on priority, more number of dialects can be introduced in Acubi.
-
 - **Host**  Database host path.
 
 - **Database** Name of the database used.
@@ -105,12 +103,14 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 **Image 5**
 
+>**Note:** Based on requirement, more dialects can be introduced in Acubi.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc1NTE1NjUsLTk0NDU2NTAzMCwyMT
-EzMjkwOTU5LC0xMTkwMjUxMTEzLDMzNjk2NTY1MywtMTUxNzg2
-NzQ0MywtNDYyNTI1NzA3LC0yOTYyMTEyMDgsMTM5ODU5MDgzOC
-wtMTM1NDk5NTgzNiwyMDU1NzM3ODI3LC0xODk2Njk2MzgzLDEw
-NjE0OTc3LDEyMDk5MzUxNTEsMjAzMjgwOTU0MywyMTE2NDE1Nj
-U4LDE5ODc1OTUzMDAsMTQ3OTkwNDIxMSwtMTM1OTcyMDEzOSwx
-NTIwODc5NzIwXX0=
+eyJoaXN0b3J5IjpbLTE4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLT
+k0NDU2NTAzMCwyMTEzMjkwOTU5LC0xMTkwMjUxMTEzLDMzNjk2
+NTY1MywtMTUxNzg2NzQ0MywtNDYyNTI1NzA3LC0yOTYyMTEyMD
+gsMTM5ODU5MDgzOCwtMTM1NDk5NTgzNiwyMDU1NzM3ODI3LC0x
+ODk2Njk2MzgzLDEwNjE0OTc3LDEyMDk5MzUxNTEsMjAzMjgwOT
+U0MywyMTE2NDE1NjU4LDE5ODc1OTUzMDAsMTQ3OTkwNDIxMSwt
+MTM1OTcyMDEzOV19
 -->
