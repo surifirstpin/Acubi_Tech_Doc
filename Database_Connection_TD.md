@@ -97,22 +97,22 @@
    
 ## Delete a connection
 
-7.</b>Click **Delete**  to delete the connection from database.
+<b>7.</b>Click <b> Delete</b>  to delete the connection from database.
 
 
 ##  Dialects supported
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
-**Image 5**
+  <b><font color = "TEAL" >Image 5</font></b>
 
->**Note:** Based on requirement, more dialects can be introduced in Acubi.
+><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjkxOTEzLC0xNjA0NTc4NTgwLC01Nz
-QwMTg0NzEsLTE5MjE3MTM3OTEsLTE4Nzg4NjkyMjMsLTE0NDc1
-NTE1NjUsLTk0NDU2NTAzMCwyMTEzMjkwOTU5LC0xMTkwMjUxMT
-EzLDMzNjk2NTY1MywtMTUxNzg2NzQ0MywtNDYyNTI1NzA3LC0y
-OTYyMTEyMDgsMTM5ODU5MDgzOCwtMTM1NDk5NTgzNiwyMDU1Nz
-M3ODI3LC0xODk2Njk2MzgzLDEwNjE0OTc3LDEyMDk5MzUxNTEs
-MjAzMjgwOTU0M119
+eyJoaXN0b3J5IjpbLTU1NDI1ODA3MywtMTYwNDU3ODU4MCwtNT
+c0MDE4NDcxLC0xOTIxNzEzNzkxLC0xODc4ODY5MjIzLC0xNDQ3
+NTUxNTY1LC05NDQ1NjUwMzAsMjExMzI5MDk1OSwtMTE5MDI1MT
+ExMywzMzY5NjU2NTMsLTE1MTc4Njc0NDMsLTQ2MjUyNTcwNywt
+Mjk2MjExMjA4LDEzOTg1OTA4MzgsLTEzNTQ5OTU4MzYsMjA1NT
+czNzgyNywtMTg5NjY5NjM4MywxMDYxNDk3NywxMjA5OTM1MTUx
+LDIwMzI4MDk1NDNdfQ==
 -->
