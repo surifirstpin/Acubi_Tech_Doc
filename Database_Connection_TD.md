@@ -19,11 +19,11 @@
 
  Login <b>AcuBi</b> using following navigation path :
 
-**Link :**  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)
+<b>Link :</b>  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)
 
->**Navigation: Database→ New connection**
+<b>Navigation: Database→ New connection</b>
 
- **1.** Click on **Database Section.** It navigates to database connections page.
+ <b>1.</b> Click on **Database Section.** It navigates to database connections page.
 
  **2.** Click on **New Connection** button  (on top right of the screen) to start setting up the connection to database. In general, specify the below mentioned fields:
   
@@ -106,11 +106,11 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE0ODkxMDgsLTE5MjE3MTM3OTEsLT
-E4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2NTAzMCwyMTEz
-MjkwOTU5LC0xMTkwMjUxMTEzLDMzNjk2NTY1MywtMTUxNzg2Nz
-Q0MywtNDYyNTI1NzA3LC0yOTYyMTEyMDgsMTM5ODU5MDgzOCwt
-MTM1NDk5NTgzNiwyMDU1NzM3ODI3LC0xODk2Njk2MzgzLDEwNj
-E0OTc3LDEyMDk5MzUxNTEsMjAzMjgwOTU0MywyMTE2NDE1NjU4
-LDE5ODc1OTUzMDBdfQ==
+eyJoaXN0b3J5IjpbLTU3NDAxODQ3MSwtMTkyMTcxMzc5MSwtMT
+g3ODg2OTIyMywtMTQ0NzU1MTU2NSwtOTQ0NTY1MDMwLDIxMTMy
+OTA5NTksLTExOTAyNTExMTMsMzM2OTY1NjUzLC0xNTE3ODY3ND
+QzLC00NjI1MjU3MDcsLTI5NjIxMTIwOCwxMzk4NTkwODM4LC0x
+MzU0OTk1ODM2LDIwNTU3Mzc4MjcsLTE4OTY2OTYzODMsMTA2MT
+Q5NzcsMTIwOTkzNTE1MSwyMDMyODA5NTQzLDIxMTY0MTU2NTgs
+MTk4NzU5NTMwMF19
 -->
