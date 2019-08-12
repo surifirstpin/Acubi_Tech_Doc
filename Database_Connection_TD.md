@@ -3,21 +3,21 @@
 
 <center><h2>DATABASE CONNECTION</h2></center>
 
- <bConnection** Specifies a database connection from which a model can retrieve the data.
+ <b>Connection</b> Specifies a database connection from which a model can retrieve the data.
    
- **To set up database connection;**
+ <b>To set up database connection;</b>
     
-**I.**  Get the connection details for database such as Host, Dialects, port, username, password, etc from **Database Administrator.**
+<b>I.</b>  Get the connection details for database such as Host, Dialects, port, username, password, etc from <b>Database Administrator.</b>
 
-**II.** Enable secure access to database, such as :
+<b>II.</b> Enable secure access to database, such as :
   -  Using  IP Address Whitelist, optionally adding SSL Encryption.
   - Using SSH Tunnel, which provides a secured and encrypted connection with extra authentication.
   
-**III.** Set up database to work with AcuBi. Instructions may vary from dialect to dialect. Typically it includes providing approval to AcuBi to access database.
+<b> III. </b> Set up database to work with AcuBi. Instructions may vary from dialect to dialect. Typically it includes providing approval to AcuBi to access database.
 
  ## Set-Up Database Connection
 
- Login **AcuBi** using following navigation path :
+ Login <b>AcuBi** using following navigation path :
 
 **Link :**  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)
 
@@ -106,11 +106,11 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjI5OTk0MSwtMTkyMTcxMzc5MSwtMT
-g3ODg2OTIyMywtMTQ0NzU1MTU2NSwtOTQ0NTY1MDMwLDIxMTMy
-OTA5NTksLTExOTAyNTExMTMsMzM2OTY1NjUzLC0xNTE3ODY3ND
-QzLC00NjI1MjU3MDcsLTI5NjIxMTIwOCwxMzk4NTkwODM4LC0x
-MzU0OTk1ODM2LDIwNTU3Mzc4MjcsLTE4OTY2OTYzODMsMTA2MT
-Q5NzcsMTIwOTkzNTE1MSwyMDMyODA5NTQzLDIxMTY0MTU2NTgs
-MTk4NzU5NTMwMF19
+eyJoaXN0b3J5IjpbLTEwMTg4ODU2MDMsLTE5MjE3MTM3OTEsLT
+E4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2NTAzMCwyMTEz
+MjkwOTU5LC0xMTkwMjUxMTEzLDMzNjk2NTY1MywtMTUxNzg2Nz
+Q0MywtNDYyNTI1NzA3LC0yOTYyMTEyMDgsMTM5ODU5MDgzOCwt
+MTM1NDk5NTgzNiwyMDU1NzM3ODI3LC0xODk2Njk2MzgzLDEwNj
+E0OTc3LDEyMDk5MzUxNTEsMjAzMjgwOTU0MywyMTE2NDE1NjU4
+LDE5ODc1OTUzMDBdfQ==
 -->
