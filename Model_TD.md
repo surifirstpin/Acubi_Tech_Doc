@@ -249,7 +249,7 @@ Views are independent tables chosen while creating a project. All the columns in
 
 <b><i>The Associated keywords with the views are flowing :</i></b>
 
-|  **S.No** | **Name** | **Identifier of a custom field** |
+|  <b>S.No | Name | Identifier of a custom field </b> |
 |  :------ | :------: | :------: |
 |  1 | label | allows to customize the display name of the view in AcuBi |
 |  2 | data_type | the outcome of the field from database it can be string, date or number |
@@ -703,11 +703,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3OTU3NzIyLDEyNTkwMDI2ODUsLTExNj
-EyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1
-OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2NDUsLT
-EwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMTQzMDUw
-OTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5NSwtMTA0NTMzNDMxMC
-wxNTMzNzY3NDQ4LC0xNDY4NDM2NDY1LDE1MzIxODMzMTEsNzM1
-MzgyNDUxXX0=
+eyJoaXN0b3J5IjpbLTcyNTg1NzA5NywxMjU5MDAyNjg1LC0xMT
+YxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQz
+NTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIwNjQ1LC
+0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYzNzUyODc1LDE0MzA1
+MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUsLTEwNDUzMzQzMT
+AsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwxNTMyMTgzMzExLDcz
+NTM4MjQ1MV19
 -->
