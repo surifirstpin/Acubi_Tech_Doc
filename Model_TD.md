@@ -113,13 +113,13 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 <b>7.</b>  To hide and un-hide model and views list click on <b>Angle double left</b> and <b>Angle double right</b> Icon.
 
-<b>8.</b> To save the model click on **Save** button.
+<b>8.</b> To save the model click on <b>Save</b> button.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/277037f93bc45d7c04c5c27d596cc7e7e3adf0d5/images/New_version5/TD_Model_image9.png)
-**Image 9**
+ <b><Font color = " black">Image 9</font></b>
 
-**Customization for a model can be carried out in following ways :**
+<b><i>Customization for a model can be carried out in following ways :</b></i>
 
 -  Add a new mapping or relations among the views based on a specific condition.
 
@@ -128,11 +128,11 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 -  Define filters on the data with different mapped views.
 
 
-**The list of keywords used in Model are:**
+<b><i>The list of keywords used in Model are:</i></b>
 
-|  **Serial No.** | **Keyword** | **Description** |
+|  <b>Serial No.</b> | <b>Keyword</b> | <b>Description</b> |
 |  ------ | ------| ------ |
-|  1 | **For Model** |  |
+|  1 | <b>For Model** |  |
 |   | project | displays the project name |
 |   | info | allows to describe the project with meaning full information |
 |   | connections | displays the connection name with the selected project |
@@ -697,7 +697,7 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg3NzI1NzgsLTExNjEyOTgzNzEsNT
+eyJoaXN0b3J5IjpbLTExMjE0MzIzMjcsLTExNjEyOTgzNzEsNT
 EwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1OSwtMTk3MTE0
 NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2NDUsLTEwOTcwNjE3Mj
 csMjU0NzAxNjA1LDEyNjM3NTI4NzUsMTQzMDUwOTM4OSw4NjY2
