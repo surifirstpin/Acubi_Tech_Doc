@@ -213,7 +213,7 @@ To hide first column of pivoted data  in visualization, choose pivot hide first,
 <b>11.</b> To freeze the column field values while scrolling the data, click <b>Pin</b> in field drop down provided and to release the same click <b>Remove Pin.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/994f3e816fcd104d81eeee8656b39dae9e854092/images/New_version5/TD_Reports_8.png)
- <b><Font color = " black">Image 9</font></b>
+ <b><Font color = " black">Image 8</font></b>
 
 ## Group / Un-Group
 
@@ -228,10 +228,10 @@ To hide first column of pivoted data  in visualization, choose pivot hide first,
 
 To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
-> **For instance** : In the below image grouping has been applied to dimension fields **customer and hub.** In data retrieved below on expanding HUB it displays the perspective CUSTOMER that belonging to specific hub, on further expansion it displays Casino name.
+> <b>For instance</b> : In the below image grouping has been applied to dimension fields <b>customer and hub.</b> In data retrieved below on expanding HUB it displays the perspective CUSTOMER that belonging to specific hub, on further expansion it displays Casino name.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0b15f99af3dde5ba74467811bdd3ff84e8ae541b/images/New_version5/TD_Reports_10.png)
-**Image 10**
+ <b><Font color = " black">Image 10</font></b>
 
 ## Find
 
@@ -355,7 +355,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgyODIzOTUsMTU0MjY0MDM5MiwtOT
+eyJoaXN0b3J5IjpbLTE2MjY3MTc4NTcsMTU0MjY0MDM5MiwtOT
 cwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1
 LDE4MDY5ODU4NTQsLTYxNzk1MzEyNiwtMjE2NjM0MjA3LC01Mz
 YxMTczMDcsLTY1ODEyNDY3OSwtMTI3NjQzNjUwOSw0MjExODk0
