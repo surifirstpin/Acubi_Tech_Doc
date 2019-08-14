@@ -476,19 +476,20 @@ Once the view is created, label the database field and derive the custom table u
 		]
 }
 ```
-- <b>Name** name identifier of custom table derived.
-- **label** label the custom table the way it should appear in model section. 
-- **Info** provides description for custom table.
-- **Type** datatype used for deriving a custom table.
-- **Database** table is used to retrieve the data fields.
-- **Connection** establish the database connection for deriving new fields.
+- <b>Name</b> name identifier of custom table derived.
+- <b>label</b> label the custom table the way it should appear in model section. 
+- <b>Info</b> provides description for custom table.
+- <b>Type</b> datatype used for deriving a custom table.
+- <b>Database</b> table is used to retrieve the data fields.
+- <b>Connection</b> establish the database connection for deriving new fields.
 ## Save View
 
-Click **Save** to Save the View in database.
+Click <b>Save</b> to Save the View in database.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/55cfae57f76a2b3fd0dc9dacb855113be7260f7d/images/New_version5/TD_Model_image11.png)
-**Image 11**
+ <b><Font color = " black">Image 11</font></b>
+
 ##  Arithmetical operations in Custom Fields
 ```
 {
@@ -526,8 +527,8 @@ Click **Save** to Save the View in database.
 		},
 ```	
 
-- **Name** identifier for the field in custom table.
-- **label**  the way derived field should display in custom table.
+- <b>Name</b> identifier for the field in custom table.
+- <b>label</  the way derived field should display in custom table.
 - **Data_type** define supporting parameters and string is used as  default parameter while deriving the fields for custom table.
    - **String** for measures that contain letters or special characters.
   - **Date** measures that contain dates.
@@ -710,7 +711,7 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzg3NjE5NSw4MzExMDc1MDYsLTc3Mj
+eyJoaXN0b3J5IjpbLTcwMzgzNTE0MSw4MzExMDc1MDYsLTc3Mj
 MxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1
 LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMz
 kzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIw
