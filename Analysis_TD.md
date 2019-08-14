@@ -104,17 +104,22 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 
 The data is retrieved based on hidden filters applied, this applied hidden filter fields are not visible in data section they are only visible under filter expression list.
 
-<b>To carry out this function, follow the below steps:</i></b>
+<b><i>To carry out this function, follow the below steps:</i></b>
 
-**a.**  Apply hidden filters to dimension.(Start_date_month)
-**b.** Fields to which hidden filters applied are visible in filter expression of filter section.
-**c.** The data is retrieved, based on the applied hidden filters.
+<b>a.</b>  Apply hidden filters to dimension.(Start_date_month)
+
+<b>b.</b> Fields to which hidden filters applied are visible in filter expression of filter section.
+
+<b>c.</b> The data is retrieved, based on the applied hidden filters.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1f4b77c16dbb8f5b7ff70eb159ddb35c6445236c/images/New_version5/TD_Reports_3.png)
-**Image 3**
-- To add more filters click **Add Rule**.
-- To delete the filter applied click **Cross Icon**.
-- To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To un-hide click on angle-double-down icon at same location.
+ <b><Font color = " black">Image 3</font></b>
+
+- To add more filters click <b>Add Rule.</b>
+
+- To delete the filter applied click <b>Cross Icon.</b>
+
+- To hide the <b>Filter</b> or <bOrder** section Click on angle-double-up icon on to far right of the order section. To un-hide click on angle-double-down icon at same location.
 
 **5.** Hit the **Run** button to display the data based on applied filters.
 
@@ -348,11 +353,11 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDcyOTE1OTQsMTU0MjY0MDM5MiwtOT
-cwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1
-LDE4MDY5ODU4NTQsLTYxNzk1MzEyNiwtMjE2NjM0MjA3LC01Mz
-YxMTczMDcsLTY1ODEyNDY3OSwtMTI3NjQzNjUwOSw0MjExODk0
-ODQsNDQxMDY0OTQxLDE4NzcxOTAyNTMsLTIwMDM5Njk4ODMsLT
-IxMTIyMzc5MzgsMTkyMjgwNTI4MywtNTYwNzcwOTMwLDE2Nzg5
-MTI2NTddfQ==
+eyJoaXN0b3J5IjpbNDA1NjUzNjA0LDE1NDI2NDAzOTIsLTk3MD
+E3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNSwx
+ODA2OTg1ODU0LC02MTc5NTMxMjYsLTIxNjYzNDIwNywtNTM2MT
+E3MzA3LC02NTgxMjQ2NzksLTEyNzY0MzY1MDksNDIxMTg5NDg0
+LDQ0MTA2NDk0MSwxODc3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMT
+EyMjM3OTM4LDE5MjI4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEy
+NjU3XX0=
 -->
