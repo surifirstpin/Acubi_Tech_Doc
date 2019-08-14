@@ -540,9 +540,9 @@ Click <b>Save</b> to Save the View in database.
 ## Lookups
 
 - <b>lookup</b> retrieve list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
-- <b>Operator</ is used to retrieve single or multiple values in the filter section while using lookup.
- - **SQL** parameter is used to define a valid SQL expression that results in a field value.
- - **Summary** is used to retrieve the aggregate field values of the measures using the following options,
+- <b>Operator</b> is used to retrieve single or multiple values in the filter section while using lookup.
+ - <b>SQL</b> parameter is used to define a valid SQL expression that results in a field value.
+ - <b>Summary</b> is used to retrieve the aggregate field values of the measures using the following options,
    - Sum 
    - Count
    - Average 
@@ -557,7 +557,7 @@ Drill-down is used for exploring the data further with respect to a field value.
 
 Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.
 
-AcuBi provides an additional attribute to drill down as  **Show drill down measures**  which can be defined as  **TRUE or FALSE**. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
+AcuBi provides an additional attribute to drill down as  <b>Show drill down measures</b>  which can be defined as  <b>TRUE or FALSE</b>. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
 
 ```
 "drill_down_fields": "Field1,Field2,...FieldN."
@@ -579,7 +579,7 @@ AcuBi provides an additional attribute to drill down as  **Show drill down measu
  “visualise”: “true”  
  }
 ```
-In the above example, Drill down option is defined over field “**State Name**” with two fields of self view City Name, No_of_Employees. On Clicking on any of “State Name”, then filter will be applied on that value and relevant values of fields **“City Name”** and **“No_of_Employees”** will be displayed.
+In the above example, Drill down option is defined over field “<b>State Name</b>” with two fields of self view City Name, No_of_Employees. On Clicking on any of “State Name”, then filter will be applied on that value and relevant values of fields <b>“City Name”* and **“No_of_Employees”** will be displayed.
 
 As  **Show drill down measures**  is set  **TRUE**, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.
 
@@ -711,11 +711,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDM0NTQyNiw4MzExMDc1MDYsLTc3Mj
-MxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1
-LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMz
-kzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIw
-NjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYzNzUyODc1LD
-E0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUsLTEwNDUz
-MzQzMTBdfQ==
+eyJoaXN0b3J5IjpbODU5Njc1ODkzLDgzMTEwNzUwNiwtNzcyMz
+E4NTMyLDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUs
+LTExNjEyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOT
+MxNDM1OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2
+NDUsLTEwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMT
+QzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5NSwtMTA0NTMz
+NDMxMF19
 -->
