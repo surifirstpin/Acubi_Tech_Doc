@@ -697,7 +697,7 @@ You can rename the project created, insert more tables into already existing pro
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image14.png)
   <b><Font color = " black">Image 13</font></b>
 
-Insert customers table in to the project by selecting the *checkbox for customer*s then click on *update* button to save the changes made. 
+Insert customers table in to the project by selecting the <b>checkbox for customers</b> then click on <b>update</b> button to save the changes made. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image15.png)
  <b><Font color = " black">Image 14</font></b>
@@ -710,11 +710,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2NjY4Mzk2LDMwMTI1OTEzNCw4MzExMD
-c1MDYsLTc3MjMxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5Nywx
-MjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0Nz
-IzMzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2
-NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMj
-YzNzUyODc1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTEyMDA1ODMzNDIsMzQ2NjY4Mzk2LDMwMT
+I1OTEzNCw4MzExMDc1MDYsLTc3MjMxODUzMiwxNTQ5MTM3MzEs
+LTcyNTg1NzA5NywxMjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMD
+c0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUy
+ODQsMjA1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LD
+I1NDcwMTYwNSwxMjYzNzUyODc1LDE0MzA1MDkzODksODY2NjA0
+NTVdfQ==
 -->
