@@ -280,13 +280,13 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
  <b><i>Below are the parameters applicable on the data retrieved;</i></b>
 
-- <b>Row Grouping enables row grouping for fields values based on the field selected as shown in the below image.
+- <b>Row Grouping<:/b>enables row grouping for fields values based on the field selected as shown in the below image.
 
-- **Explore Enabled** to explore the data which are grouped select the check box **Explore Enabled.**
+- <b>Explore Enabled:</b> to explore the data which are grouped select the check box <b>Explore Enabled.</b>
 
-- **Stacked** Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
+- <b>Stacked:</b> Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
 
-- **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
+- <b>Datasets</b> this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
 - **Legend** it will enable the user to name a measure field value under the datasets of visualization charts as shown in image below.
 
@@ -356,7 +356,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc1MjcwMTMsMTkzNzM3NzIxLDExMj
+eyJoaXN0b3J5IjpbLTEyMDQxMDMzODgsMTkzNzM3NzIxLDExMj
 YzMzIwNjIsLTE2MjY3MTc4NTcsMTU0MjY0MDM5MiwtOTcwMTc5
 MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MD
 Y5ODU4NTQsLTYxNzk1MzEyNiwtMjE2NjM0MjA3LC01MzYxMTcz
