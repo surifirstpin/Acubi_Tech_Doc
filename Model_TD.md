@@ -579,9 +579,9 @@ AcuBi provides an additional attribute to drill down as  <b>Show drill down meas
  “visualise”: “true”  
  }
 ```
-In the above example, Drill down option is defined over field “<b>State Name</b>” with two fields of self view City Name, No_of_Employees. On Clicking on any of “State Name”, then filter will be applied on that value and relevant values of fields <b>“City Name”* and **“No_of_Employees”** will be displayed.
+In the above example, Drill down option is defined over field “<b>State Name</b>” with two fields of self view City Name, No_of_Employees. On Clicking on any of “State Name”, then filter will be applied on that value and relevant values of fields <b>“City Name”</b> and <b>“No_of_Employees”</b> will be displayed.
 
-As  **Show drill down measures**  is set  **TRUE**, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.
+As  <b>Show drill down measures</b>  is set  <b>TRUE</b>, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.
 
 
 
@@ -711,11 +711,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5Njc1ODkzLDgzMTEwNzUwNiwtNzcyMz
-E4NTMyLDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUs
-LTExNjEyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOT
-MxNDM1OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2
-NDUsLTEwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMT
-QzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5NSwtMTA0NTMz
-NDMxMF19
+eyJoaXN0b3J5IjpbLTUxNDE3NjM5Nyw4MzExMDc1MDYsLTc3Mj
+MxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1
+LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMz
+kzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIw
+NjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYzNzUyODc1LD
+E0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUsLTEwNDUz
+MzQzMTBdfQ==
 -->
