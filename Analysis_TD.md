@@ -16,15 +16,15 @@
 
 A **Dimension** is a group of data and **Measure** is information about group of data and they collectively acts as fundamental building blocks for a query.
 
-> <b>For Instance :** **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
+> <b>For Instance :</b> <b>Name of the Employee</b> is defined as dimension and <b>Salary of the Employee</b> is defined as Measure.
  
- **To retrieve the data in report section follow the below steps,**
+ <b><i>To retrieve the data in report section follow the below steps,</i></b>
  
-**2.**  Select one or more dimension fields ( Grey fields) to access the data. It supports strings and date types.
+<b>2.</b>  Select one or more dimension fields ( Grey fields) to access the data. It supports strings and date types.
 
-**3.** Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. (Refer Image 1)
+<b>3.</b> Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. (Refer Image 1)
 
-  > **Note :** To hide Explore/Visualize sections  click on  **angle double left** icon. To display the same click **angle double right  (»)** icon available above dimensions and measure field list.
+  > <b>Note :</b> To hide Explore/Visualize sections  click on  <b>angle double left</b icon. To display the same click **angle double right  (»)** icon available above dimensions and measure field list.
 
                                                                                                                                                                                                                     
 ## Filters 
@@ -348,11 +348,11 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzY0NDg3NCwxNTQyNjQwMzkyLC05Nz
-AxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUs
-MTgwNjk4NTg1NCwtNjE3OTUzMTI2LC0yMTY2MzQyMDcsLTUzNj
-ExNzMwNywtNjU4MTI0Njc5LC0xMjc2NDM2NTA5LDQyMTE4OTQ4
-NCw0NDEwNjQ5NDEsMTg3NzE5MDI1MywtMjAwMzk2OTg4MywtMj
-ExMjIzNzkzOCwxOTIyODA1MjgzLC01NjA3NzA5MzAsMTY3ODkx
-MjY1N119
+eyJoaXN0b3J5IjpbODMyNjI3MTU5LDE1NDI2NDAzOTIsLTk3MD
+E3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNSwx
+ODA2OTg1ODU0LC02MTc5NTMxMjYsLTIxNjYzNDIwNywtNTM2MT
+E3MzA3LC02NTgxMjQ2NzksLTEyNzY0MzY1MDksNDIxMTg5NDg0
+LDQ0MTA2NDk0MSwxODc3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMT
+EyMjM3OTM4LDE5MjI4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEy
+NjU3XX0=
 -->
