@@ -256,20 +256,20 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 - <b>Field name</b> unique identifier name to refer calculated column.
 
-- <bLabel** labeling the calculated column.
+- <b>Label</b> labeling the calculated column.
 
-- **Data type** data type used (string,number).
+- <b>Data type</b> data type used (string,number).
 
-- **Field type** derives dimension or measure.
+- <b>Field type</b> derives dimension or measure.
 
-- **Calculation** derive arithmetical & logical expressions.
+- <b>Calculation</b> derive arithmetical & logical expressions.
 
-- **Calculate on the raw data** if it is enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
+- <b>Calculate on the raw data</b> if it is enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c80c47106a0f82196eaeb00516008a3e4c34e395/images/New_version5/TD_Reports_12.png)
-**Image 12**
+  <b><Font color = " black">Image 12</font></b>
 
-- Click **OK** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image:
+- Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2650b28af1c38a1025bbf8318c0a67dbb93dac11/images/New_version5/TD_Reports_13.png)
 **Image 13**
@@ -356,11 +356,11 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzAwNjE2NiwxMTI2MzMyMDYyLC0xNj
-I2NzE3ODU3LDE1NDI2NDAzOTIsLTk3MDE3OTMxMyw0NzEzMzQ3
-MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNSwxODA2OTg1ODU0LC02MT
-c5NTMxMjYsLTIxNjYzNDIwNywtNTM2MTE3MzA3LC02NTgxMjQ2
-NzksLTEyNzY0MzY1MDksNDIxMTg5NDg0LDQ0MTA2NDk0MSwxOD
-c3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMTEyMjM3OTM4LDE5MjI4
-MDUyODNdfQ==
+eyJoaXN0b3J5IjpbNDQyNTU0NzQ5LDExMjYzMzIwNjIsLTE2Mj
+Y3MTc4NTcsMTU0MjY0MDM5MiwtOTcwMTc5MzEzLDQ3MTMzNDcz
+MSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MDY5ODU4NTQsLTYxNz
+k1MzEyNiwtMjE2NjM0MjA3LC01MzYxMTczMDcsLTY1ODEyNDY3
+OSwtMTI3NjQzNjUwOSw0MjExODk0ODQsNDQxMDY0OTQxLDE4Nz
+cxOTAyNTMsLTIwMDM5Njk4ODMsLTIxMTIyMzc5MzgsMTkyMjgw
+NTI4M119
 -->
