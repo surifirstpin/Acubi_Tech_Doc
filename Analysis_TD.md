@@ -125,7 +125,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 ## Order  (Ascending / Descending)
 
-To view the column data in ascending or descending orders, Click <b>Order** and choose the fields with desired combination, resulting on which the result in data section is displayed.
+To view the column data in ascending or descending orders, Click <b>Order</b> and choose the fields with desired combination, resulting on which the result in data section is displayed.
 as shown In the below image, descending order is applied to bets_usd (sum), the resultant for this is shown in descending order.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34680d9c76d6eebc3cc6b1bb76af169b96af03c3/images/New_version5/TD_Reports_4.png)
@@ -135,36 +135,36 @@ as shown In the below image, descending order is applied to bets_usd (sum), the 
 
 Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. To enable this click on the desired field header to enable sorting.
 
-For **Dimensions**
+For <b>Dimensions</b>
 
 - Click Upwards pointing arrow, to enable  ascending order.
 - Click Downwards pointing arrow, to enable descending order.  
 
-For **Measures**
+For <b>Measures</b>
 
 - Click Upwards Pointing Arrow,  to enable descending order.
 - Click Downwards Pointing Arrow, to enable ascending order.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/87a73aeac27bf279f1b6a9d87a473785644d363f/images/New_version5/TD_Reports_5.png)
-**Image 5**
+ <b><Font color = " black">Image 5</font></b>
 
 ## Query Time
 
-**6.** Display total time taken to build the query of a report.
+<b>6.</b> Display total time taken to build the query of a report.
 
 ## Display number of rows
 
-**7.** Display number of rows fetched while retrieving data.
+<b>7.</b> Display number of rows fetched while retrieving data.
 
 ## Display Totals
 
-**8.**    On selecting  **Check box** for totals, the report is displayed with total sum values of the measure fields obtained.
+<b>8.</b>    On selecting  <b>Check box</b> for totals, the report is displayed with total sum values of the measure fields obtained.
 
  ## Display  Row Limit
 
-**9.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.                                                          
+<b>9.</b>  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.                                                          
 
-**10.** To download the data in csv format, click ***download data***.
+<10.** To download the data in csv format, click ***download data***.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1877afffe878ada04f7e66846fc1f74161830c79/images/New_version5/TD_Reports_6.png)
 **Image 6**
@@ -353,11 +353,11 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyMjM3MjU5LDE1NDI2NDAzOTIsLTk3MD
-E3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNSwx
-ODA2OTg1ODU0LC02MTc5NTMxMjYsLTIxNjYzNDIwNywtNTM2MT
-E3MzA3LC02NTgxMjQ2NzksLTEyNzY0MzY1MDksNDIxMTg5NDg0
-LDQ0MTA2NDk0MSwxODc3MTkwMjUzLC0yMDAzOTY5ODgzLC0yMT
-EyMjM3OTM4LDE5MjI4MDUyODMsLTU2MDc3MDkzMCwxNjc4OTEy
-NjU3XX0=
+eyJoaXN0b3J5IjpbLTEwMzMwNjY4NDIsMTU0MjY0MDM5MiwtOT
+cwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1
+LDE4MDY5ODU4NTQsLTYxNzk1MzEyNiwtMjE2NjM0MjA3LC01Mz
+YxMTczMDcsLTY1ODEyNDY3OSwtMTI3NjQzNjUwOSw0MjExODk0
+ODQsNDQxMDY0OTQxLDE4NzcxOTAyNTMsLTIwMDM5Njk4ODMsLT
+IxMTIyMzc5MzgsMTkyMjgwNTI4MywtNTYwNzcwOTMwLDE2Nzg5
+MTI2NTddfQ==
 -->
