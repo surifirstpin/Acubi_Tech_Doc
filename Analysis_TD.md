@@ -1,11 +1,11 @@
 
 <center><h2>Reports</h2></center>
 
-**Reports** are the starting point for building a query.  it is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
+<b>Reports</b> are the starting point for building a query.  it is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
-**Let see in detail, How AcuBi helps you in retrieving the data as per your business needs :**
+<b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs :</i><b>
  
-**1.** Click on *Reports Section* and select the desired **Project** and **Model** based on which the data is retrieved.
+<b>1.</b> Click on <b>Reports Section</b> and select the desired **Project** and **Model** based on which the data is retrieved.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b743a83f523e1d6ddfc4593b9e04d0f6abe03e5e/images/New_version5/TD_Reports_1.png)
 **Image 1**
@@ -347,11 +347,11 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOT
-I1MjUsMTgwNjk4NTg1NCwtNjE3OTUzMTI2LC0yMTY2MzQyMDcs
-LTUzNjExNzMwNywtNjU4MTI0Njc5LC0xMjc2NDM2NTA5LDQyMT
-E4OTQ4NCw0NDEwNjQ5NDEsMTg3NzE5MDI1MywtMjAwMzk2OTg4
-MywtMjExMjIzNzkzOCwxOTIyODA1MjgzLC01NjA3NzA5MzAsMT
-Y3ODkxMjY1NywxMDQ2NzY4ODI4LDc5NzgzODg5LC0xNTQ1ODMw
-ODAyXX0=
+eyJoaXN0b3J5IjpbLTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1OD
+Q0MzM3LDgwMjM5MjUyNSwxODA2OTg1ODU0LC02MTc5NTMxMjYs
+LTIxNjYzNDIwNywtNTM2MTE3MzA3LC02NTgxMjQ2NzksLTEyNz
+Y0MzY1MDksNDIxMTg5NDg0LDQ0MTA2NDk0MSwxODc3MTkwMjUz
+LC0yMDAzOTY5ODgzLC0yMTEyMjM3OTM4LDE5MjI4MDUyODMsLT
+U2MDc3MDkzMCwxNjc4OTEyNjU3LDEwNDY3Njg4MjgsNzk3ODM4
+ODldfQ==
 -->
