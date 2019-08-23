@@ -5,7 +5,7 @@
  
 <b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs :</i><b>
  
-<b>1.</b> Click on <b>Reports Section</b> and select the desired <b>Project</b> and </b>Model</b> based on which the data is retrieved.
+<b>1.</b> Click on <b>Reports Section</b> and select the desired <b>Project</b> and <b>Model</b> based on which the data is retrieved.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b743a83f523e1d6ddfc4593b9e04d0f6abe03e5e/images/New_version5/TD_Reports_1.png)
  <b><Font color = " black">Image 1</font></b>
@@ -357,11 +357,11 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NjExMzM5LC02MDYzNzQyNTcsLTQ2MT
-AzMjAzMywxOTM3Mzc3MjEsMTEyNjMzMjA2MiwtMTYyNjcxNzg1
-NywxNTQyNjQwMzkyLC05NzAxNzkzMTMsNDcxMzM0NzMxLDU1NT
-g0NDMzNyw4MDIzOTI1MjUsMTgwNjk4NTg1NCwtNjE3OTUzMTI2
-LC0yMTY2MzQyMDcsLTUzNjExNzMwNywtNjU4MTI0Njc5LC0xMj
-c2NDM2NTA5LDQyMTE4OTQ4NCw0NDEwNjQ5NDEsMTg3NzE5MDI1
-M119
+eyJoaXN0b3J5IjpbLTE4MjU0OTAyMCw4MTg2MTEzMzksLTYwNj
+M3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcyMSwxMTI2MzMyMDYy
+LC0xNjI2NzE3ODU3LDE1NDI2NDAzOTIsLTk3MDE3OTMxMyw0Nz
+EzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNSwxODA2OTg1ODU0
+LC02MTc5NTMxMjYsLTIxNjYzNDIwNywtNTM2MTE3MzA3LC02NT
+gxMjQ2NzksLTEyNzY0MzY1MDksNDIxMTg5NDg0LDQ0MTA2NDk0
+MV19
 -->
