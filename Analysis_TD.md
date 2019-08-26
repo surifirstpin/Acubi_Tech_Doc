@@ -312,7 +312,6 @@ Using drill down you can view more deeper insights of the data. To enable this f
   <b><Font color = " black">Image 15</font></b>
 
 ```
-
 	{
 			"name": "stationcode",
 			"label": "stationcode",
@@ -326,9 +325,10 @@ Using drill down you can view more deeper insights of the data. To enable this f
 			"show_drill_down_measures": "FALSE",
 			"visualise": "true"
 		},
+```
 
-> <b><i>Note 2:</i></b>For False it will only display dimension fields.
 
+><b><i>Note 2: </i></b>For False it will only display dimension fields.
 
 <b>For example:</b> (Consider Image 15)
 
@@ -341,11 +341,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MzQyNDE5LC0xNTMxMzE1ODE1LC0xMj
-Q1MDM1MDY5LDk5NzEzOTkwNywtMTI2ODgwNTgzMyw1OTU2NzIz
-MTMsLTY3NDQ1OTQyNSwtMTU2ODI0MTEyMywtMTc3NTA0MDY1Ny
-wtMTk1Njc5MjkzMiwtMjA0NjU3ODY3MywtMTgyNTQ5MDIwLDgx
-ODYxMTMzOSwtNjA2Mzc0MjU3LC00NjEwMzIwMzMsMTkzNzM3Nz
-IxLDExMjYzMzIwNjIsLTE2MjY3MTc4NTcsMTU0MjY0MDM5Miwt
-OTcwMTc5MzEzXX0=
+eyJoaXN0b3J5IjpbLTk1MDE0OTY4OSwtMTUzMTMxNTgxNSwtMT
+I0NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNTk1Njcy
+MzEzLC02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NT
+csLTE5NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4
+MTg2MTEzMzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNz
+cyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAzOTIs
+LTk3MDE3OTMxM119
 -->
