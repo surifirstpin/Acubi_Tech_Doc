@@ -321,9 +321,10 @@ Using drill down you can view more deeper insights of the data.To enable this fe
 			"show_drill_down_measures": "false",
 			"visualise": "true"
 		}
-		```
+```
 
 > <b><i>Note 2:</i></b>For False it will only display dimension.
+
 <b>For example:</b> (Consider Image 15)
 
 <b>a.</b> On expanding Station Code, it will display Station code details (eg: area code, way used & quantity)  that fall under the particular station_2.
@@ -338,11 +339,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NjcyMzEzLC02NzQ0NTk0MjUsLTE1Nj
-gyNDExMjMsLTE3NzUwNDA2NTcsLTE5NTY3OTI5MzIsLTIwNDY1
-Nzg2NzMsLTE4MjU0OTAyMCw4MTg2MTEzMzksLTYwNjM3NDI1Ny
-wtNDYxMDMyMDMzLDE5MzczNzcyMSwxMTI2MzMyMDYyLC0xNjI2
-NzE3ODU3LDE1NDI2NDAzOTIsLTk3MDE3OTMxMyw0NzEzMzQ3Mz
-EsNTU1ODQ0MzM3LDgwMjM5MjUyNSwxODA2OTg1ODU0LC02MTc5
-NTMxMjZdfQ==
+eyJoaXN0b3J5IjpbLTEyNjg4MDU4MzMsNTk1NjcyMzEzLC02Nz
+Q0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NTcsLTE5NTY3
+OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4MTg2MTEzMz
+ksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcyMSwxMTI2
+MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAzOTIsLTk3MDE3OT
+MxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNSwxODA2
+OTg1ODU0XX0=
 -->
