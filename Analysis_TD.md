@@ -287,7 +287,25 @@ To View the SQL query built on retrieving data in report, click on <b>SQL sectio
 
 ## Drill Down Display
 
-Using drill down you can view more deeper insights of the data.To enable this feature we need to d
+Using drill down you can view more deeper insights of the data.To enable this feature we need to define following code in Model section under prescribed project fields.
+
+```
+
+	{
+			"name": "stationcode",
+			"label": "stationcode",
+			"data_type": "string",
+			"type": "dimension",
+			"lookup": "",
+			"operators": "",
+			"sql": "${TABLE}.stationcode",
+			"summary": "",
+			"drill_down_fields": "wayused,areacode",
+			"show_drill_down_measures": "true",
+			"visualise": "true"
+		},
+
+```
 
 <b>For example:</b> (Consider Image 15)
 
@@ -303,11 +321,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg1OTQxMjYsLTY3NDQ1OTQyNSwtMT
-U2ODI0MTEyMywtMTc3NTA0MDY1NywtMTk1Njc5MjkzMiwtMjA0
-NjU3ODY3MywtMTgyNTQ5MDIwLDgxODYxMTMzOSwtNjA2Mzc0Mj
-U3LC00NjEwMzIwMzMsMTkzNzM3NzIxLDExMjYzMzIwNjIsLTE2
-MjY3MTc4NTcsMTU0MjY0MDM5MiwtOTcwMTc5MzEzLDQ3MTMzND
-czMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MDY5ODU4NTQsLTYx
-Nzk1MzEyNl19
+eyJoaXN0b3J5IjpbLTk1NjU2NTc5OSwtNjc0NDU5NDI1LC0xNT
+Y4MjQxMTIzLC0xNzc1MDQwNjU3LC0xOTU2NzkyOTMyLC0yMDQ2
+NTc4NjczLC0xODI1NDkwMjAsODE4NjExMzM5LC02MDYzNzQyNT
+csLTQ2MTAzMjAzMywxOTM3Mzc3MjEsMTEyNjMzMjA2MiwtMTYy
+NjcxNzg1NywxNTQyNjQwMzkyLC05NzAxNzkzMTMsNDcxMzM0Nz
+MxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNjk4NTg1NCwtNjE3
+OTUzMTI2XX0=
 -->
