@@ -289,7 +289,7 @@ To View the SQL query built on retrieving data in report, click on <b>SQL sectio
 
 Using drill down you can view more deeper insights of the data.
 
-<b>For example:</b> (Consider Image 17)
+<b>For example:</b> (Consider Image 15)
 
 <b>a.</b> On expanding Station Code, it will display Station code details (eg: area code, way used & quantity)  that fall under the particular station_2.
 
@@ -303,11 +303,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjgyNDExMjMsLTE3NzUwNDA2NTcsLT
-E5NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4MTg2
-MTEzMzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcyMS
-wxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAzOTIsLTk3
-MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNS
-wxODA2OTg1ODU0LC02MTc5NTMxMjYsLTIxNjYzNDIwNywtNTM2
-MTE3MzA3XX0=
+eyJoaXN0b3J5IjpbLTY3NDQ1OTQyNSwtMTU2ODI0MTEyMywtMT
+c3NTA0MDY1NywtMTk1Njc5MjkzMiwtMjA0NjU3ODY3MywtMTgy
+NTQ5MDIwLDgxODYxMTMzOSwtNjA2Mzc0MjU3LC00NjEwMzIwMz
+MsMTkzNzM3NzIxLDExMjYzMzIwNjIsLTE2MjY3MTc4NTcsMTU0
+MjY0MDM5MiwtOTcwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMz
+csODAyMzkyNTI1LDE4MDY5ODU4NTQsLTYxNzk1MzEyNiwtMjE2
+NjM0MjA3XX0=
 -->
