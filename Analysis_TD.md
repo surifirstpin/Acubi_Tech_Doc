@@ -333,16 +333,16 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 - <b>Reset Data Drill:</b> To navigate to  previous page click <b>Rest Data Drill.</b>
 
-> <b>Note :</b> to attain drill down features it need to be specified in model section, Refer <b>Model Documentation</b> for more information about drill down feature.
+> <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a5605d5be15fd6fba7dfd3e99698cdee7b76a553/images/New_version5/TD_Reports_18.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3MTM5OTA3LC0xMjY4ODA1ODMzLDU5NT
-Y3MjMxMywtNjc0NDU5NDI1LC0xNTY4MjQxMTIzLC0xNzc1MDQw
-NjU3LC0xOTU2NzkyOTMyLC0yMDQ2NTc4NjczLC0xODI1NDkwMj
-AsODE4NjExMzM5LC02MDYzNzQyNTcsLTQ2MTAzMjAzMywxOTM3
-Mzc3MjEsMTEyNjMzMjA2MiwtMTYyNjcxNzg1NywxNTQyNjQwMz
-kyLC05NzAxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIz
-OTI1MjVdfQ==
+eyJoaXN0b3J5IjpbLTEyNDUwMzUwNjksOTk3MTM5OTA3LC0xMj
+Y4ODA1ODMzLDU5NTY3MjMxMywtNjc0NDU5NDI1LC0xNTY4MjQx
+MTIzLC0xNzc1MDQwNjU3LC0xOTU2NzkyOTMyLC0yMDQ2NTc4Nj
+czLC0xODI1NDkwMjAsODE4NjExMzM5LC02MDYzNzQyNTcsLTQ2
+MTAzMjAzMywxOTM3Mzc3MjEsMTEyNjMzMjA2MiwtMTYyNjcxNz
+g1NywxNTQyNjQwMzkyLC05NzAxNzkzMTMsNDcxMzM0NzMxLDU1
+NTg0NDMzN119
 -->
