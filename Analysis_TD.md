@@ -287,7 +287,7 @@ To View the SQL query built on retrieving data in report, click on <b>SQL sectio
 
 ## Drill Down Display
 
-Using drill down you can view more deeper insights of the data.To enable this feature we need to define following code in Model section under prescribed project fields.
+Using drill down you can view more deeper insights of the data. To enable this feature we need to define following code in Model section under prescribed project fields.
 
 >   <b><i>Note 1:</i></b> For " TRUE " option it will display both dimensions and measure field.
 ```
@@ -302,7 +302,7 @@ Using drill down you can view more deeper insights of the data.To enable this fe
 			"sql": "${TABLE}.stationcode",
 			"summary": "",
 			"drill_down_fields": "wayused,areacode",
-			"show_drill_down_measures": "false",
+			"show_drill_down_measures": "TRUE",
 			"visualise": "true"
 		}
 ```
@@ -330,8 +330,6 @@ Using drill down you can view more deeper insights of the data.To enable this fe
 > <b><i>Note 2:</i></b>For False it will only display dimension fields.
 
 
-
-
 <b>For example:</b> (Consider Image 15)
 
 <b>a.</b> On expanding Station Code, it will display Station code details (eg: area code, way used & quantity)  that fall under the particular station_2.
@@ -343,11 +341,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTMzODQyOCwtMTUzMTMxNTgxNSwtMT
-I0NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNTk1Njcy
-MzEzLC02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NT
-csLTE5NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4
-MTg2MTEzMzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNz
-cyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAzOTIs
-LTk3MDE3OTMxM119
+eyJoaXN0b3J5IjpbNDA5MzQyNDE5LC0xNTMxMzE1ODE1LC0xMj
+Q1MDM1MDY5LDk5NzEzOTkwNywtMTI2ODgwNTgzMyw1OTU2NzIz
+MTMsLTY3NDQ1OTQyNSwtMTU2ODI0MTEyMywtMTc3NTA0MDY1Ny
+wtMTk1Njc5MjkzMiwtMjA0NjU3ODY3MywtMTgyNTQ5MDIwLDgx
+ODYxMTMzOSwtNjA2Mzc0MjU3LC00NjEwMzIwMzMsMTkzNzM3Nz
+IxLDExMjYzMzIwNjIsLTE2MjY3MTc4NTcsMTU0MjY0MDM5Miwt
+OTcwMTc5MzEzXX0=
 -->
