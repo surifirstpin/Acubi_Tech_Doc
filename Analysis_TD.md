@@ -252,13 +252,6 @@ To reorder columns in the <b>Data</b> section by clicking on column header and m
 
 
 
-Columns are organized in the  **Data**  section by field type: dimensions, dimension  [table calculations]
-
-(https://docs.looker.com/exploring-data/using-table-calculations), measures, measure  [table calculations](https://docs.looker.com/exploring-data/using-table-calculations), and  [row totals](https://docs.looker.com/exploring-data/exploring-data#displaying_totals). Columns can be reordered within each field type but cannot be moved out of their field type section. For example, dimension table calculations can be rearranged among themselves, but you cannot place a dimension table calculation in between two measures.
-
-Columns under a pivoted dimension can be reordered, but the order of pivoted dimensions can only be changed by changing the sort order, not by manual reordering.
-
-If your Looker admin has enabled the  [Table-Next](https://docs.looker.com/exploring-data/visualizing-query-results/table-next-options)  Labs feature, there are  [additional options](https://docs.looker.com/exploring-data/visualizing-query-results/table-next-options#manually_moving_and_pinning_columns)for reordering columns in the table-next visualization.
 
 ## Calculated Column 
 
@@ -360,11 +353,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTgxNTE5MywxNjU1ODc3NDc3LDcxNz
-I4NTI3NiwtOTUwMTQ5Njg5LC0xNTMxMzE1ODE1LC0xMjQ1MDM1
-MDY5LDk5NzEzOTkwNywtMTI2ODgwNTgzMyw1OTU2NzIzMTMsLT
-Y3NDQ1OTQyNSwtMTU2ODI0MTEyMywtMTc3NTA0MDY1NywtMTk1
-Njc5MjkzMiwtMjA0NjU3ODY3MywtMTgyNTQ5MDIwLDgxODYxMT
-MzOSwtNjA2Mzc0MjU3LC00NjEwMzIwMzMsMTkzNzM3NzIxLDEx
-MjYzMzIwNjJdfQ==
+eyJoaXN0b3J5IjpbLTEwMTg0OTM3NjUsMTY1NTg3NzQ3Nyw3MT
+cyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNTgxNSwtMTI0NTAz
+NTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNTk1NjcyMzEzLC
+02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NTcsLTE5
+NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4MTg2MT
+EzMzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcyMSwx
+MTI2MzMyMDYyXX0=
 -->
