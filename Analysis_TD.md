@@ -167,6 +167,8 @@ available at top right side of <b>Data</b> section and then <b>Run</b> the repor
 
 <b>9.</b>  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.                                                          
 
+## Download Report
+
 <b>10.</b> To download the data in csv format, click <b>download data</b>.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1877afffe878ada04f7e66846fc1f74161830c79/images/New_version5/TD_Reports_6.png)
@@ -355,11 +357,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzgwODEzOTMsLTIxMTI4MzYzMjgsMT
-c0NDQyNzQ0LC0xNTI5MDc5MjIyLC0xMDE4NDkzNzY1LDE2NTU4
-Nzc0NzcsNzE3Mjg1Mjc2LC05NTAxNDk2ODksLTE1MzEzMTU4MT
-UsLTEyNDUwMzUwNjksOTk3MTM5OTA3LC0xMjY4ODA1ODMzLDU5
-NTY3MjMxMywtNjc0NDU5NDI1LC0xNTY4MjQxMTIzLC0xNzc1MD
-QwNjU3LC0xOTU2NzkyOTMyLC0yMDQ2NTc4NjczLC0xODI1NDkw
-MjAsODE4NjExMzM5XX0=
+eyJoaXN0b3J5IjpbLTEwMzgzNDc4NSwtMTAzODA4MTM5MywtMj
+ExMjgzNjMyOCwxNzQ0NDI3NDQsLTE1MjkwNzkyMjIsLTEwMTg0
+OTM3NjUsMTY1NTg3NzQ3Nyw3MTcyODUyNzYsLTk1MDE0OTY4OS
+wtMTUzMTMxNTgxNSwtMTI0NTAzNTA2OSw5OTcxMzk5MDcsLTEy
+Njg4MDU4MzMsNTk1NjcyMzEzLC02NzQ0NTk0MjUsLTE1NjgyND
+ExMjMsLTE3NzUwNDA2NTcsLTE5NTY3OTI5MzIsLTIwNDY1Nzg2
+NzMsLTE4MjU0OTAyMF19
 -->
