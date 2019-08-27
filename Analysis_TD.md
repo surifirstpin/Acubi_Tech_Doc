@@ -248,7 +248,17 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 ##  Reordering Column
 
+To reorder columns in the <b>Data</b> section by clicking on column header and movi
 
+
+
+You can reorder columns in the  **Data**  section by clicking on a column header and moving the column to its desired position. The Explore’s visualization will reflect the new column order after you click  **Run**.
+
+Columns are organized in the  **Data**  section by field type: dimensions, dimension  [table calculations](https://docs.looker.com/exploring-data/using-table-calculations), measures, measure  [table calculations](https://docs.looker.com/exploring-data/using-table-calculations), and  [row totals](https://docs.looker.com/exploring-data/exploring-data#displaying_totals). Columns can be reordered within each field type but cannot be moved out of their field type section. For example, dimension table calculations can be rearranged among themselves, but you cannot place a dimension table calculation in between two measures.
+
+Columns under a pivoted dimension can be reordered, but the order of pivoted dimensions can only be changed by changing the sort order, not by manual reordering.
+
+If your Looker admin has enabled the  [Table-Next](https://docs.looker.com/exploring-data/visualizing-query-results/table-next-options)  Labs feature, there are  [additional options](https://docs.looker.com/exploring-data/visualizing-query-results/table-next-options#manually_moving_and_pinning_columns)for reordering columns in the table-next visualization.
 
 ## Calculated Column 
 
@@ -350,11 +360,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE4NDQ4ODYsMTY1NTg3NzQ3Nyw3MT
-cyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNTgxNSwtMTI0NTAz
-NTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNTk1NjcyMzEzLC
-02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NTcsLTE5
-NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4MTg2MT
-EzMzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcyMSwx
-MTI2MzMyMDYyXX0=
+eyJoaXN0b3J5IjpbNjc4MzUyNDEyLDE2NTU4Nzc0NzcsNzE3Mj
+g1Mjc2LC05NTAxNDk2ODksLTE1MzEzMTU4MTUsLTEyNDUwMzUw
+NjksOTk3MTM5OTA3LC0xMjY4ODA1ODMzLDU5NTY3MjMxMywtNj
+c0NDU5NDI1LC0xNTY4MjQxMTIzLC0xNzc1MDQwNjU3LC0xOTU2
+NzkyOTMyLC0yMDQ2NTc4NjczLC0xODI1NDkwMjAsODE4NjExMz
+M5LC02MDYzNzQyNTcsLTQ2MTAzMjAzMywxOTM3Mzc3MjEsMTEy
+NjMzMjA2Ml19
 -->
