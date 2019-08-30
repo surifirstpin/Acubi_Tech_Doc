@@ -50,12 +50,12 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 | <b>is not empty</b>                  | should not be empty                                       |
 | <b>is empty</b>                      | should be empty                                           |
 | <b>equal</b>                         | should be equals to specific value                        |
-| <b>not equal </b>                   | shouldn't be equal to specific value                      |
-|in                            | selection based on combination of filter values           |
-|not in                        | excluding set of values                                   |
-|begins with                   | finds any value that starts with mentioned sub-string      |
-|doesn’t begins with           | finds a value that doesn't begin with mentioned sub-string|
-|Contains                      | contains mentioned sub-string                             |
+| <b>not equal</b>                     | shouldn't be equal to specific value                      |
+| <b>in</b>                            | selection based on combination of filter values           |
+| <b>not in</b>                        | excluding set of values                                   |
+| <b>begins with</b>                   | finds any value that starts with mentioned sub-string      |
+|<b>doesn’t begins with</b>           | finds a value that doesn't begin with mentioned sub-string|
+|<b>Contains                      | contains mentioned sub-string                             |
 |doesn’t contain               | finds a value which does not contain mentioned sub-string |
 |ends with                     | should end with mentioned sub-string                      |
 |doesn’t end with              | should not end with mentioned sub-string                  |
@@ -356,11 +356,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTgxMjkyOSwxNDk4NjI4ODQ5LC0xMD
-M4MzQ3ODUsLTEwMzgwODEzOTMsLTIxMTI4MzYzMjgsMTc0NDQy
-NzQ0LC0xNTI5MDc5MjIyLC0xMDE4NDkzNzY1LDE2NTU4Nzc0Nz
-csNzE3Mjg1Mjc2LC05NTAxNDk2ODksLTE1MzEzMTU4MTUsLTEy
-NDUwMzUwNjksOTk3MTM5OTA3LC0xMjY4ODA1ODMzLDU5NTY3Mj
-MxMywtNjc0NDU5NDI1LC0xNTY4MjQxMTIzLC0xNzc1MDQwNjU3
-LC0xOTU2NzkyOTMyXX0=
+eyJoaXN0b3J5IjpbNTY2Mjc2NDg1LDE0OTg2Mjg4NDksLTEwMz
+gzNDc4NSwtMTAzODA4MTM5MywtMjExMjgzNjMyOCwxNzQ0NDI3
+NDQsLTE1MjkwNzkyMjIsLTEwMTg0OTM3NjUsMTY1NTg3NzQ3Ny
+w3MTcyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNTgxNSwtMTI0
+NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNTk1NjcyMz
+EzLC02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NTcs
+LTE5NTY3OTI5MzJdfQ==
 -->
