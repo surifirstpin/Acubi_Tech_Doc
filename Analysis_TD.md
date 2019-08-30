@@ -64,11 +64,11 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
-|is not null                   | should not be equal to null value                          |                
-|is null                       | should be equal to null value                              |                                           
-|not empty                     | data is not empty                                          |
-|is empty                      | data is empty                                              |
-|equal                         | data equal to specified value                              |
+|<b>is not null</b>                   | should not be equal to null value                          |                
+|<b>is null</b>                       | should be equal to null value                              |                                           
+|<b>not empty</b>                     | data is not empty                                          |
+|<b>is empty</b>                      | data is empty                                              |
+|<b>equal                         | data equal to specified value                              |
 |not equal                     | data not equal to specified value                          |
 |in                            | data equal to specified values                             |
 |not in                        | data not equal to specified values                         |
@@ -356,11 +356,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTYzOTcwNSwxNDk4NjI4ODQ5LC0xMD
-M4MzQ3ODUsLTEwMzgwODEzOTMsLTIxMTI4MzYzMjgsMTc0NDQy
-NzQ0LC0xNTI5MDc5MjIyLC0xMDE4NDkzNzY1LDE2NTU4Nzc0Nz
-csNzE3Mjg1Mjc2LC05NTAxNDk2ODksLTE1MzEzMTU4MTUsLTEy
-NDUwMzUwNjksOTk3MTM5OTA3LC0xMjY4ODA1ODMzLDU5NTY3Mj
-MxMywtNjc0NDU5NDI1LC0xNTY4MjQxMTIzLC0xNzc1MDQwNjU3
-LC0xOTU2NzkyOTMyXX0=
+eyJoaXN0b3J5IjpbMzI4MTc3OTk5LDE0OTg2Mjg4NDksLTEwMz
+gzNDc4NSwtMTAzODA4MTM5MywtMjExMjgzNjMyOCwxNzQ0NDI3
+NDQsLTE1MjkwNzkyMjIsLTEwMTg0OTM3NjUsMTY1NTg3NzQ3Ny
+w3MTcyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNTgxNSwtMTI0
+NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNTk1NjcyMz
+EzLC02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NTcs
+LTE5NTY3OTI5MzJdfQ==
 -->
