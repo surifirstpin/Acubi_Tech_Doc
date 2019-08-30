@@ -68,14 +68,14 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 |<b>is null</b>                       | should be equal to null value                              |                                           
 |<b>not empty</b>                     | data is not empty                                          |
 |<b>is empty</b>                      | data is empty                                              |
-|<b>equal                         | data equal to specified value                              |
-|not equal                     | data not equal to specified value                          |
-|in                            | data equal to specified values                             |
-|not in                        | data not equal to specified values                         |
-|less                          | data less than specified value                             |
-|less or equal                 | data less than or equal to specified value                 |
-|greater                       | data greater than specified value                          |
-|greater or equal              | data greater than or equal to specified value              |
+|<b>equal</b>                         | data equal to specified value                              |
+|<b>not equal</b>                     | data not equal to specified value                          |
+|<b>in</b>                            | data equal to specified values                             |
+|<b>not in</b>                        | data not equal to specified values                         |
+|<b>less</b>                          | data less than specified value                             |
+|<b>less or equal</b>                 | data less than or equal to specified value                 |
+|<b>greater</b>                       | data greater than specified value                          |
+|<b>greater or equal</b>              | data greater than or equal to specified value              |
 |between                       | data in between the specified range                        |
 |not between                   | data not in between the specified range                    |
 
@@ -356,11 +356,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4MTc3OTk5LDE0OTg2Mjg4NDksLTEwMz
-gzNDc4NSwtMTAzODA4MTM5MywtMjExMjgzNjMyOCwxNzQ0NDI3
-NDQsLTE1MjkwNzkyMjIsLTEwMTg0OTM3NjUsMTY1NTg3NzQ3Ny
-w3MTcyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNTgxNSwtMTI0
-NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNTk1NjcyMz
-EzLC02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NTcs
-LTE5NTY3OTI5MzJdfQ==
+eyJoaXN0b3J5IjpbMTU0MTA0NDcxOSwxNDk4NjI4ODQ5LC0xMD
+M4MzQ3ODUsLTEwMzgwODEzOTMsLTIxMTI4MzYzMjgsMTc0NDQy
+NzQ0LC0xNTI5MDc5MjIyLC0xMDE4NDkzNzY1LDE2NTU4Nzc0Nz
+csNzE3Mjg1Mjc2LC05NTAxNDk2ODksLTE1MzEzMTU4MTUsLTEy
+NDUwMzUwNjksOTk3MTM5OTA3LC0xMjY4ODA1ODMzLDU5NTY3Mj
+MxMywtNjc0NDU5NDI1LC0xNTY4MjQxMTIzLC0xNzc1MDQwNjU3
+LC0xOTU2NzkyOTMyXX0=
 -->
