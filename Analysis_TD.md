@@ -3,7 +3,7 @@
 
 <b>Reports</b> are the starting point for building a query.  it is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
-<b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs :</i></b>
+<b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs : </i></b>
  
 <b>1.</b> Click on <b>Reports Section</b> and select the desired <b>Project</b> and <b>Model</b> based on which the data is retrieved.
 
@@ -356,11 +356,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODQxMDg5OCwxNDk4NjI4ODQ5LC0xMD
-M4MzQ3ODUsLTEwMzgwODEzOTMsLTIxMTI4MzYzMjgsMTc0NDQy
-NzQ0LC0xNTI5MDc5MjIyLC0xMDE4NDkzNzY1LDE2NTU4Nzc0Nz
-csNzE3Mjg1Mjc2LC05NTAxNDk2ODksLTE1MzEzMTU4MTUsLTEy
-NDUwMzUwNjksOTk3MTM5OTA3LC0xMjY4ODA1ODMzLDU5NTY3Mj
-MxMywtNjc0NDU5NDI1LC0xNTY4MjQxMTIzLC0xNzc1MDQwNjU3
-LC0xOTU2NzkyOTMyXX0=
+eyJoaXN0b3J5IjpbLTEwNzY2NjU0ODYsMjEwODQxMDg5OCwxND
+k4NjI4ODQ5LC0xMDM4MzQ3ODUsLTEwMzgwODEzOTMsLTIxMTI4
+MzYzMjgsMTc0NDQyNzQ0LC0xNTI5MDc5MjIyLC0xMDE4NDkzNz
+Y1LDE2NTU4Nzc0NzcsNzE3Mjg1Mjc2LC05NTAxNDk2ODksLTE1
+MzEzMTU4MTUsLTEyNDUwMzUwNjksOTk3MTM5OTA3LC0xMjY4OD
+A1ODMzLDU5NTY3MjMxMywtNjc0NDU5NDI1LC0xNTY4MjQxMTIz
+LC0xNzc1MDQwNjU3XX0=
 -->
