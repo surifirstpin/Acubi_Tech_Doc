@@ -108,7 +108,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 <b><i><u>To carry out this function, follow the below steps:</u></i></b>
 
-<b>a.</b>  Apply hidden filters to dimension.(Start_date_month)
+<b>a.</b>  Apply hidden filters to dimension.( Wayused )
 
 <b>b.</b> Fields to which hidden filters applied are visible in filter expression of filter section.
 
@@ -358,11 +358,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NTk3NTQzLDE3Mjg0ODk2NDQsLTUxOD
-U4NzA3OCwtMTA3NjY2NTQ4NiwyMTA4NDEwODk4LDE0OTg2Mjg4
-NDksLTEwMzgzNDc4NSwtMTAzODA4MTM5MywtMjExMjgzNjMyOC
-wxNzQ0NDI3NDQsLTE1MjkwNzkyMjIsLTEwMTg0OTM3NjUsMTY1
-NTg3NzQ3Nyw3MTcyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNT
-gxNSwtMTI0NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMs
-NTk1NjcyMzEzXX0=
+eyJoaXN0b3J5IjpbLTE2NTIwMDUzOTcsODk2NTk3NTQzLDE3Mj
+g0ODk2NDQsLTUxODU4NzA3OCwtMTA3NjY2NTQ4NiwyMTA4NDEw
+ODk4LDE0OTg2Mjg4NDksLTEwMzgzNDc4NSwtMTAzODA4MTM5My
+wtMjExMjgzNjMyOCwxNzQ0NDI3NDQsLTE1MjkwNzkyMjIsLTEw
+MTg0OTM3NjUsMTY1NTg3NzQ3Nyw3MTcyODUyNzYsLTk1MDE0OT
+Y4OSwtMTUzMTMxNTgxNSwtMTI0NTAzNTA2OSw5OTcxMzk5MDcs
+LTEyNjg4MDU4MzNdfQ==
 -->
